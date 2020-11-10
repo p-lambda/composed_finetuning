@@ -1,0 +1,25 @@
+2
+7 4
+###ENDINPUT###
+2
+###ENDOUTPUT###
+7
+7 4 47 100 4 9 12
+###ENDINPUT###
+Still Rozdil
+###ENDOUTPUT###
+1
+47
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2
+1000000000 1000000000
+###ENDINPUT###
+Still Rozdil
+###ENDOUTPUT###
+7
+7 6 5 4 3 2 1
+###ENDINPUT###
+7
+###ENDOUTPUT###

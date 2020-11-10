@@ -1,0 +1,312 @@
+2 3
+4 2
+5 7 6
+###ENDINPUT###
+25
+###ENDOUTPUT###
+8 8
+1 2 3 4 5 6 7 8
+8 7 6 5 4 3 2 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+1 1
+9
+1
+###ENDINPUT###
+19
+###ENDOUTPUT###
+9 1
+5 4 2 3 6 1 7 9 8
+9
+###ENDINPUT###
+9
+###ENDOUTPUT###
+5 3
+7 2 5 8 6
+3 1 9
+###ENDINPUT###
+12
+###ENDOUTPUT###
+4 5
+5 2 6 4
+8 9 1 3 7
+###ENDINPUT###
+12
+###ENDOUTPUT###
+5 9
+4 2 1 6 7
+2 3 4 5 6 7 8 9 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+9 9
+5 4 3 2 1 6 7 8 9
+3 2 1 5 4 7 8 9 6
+###ENDINPUT###
+1
+###ENDOUTPUT###
+9 5
+2 3 4 5 6 7 8 9 1
+4 2 1 6 7
+###ENDINPUT###
+1
+###ENDOUTPUT###
+9 9
+1 2 3 4 5 6 7 8 9
+1 2 3 4 5 6 7 8 9
+###ENDINPUT###
+1
+###ENDOUTPUT###
+9 9
+1 2 3 4 5 6 7 8 9
+9 8 7 6 5 4 3 2 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+9 9
+9 8 7 6 5 4 3 2 1
+1 2 3 4 5 6 7 8 9
+###ENDINPUT###
+1
+###ENDOUTPUT###
+9 9
+9 8 7 6 5 4 3 2 1
+9 8 7 6 5 4 3 2 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+1 1
+8
+9
+###ENDINPUT###
+89
+###ENDOUTPUT###
+1 1
+9
+8
+###ENDINPUT###
+89
+###ENDOUTPUT###
+1 1
+1
+2
+###ENDINPUT###
+12
+###ENDOUTPUT###
+1 1
+2
+1
+###ENDINPUT###
+12
+###ENDOUTPUT###
+1 1
+9
+9
+###ENDINPUT###
+9
+###ENDOUTPUT###
+1 1
+1
+1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+4 5
+3 2 4 5
+1 6 5 9 8
+###ENDINPUT###
+5
+###ENDOUTPUT###
+3 2
+4 5 6
+1 5
+###ENDINPUT###
+5
+###ENDOUTPUT###
+5 4
+1 3 5 6 7
+2 4 3 9
+###ENDINPUT###
+3
+###ENDOUTPUT###
+5 5
+1 3 5 7 9
+2 4 6 8 9
+###ENDINPUT###
+9
+###ENDOUTPUT###
+2 2
+1 8
+2 8
+###ENDINPUT###
+8
+###ENDOUTPUT###
+5 5
+5 6 7 8 9
+1 2 3 4 5
+###ENDINPUT###
+5
+###ENDOUTPUT###
+5 5
+1 2 3 4 5
+1 2 3 4 5
+###ENDINPUT###
+1
+###ENDOUTPUT###
+5 5
+1 2 3 4 5
+2 3 4 5 6
+###ENDINPUT###
+2
+###ENDOUTPUT###
+2 2
+1 5
+2 5
+###ENDINPUT###
+5
+###ENDOUTPUT###
+4 4
+1 3 5 8
+2 4 6 8
+###ENDINPUT###
+8
+###ENDOUTPUT###
+3 3
+1 5 3
+2 5 7
+###ENDINPUT###
+5
+###ENDOUTPUT###
+3 3
+3 6 8
+2 6 9
+###ENDINPUT###
+6
+###ENDOUTPUT###
+2 2
+1 4
+2 4
+###ENDINPUT###
+4
+###ENDOUTPUT###
+5 3
+3 4 5 6 7
+1 5 9
+###ENDINPUT###
+5
+###ENDOUTPUT###
+4 4
+1 2 3 4
+2 5 6 7
+###ENDINPUT###
+2
+###ENDOUTPUT###
+5 5
+1 2 3 4 5
+9 2 1 7 5
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2 2
+1 3
+2 3
+###ENDINPUT###
+3
+###ENDOUTPUT###
+3 3
+3 2 1
+3 2 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+3 3
+1 3 5
+2 3 6
+###ENDINPUT###
+3
+###ENDOUTPUT###
+3 3
+5 6 7
+5 6 7
+###ENDINPUT###
+5
+###ENDOUTPUT###
+1 2
+5
+2 5
+###ENDINPUT###
+5
+###ENDOUTPUT###
+3 3
+2 4 9
+7 8 9
+###ENDINPUT###
+9
+###ENDOUTPUT###
+3 3
+1 2 4
+3 4 5
+###ENDINPUT###
+4
+###ENDOUTPUT###
+3 2
+1 4 9
+2 4
+###ENDINPUT###
+4
+###ENDOUTPUT###
+3 3
+3 5 6
+1 5 9
+###ENDINPUT###
+5
+###ENDOUTPUT###
+3 2
+1 2 4
+3 4
+###ENDINPUT###
+4
+###ENDOUTPUT###
+2 4
+8 9
+1 2 3 9
+###ENDINPUT###
+9
+###ENDOUTPUT###
+1 2
+9
+8 9
+###ENDINPUT###
+9
+###ENDOUTPUT###
+3 2
+1 2 4
+4 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+2 3
+4 5
+1 3 5
+###ENDINPUT###
+5
+###ENDOUTPUT###
+3 2
+1 2 3
+2 3
+###ENDINPUT###
+2
+###ENDOUTPUT###
+4 3
+1 3 5 9
+2 8 9
+###ENDINPUT###
+9
+###ENDOUTPUT###
+2 2
+1 9
+9 2
+###ENDINPUT###
+9
+###ENDOUTPUT###

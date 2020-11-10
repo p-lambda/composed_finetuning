@@ -1,0 +1,20 @@
+galileo galilei was an   italian physicist  ,mathematician,astronomer
+###ENDINPUT###
+galileo galilei was an italian physicist, mathematician, astronomer
+###ENDOUTPUT###
+galileo  was  born  in  pisa
+###ENDINPUT###
+galileo was born in pisa
+###ENDOUTPUT###
+jkhksdfhsdfsf
+###ENDINPUT###
+jkhksdfhsdfsf
+###ENDOUTPUT###
+a a a a a
+###ENDINPUT###
+a a a a a
+###ENDOUTPUT###
+ksdfk sdlfsdf sdf sdf sdf
+###ENDINPUT###
+ksdfk sdlfsdf sdf sdf sdf
+###ENDOUTPUT###

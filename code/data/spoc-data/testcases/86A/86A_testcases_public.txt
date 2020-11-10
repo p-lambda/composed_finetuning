@@ -1,0 +1,20 @@
+3 7
+###ENDINPUT###
+20
+###ENDOUTPUT###
+1 1
+###ENDINPUT###
+8
+###ENDOUTPUT###
+8 10
+###ENDINPUT###
+890
+###ENDOUTPUT###
+4 6
+###ENDINPUT###
+20
+###ENDOUTPUT###
+10 100
+###ENDINPUT###
+89900
+###ENDOUTPUT###

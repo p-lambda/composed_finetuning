@@ -1,0 +1,48 @@
+3 5
+2 2 2 3 2
+0 0 0 1 0
+1 1 1 2 1
+###ENDINPUT###
+4
+row 1
+row 1
+row 3
+col 4
+###ENDOUTPUT###
+3 3
+0 0 0
+0 1 0
+0 0 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 3
+1 1 1
+1 1 1
+1 1 1
+###ENDINPUT###
+3
+row 1
+row 2
+row 3
+###ENDOUTPUT###
+3 5
+2 4 2 2 3
+0 2 0 0 1
+1 3 1 1 2
+###ENDINPUT###
+6
+row 1
+row 1
+row 3
+col 2
+col 2
+col 5
+###ENDOUTPUT###
+3 5
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###

@@ -1,0 +1,25 @@
+5
+a aa aaa ab abb
+###ENDINPUT###
+2
+###ENDOUTPUT###
+3
+amer arem mrea
+###ENDINPUT###
+1
+###ENDOUTPUT###
+10
+bda bbb cda dca dda dcb bcd dcb ada ddd
+###ENDINPUT###
+6
+###ENDOUTPUT###
+2
+fhjlqs aceginpr
+###ENDINPUT###
+2
+###ENDOUTPUT###
+2
+bcdfghimn efghijlmo
+###ENDINPUT###
+2
+###ENDOUTPUT###

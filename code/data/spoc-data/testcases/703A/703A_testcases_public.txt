@@ -1,0 +1,42 @@
+3
+3 5
+2 1
+4 2
+###ENDINPUT###
+Mishka
+###ENDOUTPUT###
+2
+6 1
+1 6
+###ENDINPUT###
+Friendship is magic!^^
+###ENDOUTPUT###
+3
+1 5
+3 3
+2 2
+###ENDINPUT###
+Chris
+###ENDOUTPUT###
+6
+4 1
+4 2
+5 3
+5 1
+5 3
+4 1
+###ENDINPUT###
+Mishka
+###ENDOUTPUT###
+8
+2 4
+1 4
+1 5
+2 6
+2 5
+2 5
+2 4
+2 5
+###ENDINPUT###
+Chris
+###ENDOUTPUT###

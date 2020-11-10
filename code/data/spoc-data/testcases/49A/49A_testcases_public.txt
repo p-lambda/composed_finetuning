@@ -1,0 +1,20 @@
+Is it a melon?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+Is it an apple?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+  Is     it a banana ?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+Is   it an apple  and a  banana   simultaneouSLY?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+oHtSbDwzHb?
+###ENDINPUT###
+NO
+###ENDOUTPUT###

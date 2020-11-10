@@ -1,0 +1,155 @@
+2
+6 12 10
+4 3 10
+###ENDINPUT###
+Finite
+Infinite
+###ENDOUTPUT###
+4
+1 1 2
+9 36 2
+4 12 3
+3 5 4
+###ENDINPUT###
+Finite
+Finite
+Finite
+Infinite
+###ENDOUTPUT###
+10
+10 5 3
+1 7 10
+7 5 7
+4 4 9
+6 5 2
+6 7 5
+9 9 7
+7 5 5
+6 6 4
+10 8 2
+###ENDINPUT###
+Finite
+Infinite
+Infinite
+Finite
+Infinite
+Infinite
+Finite
+Finite
+Finite
+Finite
+###ENDOUTPUT###
+10
+1 3 10
+6 2 6
+2 3 9
+7 8 4
+5 6 10
+1 2 7
+0 3 6
+9 3 4
+4 4 9
+10 9 10
+###ENDINPUT###
+Infinite
+Finite
+Finite
+Finite
+Infinite
+Infinite
+Finite
+Finite
+Finite
+Infinite
+###ENDOUTPUT###
+10
+10 8 5
+0 6 9
+0 7 6
+5 7 3
+7 6 8
+0 4 8
+2 6 3
+10 2 9
+6 7 9
+9 1 4
+###ENDINPUT###
+Infinite
+Finite
+Finite
+Infinite
+Infinite
+Finite
+Finite
+Finite
+Infinite
+Finite
+###ENDOUTPUT###
+10
+5 8 2
+0 5 8
+5 9 7
+0 7 2
+6 7 2
+10 3 7
+8 1 10
+9 1 8
+0 7 10
+9 1 4
+###ENDINPUT###
+Finite
+Finite
+Infinite
+Finite
+Infinite
+Infinite
+Finite
+Finite
+Finite
+Finite
+###ENDOUTPUT###
+1
+1 864691128455135232 2
+###ENDINPUT###
+Infinite
+###ENDOUTPUT###
+11
+1 1000000000000000000 10000000
+2 999 9
+2 999 333111
+0 9 7
+17 128 2
+13 311992186885373952 18
+1971402979058461 750473176484995605 75
+14 19 23
+3 21914624432020321 23
+3 21914624432020321 46
+3 21914624432020321 47
+###ENDINPUT###
+Finite
+Infinite
+Finite
+Finite
+Finite
+Finite
+Finite
+Infinite
+Finite
+Finite
+Infinite
+###ENDOUTPUT###
+1
+1 100000000000000000 10000000000000000
+###ENDINPUT###
+Finite
+###ENDOUTPUT###
+1
+1 4294967297 4294967296
+###ENDINPUT###
+Infinite
+###ENDOUTPUT###
+1
+1 5244319080000 30030
+###ENDINPUT###
+Finite
+###ENDOUTPUT###

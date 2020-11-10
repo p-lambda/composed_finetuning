@@ -1,0 +1,55 @@
+4
+###ENDINPUT###
+YES
+1 * 2 = 2
+2 * 3 = 6
+6 * 4 = 24
+###ENDOUTPUT###
+5
+###ENDINPUT###
+YES
+2 - 1 = 1
+1 + 3 = 4
+4 * 5 = 20
+20 + 4 = 24
+###ENDOUTPUT###
+6
+###ENDINPUT###
+YES
+1 * 2 = 2
+2 * 3 = 6
+6 * 4 = 24
+6 - 5 = 1
+1 * 24 = 24
+###ENDOUTPUT###
+7
+###ENDINPUT###
+YES
+2 - 1 = 1
+1 + 3 = 4
+4 * 5 = 20
+20 + 4 = 24
+7 - 6 = 1
+1 * 24 = 24
+###ENDOUTPUT###
+4
+###ENDINPUT###
+YES
+1 * 2 = 2
+2 * 3 = 6
+6 * 4 = 24
+###ENDOUTPUT###
+7
+###ENDINPUT###
+YES
+2 - 1 = 1
+1 + 3 = 4
+4 * 5 = 20
+20 + 4 = 24
+7 - 6 = 1
+1 * 24 = 24
+###ENDOUTPUT###
+3
+###ENDINPUT###
+NO
+###ENDOUTPUT###

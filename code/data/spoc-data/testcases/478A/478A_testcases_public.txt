@@ -1,0 +1,20 @@
+2 5 4 0 4
+###ENDINPUT###
+3
+###ENDOUTPUT###
+4 5 9 2 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+0 0 0 0 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1 2 1 2 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+100 0 0 0 0
+###ENDINPUT###
+20
+###ENDOUTPUT###

@@ -1,0 +1,217 @@
+iii iiiiii
+7
+iii iiiiiiiiii
+iiiiiiiiii iiii
+iiii i
+iiiiii iiiiiiii
+iiiiiiii iiiiiiiii
+i iiiii
+iiiii ii
+###ENDINPUT###
+iii iiiiii
+iiiiiiiiii iiiiii
+iiii iiiiii
+i iiiiii
+i iiiiiiii
+i iiiiiiiii
+iiiii iiiiiiiii
+ii iiiiiiiii
+###ENDOUTPUT###
+bwyplnjn zkms
+26
+zkms nzmcsytxh
+nzmcsytxh yujsb
+bwyplnjn gtbzhudpb
+gtbzhudpb hpk
+yujsb xvy
+hpk wrwnfokml
+wrwnfokml ndouuikw
+ndouuikw ucgrja
+ucgrja tgfmpldz
+xvy nycrfphn
+nycrfphn quvs
+quvs htdy
+htdy k
+tgfmpldz xtdpkxm
+xtdpkxm suwqxs
+k fv
+suwqxs qckllwy
+qckllwy diun
+fv lefa
+lefa gdoqjysx
+diun dhpz
+gdoqjysx bdmqdyt
+dhpz dgz
+dgz v
+bdmqdyt aswy
+aswy ydkayhlrnm
+###ENDINPUT###
+bwyplnjn zkms
+bwyplnjn nzmcsytxh
+bwyplnjn yujsb
+gtbzhudpb yujsb
+hpk yujsb
+hpk xvy
+wrwnfokml xvy
+ndouuikw xvy
+ucgrja xvy
+tgfmpldz xvy
+tgfmpldz nycrfphn
+tgfmpldz quvs
+tgfmpldz htdy
+tgfmpldz k
+xtdpkxm k
+suwqxs k
+suwqxs fv
+qckllwy fv
+diun fv
+diun lefa
+diun gdoqjysx
+dhpz gdoqjysx
+dhpz bdmqdyt
+dgz bdmqdyt
+v bdmqdyt
+v aswy
+v ydkayhlrnm
+###ENDOUTPUT###
+wxz hbeqwqp
+7
+hbeqwqp cpieghnszh
+cpieghnszh tlqrpd
+tlqrpd ttwrtio
+ttwrtio xapvds
+xapvds zk
+wxz yryk
+zk b
+###ENDINPUT###
+wxz hbeqwqp
+wxz cpieghnszh
+wxz tlqrpd
+wxz ttwrtio
+wxz xapvds
+wxz zk
+yryk zk
+yryk b
+###ENDOUTPUT###
+wced gnsgv
+23
+gnsgv japawpaf
+japawpaf nnvpeu
+nnvpeu a
+a ddupputljq
+ddupputljq qyhnvbh
+qyhnvbh pqwijl
+wced khuvs
+khuvs bjkh
+pqwijl ysacmboc
+bjkh srf
+srf jknoz
+jknoz hodf
+ysacmboc xqtkoyh
+hodf rfp
+xqtkoyh bivgnwqvoe
+bivgnwqvoe nknf
+nknf wuig
+rfp e
+e bqqknq
+wuig sznhhhu
+bqqknq dhrtdld
+dhrtdld n
+sznhhhu bguylf
+###ENDINPUT###
+wced gnsgv
+wced japawpaf
+wced nnvpeu
+wced a
+wced ddupputljq
+wced qyhnvbh
+wced pqwijl
+khuvs pqwijl
+bjkh pqwijl
+bjkh ysacmboc
+srf ysacmboc
+jknoz ysacmboc
+hodf ysacmboc
+hodf xqtkoyh
+rfp xqtkoyh
+rfp bivgnwqvoe
+rfp nknf
+rfp wuig
+e wuig
+bqqknq wuig
+bqqknq sznhhhu
+dhrtdld sznhhhu
+n sznhhhu
+n bguylf
+###ENDOUTPUT###
+qqqqqqqqqq qqqqqqqq
+3
+qqqqqqqq qqqqqqqqq
+qqqqqqqqq qqqqq
+qqqqq q
+###ENDINPUT###
+qqqqqqqqqq qqqqqqqq
+qqqqqqqqqq qqqqqqqqq
+qqqqqqqqqq qqqqq
+qqqqqqqqqq q
+###ENDOUTPUT###
+wwwww w
+8
+wwwww wwwwwwww
+wwwwwwww wwwwwwwww
+wwwwwwwww wwwwwwwwww
+w www
+wwwwwwwwww wwww
+wwww ww
+www wwwwww
+wwwwww wwwwwww
+###ENDINPUT###
+wwwww w
+wwwwwwww w
+wwwwwwwww w
+wwwwwwwwww w
+wwwwwwwwww www
+wwww www
+ww www
+ww wwwwww
+ww wwwwwww
+###ENDOUTPUT###
+k d
+17
+k l
+d v
+v z
+l r
+z i
+r s
+s p
+p w
+w j
+j h
+i c
+h m
+m q
+c o
+o g
+q x
+x n
+###ENDINPUT###
+k d
+l d
+l v
+l z
+r z
+r i
+s i
+p i
+w i
+j i
+h i
+h c
+m c
+q c
+q o
+q g
+x g
+n g
+###ENDOUTPUT###

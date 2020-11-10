@@ -1,0 +1,37 @@
+3 4
+S...
+....
+..S.
+###ENDINPUT###
+8
+###ENDOUTPUT###
+2 2
+..
+..
+###ENDINPUT###
+4
+###ENDOUTPUT###
+2 2
+SS
+SS
+###ENDINPUT###
+0
+###ENDOUTPUT###
+7 3
+S..
+S..
+S..
+S..
+S..
+S..
+S..
+###ENDINPUT###
+14
+###ENDOUTPUT###
+3 5
+..S..
+SSSSS
+..S..
+###ENDINPUT###
+0
+###ENDOUTPUT###

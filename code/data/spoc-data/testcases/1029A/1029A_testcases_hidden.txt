@@ -1,0 +1,350 @@
+47 1
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+###ENDINPUT###
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+###ENDOUTPUT###
+25 24
+kyzdckyzdckyzdckyzdckyzdc
+###ENDINPUT###
+kyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdckyzdc
+###ENDOUTPUT###
+4 25
+lclc
+###ENDINPUT###
+lclclclclclclclclclclclclclclclclclclclclclclclclclc
+###ENDOUTPUT###
+5 34
+abcab
+###ENDINPUT###
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcab
+###ENDOUTPUT###
+8 3
+abcaabca
+###ENDINPUT###
+abcaabcaabcaabca
+###ENDOUTPUT###
+4 4
+aaaa
+###ENDINPUT###
+aaaaaaa
+###ENDOUTPUT###
+9 2
+cccababbc
+###ENDINPUT###
+cccababbcccababbc
+###ENDOUTPUT###
+3 6
+aaa
+###ENDINPUT###
+aaaaaaaa
+###ENDOUTPUT###
+3 5
+aaa
+###ENDINPUT###
+aaaaaaa
+###ENDOUTPUT###
+24 20
+baacaabccacbcbccccbbcabb
+###ENDINPUT###
+baacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabbaacaabccacbcbccccbbcabb
+###ENDOUTPUT###
+6 2
+abcaba
+###ENDINPUT###
+abcababcaba
+###ENDOUTPUT###
+6 3
+aabbaa
+###ENDINPUT###
+aabbaabbaabbaa
+###ENDOUTPUT###
+6 3
+abaaba
+###ENDINPUT###
+abaabaabaaba
+###ENDOUTPUT###
+3 4
+aaa
+###ENDINPUT###
+aaaaaa
+###ENDOUTPUT###
+4 3
+abaa
+###ENDINPUT###
+abaabaabaa
+###ENDOUTPUT###
+8 2
+caacdcaa
+###ENDINPUT###
+caacdcaacdcaa
+###ENDOUTPUT###
+6 3
+abcaba
+###ENDINPUT###
+abcababcababcaba
+###ENDOUTPUT###
+8 4
+cababbcc
+###ENDINPUT###
+cababbccababbccababbccababbcc
+###ENDOUTPUT###
+4 2
+abac
+###ENDINPUT###
+abacabac
+###ENDOUTPUT###
+4 2
+abaa
+###ENDINPUT###
+abaabaa
+###ENDOUTPUT###
+11 2
+aaabaacdaaa
+###ENDINPUT###
+aaabaacdaaabaacdaaa
+###ENDOUTPUT###
+7 2
+abcabca
+###ENDINPUT###
+abcabcabca
+###ENDOUTPUT###
+18 9
+aabaabcbbabaaccbac
+###ENDINPUT###
+aabaabcbbabaaccbacaabaabcbbabaaccbacaabaabcbbabaaccbacaabaabcbbabaaccbacaabaabcbbabaaccbacaabaabcbbabaaccbacaabaabcbbabaaccbacaabaabcbbabaaccbacaabaabcbbabaaccbac
+###ENDOUTPUT###
+9 2
+ababbaaba
+###ENDINPUT###
+ababbaababbaaba
+###ENDOUTPUT###
+5 4
+aabaa
+###ENDINPUT###
+aabaabaabaabaa
+###ENDOUTPUT###
+4 5
+adaa
+###ENDINPUT###
+adaadaadaadaadaa
+###ENDOUTPUT###
+19 22
+cabacbbbaabccabaaca
+###ENDINPUT###
+cabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaacabacbbbaabccabaaca
+###ENDOUTPUT###
+2 4
+aa
+###ENDINPUT###
+aaaaa
+###ENDOUTPUT###
+5 2
+zxxzz
+###ENDINPUT###
+zxxzzxxzz
+###ENDOUTPUT###
+2 2
+oo
+###ENDINPUT###
+ooo
+###ENDOUTPUT###
+10 2
+ababaababa
+###ENDINPUT###
+ababaababaababa
+###ENDOUTPUT###
+2 2
+aa
+###ENDINPUT###
+aaa
+###ENDOUTPUT###
+6 2
+abbaba
+###ENDINPUT###
+abbababbaba
+###ENDOUTPUT###
+11 2
+caaacddcaaa
+###ENDINPUT###
+caaacddcaaacddcaaa
+###ENDOUTPUT###
+4 2
+abba
+###ENDINPUT###
+abbabba
+###ENDOUTPUT###
+5 3
+aaaba
+###ENDINPUT###
+aaabaaabaaaba
+###ENDOUTPUT###
+4 3
+aaaa
+###ENDINPUT###
+aaaaaa
+###ENDOUTPUT###
+5 2
+abaca
+###ENDINPUT###
+abacabaca
+###ENDOUTPUT###
+5 4
+aaaaa
+###ENDINPUT###
+aaaaaaaa
+###ENDOUTPUT###
+4 2
+xxxb
+###ENDINPUT###
+xxxbxxxb
+###ENDOUTPUT###
+4 5
+abaa
+###ENDINPUT###
+abaabaabaabaabaa
+###ENDOUTPUT###
+5 3
+aaaaa
+###ENDINPUT###
+aaaaaaa
+###ENDOUTPUT###
+7 2
+abcabcc
+###ENDINPUT###
+abcabccabcabcc
+###ENDOUTPUT###
+8 4
+babbabab
+###ENDINPUT###
+babbababbababbababbabab
+###ENDOUTPUT###
+4 2
+aaab
+###ENDINPUT###
+aaabaaab
+###ENDOUTPUT###
+3 1
+aab
+###ENDINPUT###
+aab
+###ENDOUTPUT###
+3 2
+aab
+###ENDINPUT###
+aabaab
+###ENDOUTPUT###
+7 4
+aaaabba
+###ENDINPUT###
+aaaabbaaaabbaaaabbaaaabba
+###ENDOUTPUT###
+9 2
+aabaaaaba
+###ENDINPUT###
+aabaaaabaaaaba
+###ENDOUTPUT###
+4 2
+aaba
+###ENDINPUT###
+aabaaba
+###ENDOUTPUT###
+3 2
+abb
+###ENDINPUT###
+abbabb
+###ENDOUTPUT###
+3 2
+aaa
+###ENDINPUT###
+aaaa
+###ENDOUTPUT###
+9 2
+baabbaabb
+###ENDINPUT###
+baabbaabbaabb
+###ENDOUTPUT###
+9 4
+bbaaabbab
+###ENDINPUT###
+bbaaabbabbaaabbabbaaabbabbaaabbab
+###ENDOUTPUT###
+11 3
+abracadabra
+###ENDINPUT###
+abracadabracadabracadabra
+###ENDOUTPUT###
+2 1
+aa
+###ENDINPUT###
+aa
+###ENDOUTPUT###
+6 4
+cccacc
+###ENDINPUT###
+cccacccacccacccacc
+###ENDOUTPUT###
+6 12
+hmkkhh
+###ENDINPUT###
+hmkkhhmkkhhmkkhhmkkhhmkkhhmkkhhmkkhhmkkhhmkkhhmkkhhmkkhhmkkhh
+###ENDOUTPUT###
+3 1
+abb
+###ENDINPUT###
+abb
+###ENDOUTPUT###
+2 2
+ab
+###ENDINPUT###
+abab
+###ENDOUTPUT###
+15 27
+zteltxyxqqwgztz
+###ENDINPUT###
+zteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztzteltxyxqqwgztz
+###ENDOUTPUT###
+9 3
+aaaabcaaa
+###ENDINPUT###
+aaaabcaaaabcaaaabcaaa
+###ENDOUTPUT###
+3 1
+aba
+###ENDINPUT###
+aba
+###ENDOUTPUT###
+4 2
+aabb
+###ENDINPUT###
+aabbaabb
+###ENDOUTPUT###
+9 2
+babbabbab
+###ENDINPUT###
+babbabbabbab
+###ENDOUTPUT###
+5 3
+bbcbb
+###ENDINPUT###
+bbcbbcbbcbb
+###ENDOUTPUT###
+3 3
+aaa
+###ENDINPUT###
+aaaaa
+###ENDOUTPUT###
+4 2
+akaa
+###ENDINPUT###
+akaakaa
+###ENDOUTPUT###
+5 2
+aaaba
+###ENDINPUT###
+aaabaaaba
+###ENDOUTPUT###
+5 5
+abbab
+###ENDINPUT###
+abbabbabbabbabbab
+###ENDOUTPUT###

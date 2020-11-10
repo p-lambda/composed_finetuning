@@ -1,0 +1,20 @@
+100 200 250 150 200 250
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+100 50 50 200 200 100
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+100 10 200 20 300 30
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+1 1 0 1 1 1
+###ENDINPUT###
+Ron
+###ENDOUTPUT###

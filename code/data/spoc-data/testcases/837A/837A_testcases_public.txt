@@ -1,0 +1,25 @@
+7
+NonZERO
+###ENDINPUT###
+5
+###ENDOUTPUT###
+24
+this is zero answer text
+###ENDINPUT###
+0
+###ENDOUTPUT###
+24
+Harbour Space University
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2
+WM
+###ENDINPUT###
+2
+###ENDOUTPUT###
+200
+LBmJKQLCKUgtTxMoDsEerwvLOXsxASSydOqWyULsRcjMYDWdDCgaDvBfATIWPVSXlbcCLHPYahhxMEYUiaxoCebghJqvmRnaNHYTKLeOiaLDnATPZAOgSNfBzaxLymTGjfzvTegbXsAthTxyDTcmBUkqyGlVGZhoazQzVSoKbTFcCRvYsgSCwjGMxBfWEwMHuagTBxkz
+###ENDINPUT###
+105
+###ENDOUTPUT###

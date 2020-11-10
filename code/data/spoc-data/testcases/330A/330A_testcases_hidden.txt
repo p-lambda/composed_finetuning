@@ -1,0 +1,206 @@
+10 10
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+###ENDINPUT###
+0
+###ENDOUTPUT###
+10 10
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+###ENDINPUT###
+30
+###ENDOUTPUT###
+10 10
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+###ENDINPUT###
+80
+###ENDOUTPUT###
+9 5
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+###ENDINPUT###
+0
+###ENDOUTPUT###
+9 9
+...S.....
+S.S.....S
+.S....S..
+.S.....SS
+.........
+..S.S..S.
+.SS......
+....S....
+..S...S..
+###ENDINPUT###
+17
+###ENDOUTPUT###
+5 6
+SSSSSS
+SSSSSS
+SSSSSS
+SS.S..
+S.S.SS
+###ENDINPUT###
+0
+###ENDOUTPUT###
+9 8
+........
+.......S
+........
+S.......
+........
+........
+S.......
+........
+.......S
+###ENDINPUT###
+64
+###ENDOUTPUT###
+9 7
+......S
+......S
+S.S.S..
+.......
+.......
+.S.....
+.S....S
+..S....
+.S....S
+###ENDINPUT###
+28
+###ENDOUTPUT###
+10 10
+.....S....
+....SS..S.
+.S...S....
+........SS
+.S.......S
+SS..S.....
+.SS.....SS
+S..S......
+.......SSS
+SSSSS....S
+###ENDINPUT###
+10
+###ENDOUTPUT###
+6 7
+..S.SS.
+......S
+....S.S
+SS..S..
+S..SS.S
+.....S.
+###ENDINPUT###
+0
+###ENDOUTPUT###
+10 6
+.SSSSS
+SSS.SS
+SSSSSS
+S.SSSS
+SSSSS.
+S.SSSS
+SS.SSS
+.SSS.S
+.SSS..
+SS..SS
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+..
+..
+###ENDINPUT###
+4
+###ENDOUTPUT###
+3 2
+S.
+.S
+S.
+###ENDINPUT###
+0
+###ENDOUTPUT###
+3 2
+S.
+.S
+S.
+###ENDINPUT###
+0
+###ENDOUTPUT###
+4 3
+.S.
+S.S
+.S.
+S.S
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 3
+...
+SSS
+###ENDINPUT###
+3
+###ENDOUTPUT###
+2 4
+S.SS
+S.SS
+###ENDINPUT###
+2
+###ENDOUTPUT###
+2 2
+..
+.S
+###ENDINPUT###
+3
+###ENDOUTPUT###
+3 2
+.S
+.S
+SS
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 4
+SS.S
+..S.
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 3
+...
+S..
+###ENDINPUT###
+5
+###ENDOUTPUT###

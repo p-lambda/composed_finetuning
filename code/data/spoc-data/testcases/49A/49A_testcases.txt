@@ -1,0 +1,140 @@
+Is it a melon?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+Is it an apple?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+  Is     it a banana ?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+Is   it an apple  and a  banana   simultaneouSLY?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+oHtSbDwzHb?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+sZecYdUvZHrXx?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+uMtXK?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+U?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+aqFDkCUKeHMyvZFcAyWlMUSQTFomtaWjoKLVyxLCw vcufPBFbaljOuHWiDCROYTcmbgzbaqHXKPOYEbuEtRqqoxBbOETCsQzhw?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+dJcNqQiFXzcbsj fItCpBLyXOnrSBPebwyFHlxUJHqCUzzCmcAvMiKL NunwOXnKeIxUZmBVwiCUfPkjRAkTPbkYCmwRRnDSLaz?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+gxzXbdcAQMuFKuuiPohtMgeypr wpDIoDSyOYTdvylcg SoEBZjnMHHYZGEqKgCgBeTbyTwyGuPZxkxsnSczotBdYyfcQsOVDVC?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+FQXBisXaJFMiHFQlXjixBDMaQuIbyqSBKGsBfTmBKCjszlGVZxEOqYYqRTUkGpSDDAoOXyXcQbHcPaegeOUBNeSD JiKOdECPOF?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+YhCuZnrWUBEed?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+hh?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+whU?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+fgwg?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+GlEmEPKrYcOnBNJUIFjszWUyVdvWw DGDjoCMtRJUburkPToCyDrOtMr?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+n?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+BueDOlxgzeNlxrzRrMbKiQdmGujEKmGxclvaPpTuHmTqBp?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+iehvZNQXDGCuVmJPOEysLyUryTdfaIxIuTzTadDbqRQGoCLXkxnyfWSGoLXebNnQQNTqAQJebbyYvHOfpUnXeWdjx?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+                                                                                                J  ?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+       j                                                                                           ?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+                         o                           ?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+                                                              T             ?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+                      q             ?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+       j                                                                                     ?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+                                                   c  ?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+         B  ?
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+LuhxDHVwMPTtUIUMIQTuQETgXCOQPsfdFlyHvpfOVedjUTpGLAZGOHloIjJJtOLAlHPivzA?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+wmztmzFfwbGyOmNHENUFMTsFEMWYA?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+wGsfZCSwN PEUhNUrLfABrxA?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+mCDHENXjYbgMdBimAdPnewaHfpGWowjWrVAdvWczjw  iDcUbyzMsmsnwbviiKiAyGVA?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+ARIWnwqFqxsQXsXXzHqvFjxOCttAGPUzDtWzsenPYdNXuFOIUGYZsLLK IaoxiyjBBRThoelwdPTkuCQfcBLUEJpCPIrVZlvUWA?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+ PslvVpgpN BXkMFBEVXsyZFIQbBEFxGkYTeXKrOdcmhbiTUatYRUoYAayrchqbksswIlfIjerZPqptvCGnMUhyrQSvwltRhFzA?
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+HpBkttwSjBXDmyleGiRWNUMPaAIE uzTrp KJDzaUiCdsMYOoWKHoUhWUoecCPmACymMUUbGav UMRpCytPETwNFAObZJA?
+###ENDINPUT###
+YES
+###ENDOUTPUT###

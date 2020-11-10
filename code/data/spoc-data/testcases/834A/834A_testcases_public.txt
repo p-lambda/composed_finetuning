@@ -1,0 +1,25 @@
+^ >
+1
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+< ^
+3
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+^ v
+6
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ >
+999999999
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+> v
+1
+###ENDINPUT###
+cw
+###ENDOUTPUT###

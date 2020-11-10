@@ -1,0 +1,25 @@
+5 3
+xyabd
+###ENDINPUT###
+29
+###ENDOUTPUT###
+7 4
+problem
+###ENDINPUT###
+34
+###ENDOUTPUT###
+2 2
+ab
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 1
+abaabbaaabbb
+###ENDINPUT###
+1
+###ENDOUTPUT###
+50 13
+qwertyuiopasdfghjklzxcvbnmaaaaaaaaaaaaaaaaaaaaaaaa
+###ENDINPUT###
+169
+###ENDOUTPUT###

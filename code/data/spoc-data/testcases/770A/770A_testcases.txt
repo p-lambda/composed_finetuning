@@ -1,0 +1,188 @@
+4 3
+###ENDINPUT###
+abca
+###ENDOUTPUT###
+6 6
+###ENDINPUT###
+abcdef
+###ENDOUTPUT###
+5 2
+###ENDINPUT###
+ababa
+###ENDOUTPUT###
+3 2
+###ENDINPUT###
+aba
+###ENDOUTPUT###
+10 2
+###ENDINPUT###
+ababababab
+###ENDOUTPUT###
+26 13
+###ENDINPUT###
+abcdefghijklmabcdefghijklm
+###ENDOUTPUT###
+100 2
+###ENDINPUT###
+abababababababababababababababababababababababababababababababababababababababababababababababababab
+###ENDOUTPUT###
+100 10
+###ENDINPUT###
+abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij
+###ENDOUTPUT###
+3 3
+###ENDINPUT###
+abc
+###ENDOUTPUT###
+6 3
+###ENDINPUT###
+abcabc
+###ENDOUTPUT###
+10 3
+###ENDINPUT###
+abcabcabca
+###ENDOUTPUT###
+50 3
+###ENDINPUT###
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcab
+###ENDOUTPUT###
+90 2
+###ENDINPUT###
+ababababababababababababababababababababababababababababababababababababababababababababab
+###ENDOUTPUT###
+6 2
+###ENDINPUT###
+ababab
+###ENDOUTPUT###
+99 3
+###ENDINPUT###
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+###ENDOUTPUT###
+4 2
+###ENDINPUT###
+abab
+###ENDOUTPUT###
+100 3
+###ENDINPUT###
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabca
+###ENDOUTPUT###
+40 22
+###ENDINPUT###
+abcdefghijklmnopqrstuvabcdefghijklmnopqr
+###ENDOUTPUT###
+13 8
+###ENDINPUT###
+abcdefghabcde
+###ENDOUTPUT###
+16 15
+###ENDINPUT###
+abcdefghijklmnoa
+###ENDOUTPUT###
+17 17
+###ENDINPUT###
+abcdefghijklmnopq
+###ENDOUTPUT###
+19 4
+###ENDINPUT###
+abcdabcdabcdabcdabc
+###ENDOUTPUT###
+100 26
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuv
+###ENDOUTPUT###
+100 25
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxy
+###ENDOUTPUT###
+26 26
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxyz
+###ENDOUTPUT###
+27 26
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxyza
+###ENDOUTPUT###
+2 2
+###ENDINPUT###
+ab
+###ENDOUTPUT###
+26 25
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxya
+###ENDOUTPUT###
+99 2
+###ENDINPUT###
+abababababababababababababababababababababababababababababababababababababababababababababababababa
+###ENDOUTPUT###
+99 26
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstu
+###ENDOUTPUT###
+4 4
+###ENDINPUT###
+abcd
+###ENDOUTPUT###
+5 3
+###ENDINPUT###
+abcab
+###ENDOUTPUT###
+5 4
+###ENDINPUT###
+abcda
+###ENDOUTPUT###
+5 5
+###ENDINPUT###
+abcde
+###ENDOUTPUT###
+24 22
+###ENDINPUT###
+abcdefghijklmnopqrstuvab
+###ENDOUTPUT###
+26 14
+###ENDINPUT###
+abcdefghijklmnabcdefghijkl
+###ENDOUTPUT###
+26 15
+###ENDINPUT###
+abcdefghijklmnoabcdefghijk
+###ENDOUTPUT###
+30 12
+###ENDINPUT###
+abcdefghijklabcdefghijklabcdef
+###ENDOUTPUT###
+35 4
+###ENDINPUT###
+abcdabcdabcdabcdabcdabcdabcdabcdabc
+###ENDOUTPUT###
+79 3
+###ENDINPUT###
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabca
+###ENDOUTPUT###
+79 14
+###ENDINPUT###
+abcdefghijklmnabcdefghijklmnabcdefghijklmnabcdefghijklmnabcdefghijklmnabcdefghi
+###ENDOUTPUT###
+85 13
+###ENDINPUT###
+abcdefghijklmabcdefghijklmabcdefghijklmabcdefghijklmabcdefghijklmabcdefghijklmabcdefg
+###ENDOUTPUT###
+90 25
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyabcdefghijklmno
+###ENDOUTPUT###
+90 19
+###ENDINPUT###
+abcdefghijklmnopqrsabcdefghijklmnopqrsabcdefghijklmnopqrsabcdefghijklmnopqrsabcdefghijklmn
+###ENDOUTPUT###
+26 24
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxab
+###ENDOUTPUT###
+100 17
+###ENDINPUT###
+abcdefghijklmnopqabcdefghijklmnopqabcdefghijklmnopqabcdefghijklmnopqabcdefghijklmnopqabcdefghijklmno
+###ENDOUTPUT###
+26 2
+###ENDINPUT###
+ababababababababababababab
+###ENDOUTPUT###

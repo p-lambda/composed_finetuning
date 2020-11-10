@@ -1,0 +1,651 @@
+1 0 0 1
+0 1 0 0
+0 0 1 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 1 0
+1 0 1 0
+1 1 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 0 0 0
+0 0 0 1
+0 0 0 0
+1 0 1 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+0 0 0 1
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 1 1 0
+0 1 0 1
+1 1 1 0
+1 1 1 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 1 0
+0 1 0 0
+1 0 0 1
+1 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 0 0 0
+0 1 0 0
+1 1 0 0
+0 1 1 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 1 0 1
+1 0 1 1
+1 1 1 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1 0 0
+0 1 0 1
+1 1 1 0
+0 0 1 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 0 0
+0 0 0 0
+1 0 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 1 0
+0 0 0 0
+1 1 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 1 0
+0 1 0 1
+1 0 1 0
+0 0 1 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1 1 0
+0 1 0 1
+1 1 1 1
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 1 0
+0 0 0 0
+0 0 0 1
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+0 0 0 1
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 1 0 1
+1 0 1 1
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1 0 0
+0 1 0 0
+1 1 1 0
+1 0 1 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 0 1 0
+1 1 0 0
+1 1 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 1 0
+1 1 0 0
+1 0 1 0
+1 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 1 0
+1 0 0 0
+0 0 0 1
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 1 1 0
+1 1 0 1
+1 0 0 1
+1 1 1 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 0 0 0
+1 1 0 0
+1 1 0 1
+0 0 1 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+1 1 0 0
+0 0 0 1
+0 0 1 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 1 0 0
+0 0 0 1
+0 1 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 1 0 0
+1 1 0 1
+1 0 0 1
+1 1 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 1 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+1 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 1 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 1
+0 0 1 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 0
+1 0 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 0
+0 1 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 0
+0 0 1 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 0
+0 0 0 0
+1 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 1 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 1 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 1 0 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 1 0
+0 0 0 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+1 0 0 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 1 0 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 1 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+1 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+0 1 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+0 0 1 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+0 0 0 0
+1 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 1 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 1
+0 0 0 0
+0 0 1 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 0 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 1 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 1 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+1 0 0 0
+0 0 0 1
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 1 0 0
+0 0 0 1
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 1 0
+0 0 0 1
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+1 0 0 1
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 1 0 1
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 1 1
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 1
+1 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 1
+0 1 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 1
+0 0 1 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 1 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+1 0 0 0
+0 0 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 1 0 0
+0 0 0 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 1 0
+0 0 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+1 0 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 1 0 0
+0 0 0 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 1 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 1 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 1 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1 1 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 1 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+1 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 0 0
+0 0 0 0
+0 0 0 1
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 1 1 0
+1 0 1 0
+1 1 1 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1 1 0
+1 1 1 0
+1 1 1 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 0
+0 1 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 0 1 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 1 1 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 1 0 1
+0 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 1
+0 0 0 0
+0 1 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+0 0 0 1
+0 0 0 1
+1 0 0 0
+0 0 0 0
+###ENDINPUT###
+YES
+###ENDOUTPUT###

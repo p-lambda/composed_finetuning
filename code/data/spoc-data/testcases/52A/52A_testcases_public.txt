@@ -1,0 +1,25 @@
+9
+1 3 2 2 2 1 1 2 3
+###ENDINPUT###
+5
+###ENDOUTPUT###
+6
+3 3 2 2 1 3
+###ENDINPUT###
+3
+###ENDOUTPUT###
+12
+3 1 3 1 2 1 3 2 2 1 2 1
+###ENDINPUT###
+7
+###ENDOUTPUT###
+15
+3 2 1 1 1 1 3 2 2 3 3 1 2 3 2
+###ENDINPUT###
+10
+###ENDOUTPUT###
+2
+2 1
+###ENDINPUT###
+1
+###ENDOUTPUT###

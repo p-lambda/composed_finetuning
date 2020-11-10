@@ -1,0 +1,20 @@
+4 3
+###ENDINPUT###
+abca
+###ENDOUTPUT###
+6 6
+###ENDINPUT###
+abcdef
+###ENDOUTPUT###
+5 2
+###ENDINPUT###
+ababa
+###ENDOUTPUT###
+3 2
+###ENDINPUT###
+aba
+###ENDOUTPUT###
+10 2
+###ENDINPUT###
+ababababab
+###ENDOUTPUT###

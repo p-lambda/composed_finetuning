@@ -1,0 +1,55 @@
+1 2
+SW
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+10 10
+....W.W.W.
+.........S
+.S.S...S..
+W.......SS
+.W..W.....
+.W...W....
+S..S...S.S
+....W...S.
+..S..S.S.S
+SS.......S
+###ENDINPUT###
+YES
+DDDDWDWDWD
+DDDDDDDDDS
+DSDSDDDSDD
+WDDDDDDDSS
+DWDDWDDDDD
+DWDDDWDDDD
+SDDSDDDSDS
+DDDDWDDDSD
+DDSDDSDSDS
+SSDDDDDDDS
+###ENDOUTPUT###
+10 10
+....W.W.W.
+...W.....S
+.S.S...S..
+W......WSS
+.W..W.....
+.W...W....
+S..S...S.S
+...WWW..S.
+..S..S.S.S
+SS.......S
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 50
+W...S..............W.....S..S...............S...W.
+###ENDINPUT###
+YES
+WDDDSDDDDDDDDDDDDDDWDDDDDSDDSDDDDDDDDDDDDDDDSDDDWD
+###ENDOUTPUT###
+2 4
+...S
+...W
+###ENDINPUT###
+NO
+###ENDOUTPUT###

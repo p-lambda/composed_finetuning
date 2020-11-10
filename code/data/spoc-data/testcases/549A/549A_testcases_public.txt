@@ -1,0 +1,36 @@
+4 4
+xxxx
+xfax
+xcex
+xxxx
+###ENDINPUT###
+1
+###ENDOUTPUT###
+4 2
+xx
+cf
+ae
+xx
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2 3
+fac
+cef
+###ENDINPUT###
+2
+###ENDOUTPUT###
+1 4
+face
+###ENDINPUT###
+0
+###ENDOUTPUT###
+5 5
+wmmwn
+lurcm
+keetd
+fokon
+cxxgx
+###ENDINPUT###
+0
+###ENDOUTPUT###

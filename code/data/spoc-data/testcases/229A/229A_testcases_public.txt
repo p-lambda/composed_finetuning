@@ -1,0 +1,30 @@
+3 6
+101010
+000100
+100000
+###ENDINPUT###
+3
+###ENDOUTPUT###
+2 3
+111
+000
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1 1
+1
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1 1
+0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 1
+1
+1
+0
+###ENDINPUT###
+-1
+###ENDOUTPUT###

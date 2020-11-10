@@ -1,0 +1,20 @@
+10
+###ENDINPUT###
+I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love it
+###ENDOUTPUT###
+18
+###ENDINPUT###
+I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love it
+###ENDOUTPUT###
+19
+###ENDINPUT###
+I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate it
+###ENDOUTPUT###
+33
+###ENDINPUT###
+I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate it
+###ENDOUTPUT###
+34
+###ENDINPUT###
+I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love it
+###ENDOUTPUT###

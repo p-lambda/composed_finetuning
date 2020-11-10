@@ -1,0 +1,69 @@
+ross rachel
+4
+ross joey
+rachel phoebe
+phoebe monica
+monica chandler
+###ENDINPUT###
+ross rachel
+joey rachel
+joey phoebe
+joey monica
+joey chandler
+###ENDOUTPUT###
+icm codeforces
+1
+codeforces technex
+###ENDINPUT###
+icm codeforces
+icm technex
+###ENDOUTPUT###
+a b
+3
+a c
+b d
+d e
+###ENDINPUT###
+a b
+c b
+c d
+c e
+###ENDOUTPUT###
+ze udggmyop
+4
+ze szhrbmft
+udggmyop mjorab
+szhrbmft ojdtfnzxj
+ojdtfnzxj yjlkg
+###ENDINPUT###
+ze udggmyop
+szhrbmft udggmyop
+szhrbmft mjorab
+ojdtfnzxj mjorab
+yjlkg mjorab
+###ENDOUTPUT###
+q s
+10
+q b
+b j
+s g
+j f
+f m
+g c
+c a
+m d
+d z
+z o
+###ENDINPUT###
+q s
+b s
+j s
+j g
+f g
+m g
+m c
+m a
+d a
+z a
+o a
+###ENDOUTPUT###

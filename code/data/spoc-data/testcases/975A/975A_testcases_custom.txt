@@ -1,0 +1,25 @@
+40
+bebrmhdoznhakjudoi hylc hnzkxxfooufuno bkvj rkozimhcmzadr omsc ajcelmhtk mjnchbkqrbuz ihydermwbrsgytxfzdcylehjx vegkxvau tp lmutlyxkqaysxuji cjcjjkmgiwvwnexwmwi qmmkjt bdste vrnoxebytx jjtskzvmmytxdusg txhghrzuodnzy dtqtrswcmgocuchytpakxpjd juiwqvkownswa vmkkuhqvuhxjbyb dso peiobraqrzwvs lel ydvihlv ejnhbrscrgkacdewbfblw whcbauuluaruezarohdberlx kprstnxfwe b jjpytihgx hllwpib rcekilxlsdqpqzrxnuucasu kygmoteelkbe gafnns ufke acofjdfute igdokgbriwypes xqywkouwsyenolxkt azbbywqizyztqjqup ell
+###ENDINPUT###
+39
+###ENDOUTPUT###
+20
+a a a a a a a a a a a a a a a a a a a a
+###ENDINPUT###
+1
+###ENDOUTPUT###
+20
+bc bcb aa aa b c bc acc c a cac aac cc cb c cca c c aa c
+###ENDINPUT###
+5
+###ENDOUTPUT###
+50
+ecceieicc icicceic eieciceei eeeiceeie iiiiec eeciciceii iiceieeei ieecc iceeeeeici eiecei ecceii ccciicciee cieieeeee ieeccie iccieice eccciiciii cicii eiiee eieeiec cccecc eiiec eeeiiceeic eececicce eieeiie ciccei iceiecccci ceicieeece iieiiiic ceeeiic icciee cceeeicic icceieeci eeiiici iceieciccc cceee ciceceic eccieccii ceciiceecc iieeicccc eciiiiie iieiceeec ccecc eieciecc iiiic ciiei eeiiic eiccic cciieii eccic ecceeieeci
+###ENDINPUT###
+4
+###ENDOUTPUT###
+50
+eebabaeegaab febcadgedaf fdfdgdcgcaa ffgdegadcgb cagacdfddeg eefaadccdag gadcddedcec adfgdaebgffg faadbcaefcaf ccecebffagf fdddbddddfeb fgdeefcafe bcgfbeddagd dacdbdagdbe bbcbbcddbb bcdafagdfgfg dfdegcdaefc dcdffegacb bdbdebgcfdfg egdbeebdacgg fabcgbcgddbf bdfecgaaefa fccabcaaaace geegbeegcagf bdagfdagfa eacffgfdfbad feebdfdbceca bbddbccfacea dbbeedgggeeb dcbegegdfe fadbdbfceee dcbgcdccffca egfeffdcgfc gbgeaagcdg debfaagefg ggadbaefeef gcebggbgcdae bggdbdgcdadg efefebeaebb gggbbaecfg fbfbffcfeceb fcaebecfdgb fdaaecgecdfb eaagfebcda cffffdabga fgbgbeggba aebcabdaff cccgcbgdeba agcefgceccce afgabdebee
+###ENDINPUT###
+22
+###ENDOUTPUT###

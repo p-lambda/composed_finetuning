@@ -1,0 +1,65 @@
+5 4 0.75
+axe 350
+impaler 300
+ionize 80
+megafire 120
+magicboost 220
+heal
+megafire
+shield
+magicboost
+###ENDINPUT###
+6
+axe 262
+heal 0
+impaler 225
+magicboost 165
+megafire 0
+shield 0
+###ENDOUTPUT###
+1 1 0.50
+staff 1005
+ionize
+###ENDINPUT###
+2
+ionize 0
+staff 502
+###ENDOUTPUT###
+4 3 0.32
+inrf 48
+fdgdf 200
+vbkdfk 450
+fdbvfdd 1000
+dff
+inrf
+nfdkd
+###ENDINPUT###
+5
+dff 0
+fdbvfdd 320
+inrf 0
+nfdkd 0
+vbkdfk 144
+###ENDOUTPUT###
+5 1 0.99
+a 1
+b 2
+c 3
+d 4
+e 5
+f
+###ENDINPUT###
+1
+f 0
+###ENDOUTPUT###
+2 2 0.02
+fn 1003
+zz 7000
+kk
+au
+###ENDINPUT###
+3
+au 0
+kk 0
+zz 140
+###ENDOUTPUT###

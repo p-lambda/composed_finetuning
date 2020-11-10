@@ -1,0 +1,42 @@
+1
+0
+0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2
+7 16
+16 7
+###ENDINPUT###
+46
+###ENDOUTPUT###
+4
+6 0 0 0
+0 0 0 1
+###ENDINPUT###
+7
+###ENDOUTPUT###
+8
+1 2 4 8 16 32 64 128
+1 2 4 8 16 32 64 128
+###ENDINPUT###
+510
+###ENDOUTPUT###
+1
+2
+3
+###ENDINPUT###
+5
+###ENDOUTPUT###
+1
+4
+3
+###ENDINPUT###
+7
+###ENDOUTPUT###
+1
+1
+1
+###ENDINPUT###
+2
+###ENDOUTPUT###

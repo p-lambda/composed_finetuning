@@ -1,0 +1,644 @@
+99999 4
+###ENDINPUT###
+3 3 41 271
+###ENDOUTPUT###
+99999 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1024 10
+###ENDINPUT###
+2 2 2 2 2 2 2 2 2 2
+###ENDOUTPUT###
+1024 11
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2048 11
+###ENDINPUT###
+2 2 2 2 2 2 2 2 2 2 2
+###ENDOUTPUT###
+2 1
+###ENDINPUT###
+2
+###ENDOUTPUT###
+2 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2 1
+###ENDINPUT###
+2
+###ENDOUTPUT###
+3 1
+###ENDINPUT###
+3
+###ENDOUTPUT###
+3 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+349 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+8 1
+###ENDINPUT###
+8
+###ENDOUTPUT###
+66049 2
+###ENDINPUT###
+257 257
+###ENDOUTPUT###
+6557 2
+###ENDINPUT###
+79 83
+###ENDOUTPUT###
+9 2
+###ENDINPUT###
+3 3
+###ENDOUTPUT###
+4 2
+###ENDINPUT###
+2 2
+###ENDOUTPUT###
+2 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+4 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 1
+###ENDINPUT###
+12
+###ENDOUTPUT###
+17 1
+###ENDINPUT###
+17
+###ENDOUTPUT###
+8 2
+###ENDINPUT###
+2 4
+###ENDOUTPUT###
+14 2
+###ENDINPUT###
+2 7
+###ENDOUTPUT###
+99991 1
+###ENDINPUT###
+99991
+###ENDOUTPUT###
+30 2
+###ENDINPUT###
+2 15
+###ENDOUTPUT###
+97 1
+###ENDINPUT###
+97
+###ENDOUTPUT###
+92 2
+###ENDINPUT###
+2 46
+###ENDOUTPUT###
+4 1
+###ENDINPUT###
+4
+###ENDOUTPUT###
+4 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+30 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 1
+###ENDINPUT###
+3
+###ENDOUTPUT###
+3 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+4 1
+###ENDINPUT###
+4
+###ENDOUTPUT###
+4 2
+###ENDINPUT###
+2 2
+###ENDOUTPUT###
+4 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+4 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+4 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+4 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+5 1
+###ENDINPUT###
+5
+###ENDOUTPUT###
+5 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+5 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+5 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+5 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+5 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+6 1
+###ENDINPUT###
+6
+###ENDOUTPUT###
+6 2
+###ENDINPUT###
+2 3
+###ENDOUTPUT###
+6 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+6 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+6 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+6 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+7 1
+###ENDINPUT###
+7
+###ENDOUTPUT###
+7 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+7 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+7 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+7 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+7 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+8 1
+###ENDINPUT###
+8
+###ENDOUTPUT###
+8 2
+###ENDINPUT###
+2 4
+###ENDOUTPUT###
+8 3
+###ENDINPUT###
+2 2 2
+###ENDOUTPUT###
+8 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+8 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+8 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+9 1
+###ENDINPUT###
+9
+###ENDOUTPUT###
+9 2
+###ENDINPUT###
+3 3
+###ENDOUTPUT###
+9 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+9 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+9 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+9 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+10 1
+###ENDINPUT###
+10
+###ENDOUTPUT###
+10 2
+###ENDINPUT###
+2 5
+###ENDOUTPUT###
+10 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+10 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+10 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+10 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+11 1
+###ENDINPUT###
+11
+###ENDOUTPUT###
+11 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+11 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+11 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+11 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+11 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 1
+###ENDINPUT###
+12
+###ENDOUTPUT###
+12 2
+###ENDINPUT###
+2 6
+###ENDOUTPUT###
+12 3
+###ENDINPUT###
+2 2 3
+###ENDOUTPUT###
+12 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+13 1
+###ENDINPUT###
+13
+###ENDOUTPUT###
+13 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+13 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+13 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+13 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+13 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+14 1
+###ENDINPUT###
+14
+###ENDOUTPUT###
+14 2
+###ENDINPUT###
+2 7
+###ENDOUTPUT###
+14 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+14 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+14 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+14 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+15 1
+###ENDINPUT###
+15
+###ENDOUTPUT###
+15 2
+###ENDINPUT###
+3 5
+###ENDOUTPUT###
+15 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+15 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+15 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+15 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+16 1
+###ENDINPUT###
+16
+###ENDOUTPUT###
+16 2
+###ENDINPUT###
+2 8
+###ENDOUTPUT###
+16 3
+###ENDINPUT###
+2 2 4
+###ENDOUTPUT###
+16 4
+###ENDINPUT###
+2 2 2 2
+###ENDOUTPUT###
+16 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+16 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+17 1
+###ENDINPUT###
+17
+###ENDOUTPUT###
+17 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+17 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+17 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+17 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+17 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+18 1
+###ENDINPUT###
+18
+###ENDOUTPUT###
+18 2
+###ENDINPUT###
+2 9
+###ENDOUTPUT###
+18 3
+###ENDINPUT###
+2 3 3
+###ENDOUTPUT###
+18 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+18 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+18 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+19 1
+###ENDINPUT###
+19
+###ENDOUTPUT###
+19 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+19 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+19 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+19 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+19 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+20 1
+###ENDINPUT###
+20
+###ENDOUTPUT###
+20 2
+###ENDINPUT###
+2 10
+###ENDOUTPUT###
+20 3
+###ENDINPUT###
+2 2 5
+###ENDOUTPUT###
+20 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+20 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+20 6
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+94249 1
+###ENDINPUT###
+94249
+###ENDOUTPUT###
+94249 2
+###ENDINPUT###
+307 307
+###ENDOUTPUT###
+94249 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+94249 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+94249 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+95477 1
+###ENDINPUT###
+95477
+###ENDOUTPUT###
+95477 2
+###ENDINPUT###
+307 311
+###ENDOUTPUT###
+95477 3
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+95477 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+95477 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+35557 1
+###ENDINPUT###
+35557
+###ENDOUTPUT###
+35557 2
+###ENDINPUT###
+31 1147
+###ENDOUTPUT###
+35557 3
+###ENDINPUT###
+31 31 37
+###ENDOUTPUT###
+35557 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+35557 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+42439 1
+###ENDINPUT###
+42439
+###ENDOUTPUT###
+42439 2
+###ENDINPUT###
+31 1369
+###ENDOUTPUT###
+42439 3
+###ENDINPUT###
+31 37 37
+###ENDOUTPUT###
+42439 4
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+42439 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###

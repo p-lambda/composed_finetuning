@@ -1,0 +1,20 @@
+2 2 1 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+2 1 1 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+5 7 4 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+5 7 1 4
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+5 7 10 10
+###ENDINPUT###
+Second
+###ENDOUTPUT###

@@ -1,0 +1,25 @@
+3 4
+aba
+###ENDINPUT###
+ababababa
+###ENDOUTPUT###
+3 2
+cat
+###ENDINPUT###
+catcat
+###ENDOUTPUT###
+1 1
+a
+###ENDINPUT###
+a
+###ENDOUTPUT###
+1 50
+q
+###ENDINPUT###
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+###ENDOUTPUT###
+20 3
+sfrpmsfrpmsfrpmsfrpm
+###ENDINPUT###
+sfrpmsfrpmsfrpmsfrpmsfrpmsfrpm
+###ENDOUTPUT###

@@ -1,0 +1,20 @@
+-2 1
+###ENDINPUT###
+white
+###ENDOUTPUT###
+2 1
+###ENDINPUT###
+black
+###ENDOUTPUT###
+4 3
+###ENDINPUT###
+black
+###ENDOUTPUT###
+3 3
+###ENDINPUT###
+black
+###ENDOUTPUT###
+4 4
+###ENDINPUT###
+white
+###ENDOUTPUT###

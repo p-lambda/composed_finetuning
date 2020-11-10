@@ -1,0 +1,92 @@
+1 2
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+1 3
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+2 1
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+2 2
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+3 1
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+3 2
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+68 42
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+1 35
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+25 70
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+59 79
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+65 63
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+46 6
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+28 82
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+98 98
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+98 99
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+98 100
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+99 98
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+99 99
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+99 100
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+100 98
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+100 99
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+100 100
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+3 4
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###

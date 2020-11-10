@@ -1,0 +1,25 @@
+6
+1 5 5 5 4 2
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+5
+10 20 30 20 10
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+4
+1 2 1 2
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+7
+3 3 3 3 3 3 3
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+6
+5 7 11 11 2 1
+###ENDINPUT###
+YES
+###ENDOUTPUT###

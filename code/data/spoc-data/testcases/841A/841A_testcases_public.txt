@@ -1,0 +1,25 @@
+4 2
+aabb
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+6 3
+aacaab
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+2 2
+lu
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+5 3
+ovvoo
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+36 13
+bzbzcffczzcbcbzzfzbbfzfzzbfbbcbfccbf
+###ENDINPUT###
+YES
+###ENDOUTPUT###

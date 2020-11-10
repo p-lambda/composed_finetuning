@@ -1,0 +1,76 @@
+4 3
+###ENDINPUT###
+0 3
+0 2
+0 1
+0 0
+###ENDOUTPUT###
+2 100
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+5 6
+###ENDINPUT###
+0 4
+0 3
+0 2
+0 1
+0 0
+###ENDOUTPUT###
+8 20
+###ENDINPUT###
+0 7
+0 6
+0 5
+0 4
+0 3
+0 2
+0 1
+0 0
+###ENDOUTPUT###
+6 15
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+1808 505823289
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+1850 507001807
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+1892 948371814
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+1788 94774524
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+1947 944738707
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+2000 1000000000
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+2 1
+###ENDINPUT###
+no solution
+###ENDOUTPUT###
+3 2
+###ENDINPUT###
+0 2
+0 1
+0 0
+###ENDOUTPUT###
+5 1
+###ENDINPUT###
+0 4
+0 3
+0 2
+0 1
+0 0
+###ENDOUTPUT###

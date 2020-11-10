@@ -1,0 +1,125 @@
+2 3
+###ENDINPUT###
+-1
+xxoox
+###ENDOUTPUT###
+4 0
+###ENDINPUT###
+16
+oooo
+###ENDOUTPUT###
+0 4
+###ENDINPUT###
+-16
+xxxx
+###ENDOUTPUT###
+8 6
+###ENDINPUT###
+46
+xxxooooooooxxx
+###ENDOUTPUT###
+1 1
+###ENDINPUT###
+0
+ox
+###ENDOUTPUT###
+38 5
+###ENDINPUT###
+1431
+xxxooooooooooooooooooooooooooooooooooooooxx
+###ENDOUTPUT###
+2 122
+###ENDINPUT###
+-4960
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+###ENDOUTPUT###
+4 2
+###ENDINPUT###
+14
+xoooox
+###ENDOUTPUT###
+4 9
+###ENDINPUT###
+-13
+xxoxxoxxoxxox
+###ENDOUTPUT###
+8 10
+###ENDINPUT###
+16
+xxxxoooooooxxxoxxx
+###ENDOUTPUT###
+206 209
+###ENDINPUT###
+34847
+xxxxxxxxxxxxxxxxxxxoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxx
+###ENDOUTPUT###
+5 17
+###ENDINPUT###
+-44
+xxxoxxxoxxxoxxxoxxxoxx
+###ENDOUTPUT###
+1 2
+###ENDINPUT###
+-1
+xox
+###ENDOUTPUT###
+2 1
+###ENDINPUT###
+3
+oox
+###ENDOUTPUT###
+1 1
+###ENDINPUT###
+0
+ox
+###ENDOUTPUT###
+1 0
+###ENDINPUT###
+1
+o
+###ENDOUTPUT###
+0 1
+###ENDINPUT###
+-1
+x
+###ENDOUTPUT###
+2 2
+###ENDINPUT###
+2
+xoox
+###ENDOUTPUT###
+4 1
+###ENDINPUT###
+15
+oooox
+###ENDOUTPUT###
+4 2
+###ENDINPUT###
+14
+xoooox
+###ENDOUTPUT###
+4 3
+###ENDINPUT###
+11
+xxoooox
+###ENDOUTPUT###
+4 4
+###ENDINPUT###
+8
+xxooooxx
+###ENDOUTPUT###
+4 5
+###ENDINPUT###
+3
+xxxooooxx
+###ENDOUTPUT###
+4 6
+###ENDINPUT###
+-2
+xxxooooxxx
+###ENDOUTPUT###
+4 7
+###ENDINPUT###
+-7
+xxxoooxxoxx
+###ENDOUTPUT###

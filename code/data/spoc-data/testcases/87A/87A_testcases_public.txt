@@ -1,0 +1,20 @@
+3 7
+###ENDINPUT###
+Dasha
+###ENDOUTPUT###
+5 3
+###ENDINPUT###
+Masha
+###ENDOUTPUT###
+2 3
+###ENDINPUT###
+Equal
+###ENDOUTPUT###
+31 88
+###ENDINPUT###
+Dasha
+###ENDOUTPUT###
+8 75
+###ENDINPUT###
+Dasha
+###ENDOUTPUT###

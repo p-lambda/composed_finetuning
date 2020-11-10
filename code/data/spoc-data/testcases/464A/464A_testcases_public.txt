@@ -1,0 +1,25 @@
+3 3
+cba
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 4
+cba
+###ENDINPUT###
+cbd
+###ENDOUTPUT###
+4 4
+abcd
+###ENDINPUT###
+abda
+###ENDOUTPUT###
+2 2
+ab
+###ENDINPUT###
+ba
+###ENDOUTPUT###
+2 2
+ba
+###ENDINPUT###
+NO
+###ENDOUTPUT###

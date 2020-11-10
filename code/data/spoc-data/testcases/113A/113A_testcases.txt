@@ -1,0 +1,1256 @@
+petr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+etis atis animatis etis atis amatis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+nataliala kataliala vetra feinites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+qweasbvflios
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+lios lios petr initis qwe
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petr initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petra petra petra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+in
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala petra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala petra inites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+liala initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala petra petr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala petr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+llilitos
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+umeszdawsvgkjhlqwzentsphxqhdungbylhnikwviuhccbstghhxlmvcjznnkjqkugsdysjbedwpmsmxmgxlrlxctnebtbwrsvgjktkrosffwymovxvsgfmmqwfflpvbumozikroxrdgwjrnstngstxbiyyuxehrhviteptedlmyetr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+i i i i i i i i i i i i i i i a a a a a a v v v v v v v v v v v
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+fbvzqonvdlqdanwliolaqfj sbauorbinites xkbfnfinitespjy phbexglblzpobtqpisyijycmtliola aosinites lbpjiwcjoqyuhglthloiniteswb mjtxhoofohzzgefvhsywojcuxtetxmojrlktodhbgyrkeejgjzxkzyvrxwmyaqkeoqnvusnlrsfffrzeoqjdfumolhksqkrtzwhnforgpenziokrxlnhcapbbupctlmuetrani pigxerwetupjbkvlmgnjhdfjliolanz tqhaidxbqmdaeincxjuliola
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+mfrmqetr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+hnwvfllholxfialiola cknjtxpliola daliola gqfapnhmmworliola qhetra qrisbexsrefcwzoxqwxrevinites wwldqkqhvrgwplqinites nqdpoauitczttxoinites fgbmdfpxkhahkinites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+kcymcpgqdxkudadewddualeemhixhsdazudnjdmuvxvrlrbrpsdpxpagmrogplltnifrtomdtahxwadguvetxaqkvsvnoyhowirnluhmyewzapirnpfdisvhtbenxmfezahqoflkjrfqjubwdfktnpeirodwubftzlcczzavfiooihzvnqincndisudihvbcaxptrwovekmhiiwsgzgbxydvuldlnktxtltrlajjzietkxbnhetra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+dosiydnwxemojaavfdvlwsyhzqywqjutovygtlcleklhybczhjqfzxwdmlwqwcqqyfjkzhsizlmdarrfronxqkcknwpkvhdlgatdyjisjoopvngpjggldxjfxaauoxmqirkuphydyweoixftstlozaoywnxgriscudwlokncbmaebpssccmmmfjennyjaryqlzjknnklqketra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+etretra linites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+petretra petr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lialalios petraveryfunnypetr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+petropetrapetr petra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios petrnonono
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios petr initisandinitisandliala petrainitis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petro
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petr initesinitis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala initespetra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+lios petrapetr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+initis petr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lioslialapetrpetrainitisinitesliosliala initesinitislioslialapetrpetrainitisinitetra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixpetr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixpetra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixinitis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixinites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixliala
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixlios
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixlialas
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+veryfunnyprefixliala veryfunnyprefixpetretra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixlios veryfunnyprefixinitisetr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+veryfunnyprefixlios aabbinitis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+veryfunnyprefixlios inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios petr initis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+liala etra inites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+lios
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+liala
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+initis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+inites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+tes
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+tr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+a
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+liala
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+petr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+petra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+pinitis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+pinites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+plios pliala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+plios petr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+plios petra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+plios plios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+plios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+plios pinites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+pliala plios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+pliala ppliala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+pliala petr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+pliala petra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+pliala pinitis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+pliala pinites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petr plios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petr pliala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petr petr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petr petra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petr pinitis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+petr pinites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petra lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petra liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petra petr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petra petra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+petra inites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis petr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis petra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites petr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites petra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios lios lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios lios liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios lios etr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+lios lios etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios lios inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios liala lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios liala liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios liala etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios liala etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios liala initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios liala inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etr lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etr liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etr etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etr etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etr initis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+lios etr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etra lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etra liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etra etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etra etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios etra inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios initis liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios initis etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios initis etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios initis initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios initis inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios inites lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios inites liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios inites etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios inites etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios inites initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+lios inites inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala lios lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala lios liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala lios etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala lios etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala lios inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala liala lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala liala liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala liala etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala liala etra
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+liala liala initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala liala inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etr lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etr liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etr etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etr etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etr initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etra lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etra liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etra etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etra etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala etra inites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+liala initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala initis liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala initis etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala initis etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala initis initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala initis inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala inites lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala inites liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala inites etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala inites etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala inites initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+liala inites inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr lios lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr lios liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr lios etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr lios etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr lios inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr liala lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr liala liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr liala etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr liala etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr liala initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr liala inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etr lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etr liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etr etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etr etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etr initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etra lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etra liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etra etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etra etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr etra inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr initis liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr initis etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr initis etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr initis initis
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+etr initis inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr inites lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr inites liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr inites etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr inites etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr inites initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etr inites inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra lios lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra lios liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra lios etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra lios etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra lios inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra liala lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra liala liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra liala etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra liala etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra liala initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra liala inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etr lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etr liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etr etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etr etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etr initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etra lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etra liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etra etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etra etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra etra inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra initis liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra initis etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra initis etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra initis initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra initis inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra inites lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra inites liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra inites etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra inites etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra inites initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+etra inites inites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+initis lios lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis lios liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis lios etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis lios etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis lios inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis liala lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis liala liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis liala etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis liala etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis liala initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis liala inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etr lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etr liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etr etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etr etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etr initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etra lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etra liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etra etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etra etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis etra inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis initis liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis initis etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis initis etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis initis initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis initis inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis inites lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis inites liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis inites etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis inites etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis inites initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+initis inites inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites lios lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites lios liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites lios etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites lios etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites lios initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites lios inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites liala lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites liala liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites liala etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites liala etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites liala initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites liala inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etr lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etr liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etr etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etr etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etr initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etr inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etra lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etra liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etra etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etra etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etra initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites etra inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites initis lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites initis liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites initis etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites initis etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites initis initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites initis inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites inites lios
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites inites liala
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites inites etr
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites inites etra
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites inites initis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+inites inites inites
+###ENDINPUT###
+NO
+###ENDOUTPUT###

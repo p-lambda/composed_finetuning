@@ -1,0 +1,25 @@
+4
+5 0 5 0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+11
+5 5 5 5 5 5 5 5 0 5 5
+###ENDINPUT###
+5555555550
+###ENDOUTPUT###
+7
+5 5 5 5 5 5 5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1
+5
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1
+0
+###ENDINPUT###
+0
+###ENDOUTPUT###

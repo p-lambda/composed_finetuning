@@ -1,0 +1,190 @@
+3 3
+cba
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 4
+cba
+###ENDINPUT###
+cbd
+###ENDOUTPUT###
+4 4
+abcd
+###ENDINPUT###
+abda
+###ENDOUTPUT###
+2 2
+ab
+###ENDINPUT###
+ba
+###ENDOUTPUT###
+2 2
+ba
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 2
+a
+###ENDINPUT###
+b
+###ENDOUTPUT###
+1 2
+b
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 1
+a
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 4
+cdb
+###ENDINPUT###
+dab
+###ENDOUTPUT###
+7 26
+zyxzyxz
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+10 5
+abcabcabca
+###ENDINPUT###
+abcabcabcd
+###ENDOUTPUT###
+10 10
+fajegfaicb
+###ENDINPUT###
+fajegfaicd
+###ENDOUTPUT###
+1 26
+o
+###ENDINPUT###
+p
+###ENDOUTPUT###
+1 2
+b
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 26
+z
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 3
+cab
+###ENDINPUT###
+cba
+###ENDOUTPUT###
+3 26
+yzx
+###ENDINPUT###
+zab
+###ENDOUTPUT###
+5 5
+aceba
+###ENDINPUT###
+acebc
+###ENDOUTPUT###
+10 3
+cbacbacbac
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+11 3
+abcabcabcab
+###ENDINPUT###
+acbacbacbac
+###ENDOUTPUT###
+12 10
+abcabcabcabc
+###ENDINPUT###
+abcabcabcabd
+###ENDOUTPUT###
+13 7
+gfegfegfegfeg
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+15 11
+cgjkbadjfbdaikj
+###ENDINPUT###
+cgjkbadjfbdajba
+###ENDOUTPUT###
+17 4
+dabcadcbdcadbcdbc
+###ENDINPUT###
+dabcadcbdcadcabca
+###ENDOUTPUT###
+26 26
+ahnxdnbfcriersyzdihuecojdi
+###ENDINPUT###
+ahnxdnbfcriersyzdihuecojdk
+###ENDOUTPUT###
+30 7
+cedcfedcfgcfgcbadcadgfaegfacgf
+###ENDINPUT###
+cedcfedcfgcfgcbadcadgfaegfadba
+###ENDOUTPUT###
+70 4
+dcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbd
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+77 7
+cadgbagbcaecgfaegcdbeafbacbdfgaedgcdeabgebaecbeacgfebagedcegdafdgeacegfegfegf
+###ENDINPUT###
+cadgbagbcaecgfaegcdbeafbacbdfgaedgcdeabgebaecbeacgfebagedcegdafdgeacfabcabcab
+###ENDOUTPUT###
+100 4
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabca
+###ENDINPUT###
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcd
+###ENDOUTPUT###
+333 5
+edcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedc
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 3
+acb
+###ENDINPUT###
+bac
+###ENDOUTPUT###
+17 26
+bazyxzyxzyxzyxzyx
+###ENDINPUT###
+bcabcabcabcabcabc
+###ENDOUTPUT###
+6 3
+acbacb
+###ENDINPUT###
+bacbac
+###ENDOUTPUT###
+6 3
+abcabc
+###ENDINPUT###
+acbacb
+###ENDOUTPUT###
+302 4
+abdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcb
+###ENDINPUT###
+acbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbac
+###ENDOUTPUT###
+30 26
+abcabcabczyxzyxzyxzyxzyxzyxzyx
+###ENDINPUT###
+abcabcabdabcabcabcabcabcabcabc
+###ENDOUTPUT###
+300 3
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+###ENDINPUT###
+acbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacb
+###ENDOUTPUT###
+2 4
+cd
+###ENDINPUT###
+da
+###ENDOUTPUT###

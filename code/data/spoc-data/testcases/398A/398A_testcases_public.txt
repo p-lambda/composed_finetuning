@@ -1,0 +1,25 @@
+2 3
+###ENDINPUT###
+-1
+xxoox
+###ENDOUTPUT###
+4 0
+###ENDINPUT###
+16
+oooo
+###ENDOUTPUT###
+0 4
+###ENDINPUT###
+-16
+xxxx
+###ENDOUTPUT###
+8 6
+###ENDINPUT###
+46
+xxxooooooooxxx
+###ENDOUTPUT###
+1 1
+###ENDINPUT###
+0
+ox
+###ENDOUTPUT###

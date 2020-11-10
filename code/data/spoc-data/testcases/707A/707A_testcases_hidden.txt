@@ -1,0 +1,173 @@
+5 5
+W G B Y M
+G B Y M C
+B Y M C W
+Y M C W G
+M C W G B
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 6
+C M Y W G B
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 3
+W G B
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+1 1
+W
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+5 5
+W G B W G
+G B W G B
+B W G B W
+W G B W G
+G B W G B
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+2 3
+W W W
+B G C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+2 3
+W W W
+B G M
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+3 3
+C B W
+B Y M
+B B W
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 3
+W C W
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+3 3
+B W B
+B C W
+B W W
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 2
+W Y
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 1
+G
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+1 3
+B G W
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+2 2
+W W
+B C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 1
+M
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 2
+W C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+2 3
+W W M
+W W M
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+3 2
+W W
+W W
+B C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+2 3
+W W C
+W W W
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 3
+G G G
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+1 1
+C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 2
+C W
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 3
+W W C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+2 2
+W B
+B G
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+2 2
+B B
+Y Y
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+2 2
+G G
+C C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 2
+B C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 4
+G G G C
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 1
+B
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+2 1
+Y
+B
+###ENDINPUT###
+#Color
+###ENDOUTPUT###

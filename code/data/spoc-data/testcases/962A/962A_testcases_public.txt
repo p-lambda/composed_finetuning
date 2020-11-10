@@ -1,0 +1,25 @@
+4
+1 3 2 1
+###ENDINPUT###
+2
+###ENDOUTPUT###
+6
+2 2 2 2 2 2
+###ENDINPUT###
+3
+###ENDOUTPUT###
+1
+10000
+###ENDINPUT###
+1
+###ENDOUTPUT###
+3
+2 1 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2
+1 3
+###ENDINPUT###
+2
+###ENDOUTPUT###

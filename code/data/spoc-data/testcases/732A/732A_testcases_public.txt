@@ -1,0 +1,20 @@
+117 3
+###ENDINPUT###
+9
+###ENDOUTPUT###
+237 7
+###ENDINPUT###
+1
+###ENDOUTPUT###
+15 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+1 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+1 9
+###ENDINPUT###
+9
+###ENDOUTPUT###

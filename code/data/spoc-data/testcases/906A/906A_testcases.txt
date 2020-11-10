@@ -1,0 +1,78 @@
+5
+! abc
+. ad
+. b
+! cd
+? c
+###ENDINPUT###
+1
+###ENDOUTPUT###
+8
+! hello
+! codeforces
+? c
+. o
+? d
+? h
+. l
+? e
+###ENDINPUT###
+2
+###ENDOUTPUT###
+7
+! ababahalamaha
+? a
+? b
+? a
+? b
+? a
+? h
+###ENDINPUT###
+0
+###ENDOUTPUT###
+4
+! abcd
+! cdef
+? d
+? c
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1
+? q
+###ENDINPUT###
+0
+###ENDOUTPUT###
+15
+. r
+? e
+. s
+. rw
+? y
+. fj
+. zftyd
+? r
+! wq
+? w
+? p
+. ours
+. dto
+. lbyfru
+? q
+###ENDINPUT###
+2
+###ENDOUTPUT###
+3
+. abcdefghijklmnopqrstuvwxy
+? a
+? z
+###ENDINPUT###
+1
+###ENDOUTPUT###
+3
+. abcdefghijklmnopqrstuvwxy
+! z
+? z
+###ENDINPUT###
+1
+###ENDOUTPUT###

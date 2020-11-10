@@ -141,3 +141,13 @@ cython_debug/
 imggen/data
 imggen/models
 imggen/images*
+code/models/*
+code/logs
+**/*.bin
+**/*.idx
+**/*.log
+**/*.bpe.*
+**/dict.*
+code/results/*
+code/data/**/evaluate_2step*
+code/tmp*

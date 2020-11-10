@@ -1,0 +1,20 @@
+{a, b, c}
+###ENDINPUT###
+3
+###ENDOUTPUT###
+{b, a, b, a}
+###ENDINPUT###
+2
+###ENDOUTPUT###
+{}
+###ENDINPUT###
+0
+###ENDOUTPUT###
+{a, a, c, b, b, b, c, c, c, c}
+###ENDINPUT###
+3
+###ENDOUTPUT###
+{a, c, b, b}
+###ENDINPUT###
+3
+###ENDOUTPUT###

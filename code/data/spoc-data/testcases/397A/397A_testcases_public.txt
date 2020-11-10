@@ -1,0 +1,31 @@
+3
+0 5
+2 8
+1 6
+###ENDINPUT###
+1
+###ENDOUTPUT###
+3
+0 10
+1 5
+7 15
+###ENDINPUT###
+3
+###ENDOUTPUT###
+1
+0 100
+###ENDINPUT###
+100
+###ENDOUTPUT###
+2
+1 9
+1 9
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2
+1 9
+5 10
+###ENDINPUT###
+4
+###ENDOUTPUT###

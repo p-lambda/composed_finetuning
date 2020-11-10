@@ -1,0 +1,30 @@
+0 0
+0 1
+1 1
+###ENDINPUT###
+RIGHT
+###ENDOUTPUT###
+-1 -1
+-3 -3
+-4 -4
+###ENDINPUT###
+TOWARDS
+###ENDOUTPUT###
+-4 -6
+-3 -7
+-2 -6
+###ENDINPUT###
+LEFT
+###ENDOUTPUT###
+-44 57
+-118 -41
+-216 33
+###ENDINPUT###
+RIGHT
+###ENDOUTPUT###
+39 100
+90 85
+105 136
+###ENDINPUT###
+LEFT
+###ENDOUTPUT###

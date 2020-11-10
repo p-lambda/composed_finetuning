@@ -1,0 +1,30 @@
+4
+3 1 2 3
+2 2 4
+###ENDINPUT###
+I become the guy.
+###ENDOUTPUT###
+4
+3 1 2 3
+2 2 3
+###ENDINPUT###
+Oh, my keyboard!
+###ENDOUTPUT###
+10
+5 8 6 1 5 4
+6 1 3 2 9 4 6
+###ENDINPUT###
+Oh, my keyboard!
+###ENDOUTPUT###
+10
+8 8 10 7 3 1 4 2 6
+8 9 5 10 3 7 2 4 8
+###ENDINPUT###
+I become the guy.
+###ENDOUTPUT###
+10
+9 6 1 8 3 9 7 5 10 4
+7 1 3 2 7 6 9 5
+###ENDINPUT###
+I become the guy.
+###ENDOUTPUT###

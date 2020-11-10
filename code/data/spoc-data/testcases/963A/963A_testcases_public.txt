@@ -1,0 +1,25 @@
+2 2 3 3
++-+
+###ENDINPUT###
+7
+###ENDOUTPUT###
+4 1 5 1
+-
+###ENDINPUT###
+999999228
+###ENDOUTPUT###
+1 1 4 2
+-+
+###ENDINPUT###
+3
+###ENDOUTPUT###
+3 1 4 4
++--+
+###ENDINPUT###
+45
+###ENDOUTPUT###
+5 1 1 6
+++---+
+###ENDINPUT###
+0
+###ENDOUTPUT###

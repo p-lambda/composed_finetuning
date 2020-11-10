@@ -1,0 +1,20 @@
+3 5 9
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1 1 100
+###ENDINPUT###
+1
+###ENDOUTPUT###
+23 12 16
+###ENDINPUT###
+1
+###ENDOUTPUT###
+95 26 29
+###ENDINPUT###
+1
+###ENDOUTPUT###
+73 32 99
+###ENDINPUT###
+1
+###ENDOUTPUT###

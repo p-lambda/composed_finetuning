@@ -1,0 +1,25 @@
+2
+2 8
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+3
+5 1 10
+###ENDINPUT###
+back
+###ENDOUTPUT###
+7
+3 3 2 7 9 6 8
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+4
+5 6 6 2
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+5
+8 2 2 6 3
+###ENDINPUT###
+chest
+###ENDOUTPUT###

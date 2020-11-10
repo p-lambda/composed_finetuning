@@ -1,0 +1,25 @@
+3
+11 23
+###ENDINPUT###
+2
+###ENDOUTPUT###
+5
+01 07
+###ENDINPUT###
+0
+###ENDOUTPUT###
+34
+09 24
+###ENDINPUT###
+3
+###ENDOUTPUT###
+2
+14 37
+###ENDINPUT###
+0
+###ENDOUTPUT###
+14
+19 54
+###ENDINPUT###
+9
+###ENDOUTPUT###

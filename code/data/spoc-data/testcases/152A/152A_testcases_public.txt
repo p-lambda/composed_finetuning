@@ -1,0 +1,31 @@
+3 3
+223
+232
+112
+###ENDINPUT###
+2
+###ENDOUTPUT###
+3 5
+91728
+11828
+11111
+###ENDINPUT###
+3
+###ENDOUTPUT###
+2 2
+48
+27
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2 1
+4
+6
+###ENDINPUT###
+1
+###ENDOUTPUT###
+1 2
+57
+###ENDINPUT###
+1
+###ENDOUTPUT###

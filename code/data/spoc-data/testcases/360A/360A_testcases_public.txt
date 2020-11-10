@@ -1,0 +1,42 @@
+4 5
+1 2 3 1
+2 1 2 8
+2 3 4 7
+1 1 3 3
+2 3 4 8
+###ENDINPUT###
+YES
+8 7 4 7
+###ENDOUTPUT###
+4 5
+1 2 3 1
+2 1 2 8
+2 3 4 7
+1 1 3 3
+2 3 4 13
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 4
+1 1 1 2
+2 1 1 6
+1 1 1 1
+2 1 1 7
+###ENDINPUT###
+YES
+4
+###ENDOUTPUT###
+1 4
+1 1 1 2
+2 1 1 6
+1 1 1 1
+2 1 1 8
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 2
+2 1 1 8
+2 1 1 7
+###ENDINPUT###
+NO
+###ENDOUTPUT###

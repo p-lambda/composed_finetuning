@@ -1,0 +1,33 @@
+15
+. r
+? e
+. s
+. rw
+? y
+. fj
+. zftyd
+? r
+! wq
+? w
+? p
+. ours
+. dto
+. lbyfru
+? q
+###ENDINPUT###
+2
+###ENDOUTPUT###
+3
+. abcdefghijklmnopqrstuvwxy
+? a
+? z
+###ENDINPUT###
+1
+###ENDOUTPUT###
+3
+. abcdefghijklmnopqrstuvwxy
+! z
+? z
+###ENDINPUT###
+1
+###ENDOUTPUT###

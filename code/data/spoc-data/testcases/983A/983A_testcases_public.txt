@@ -1,0 +1,87 @@
+2
+6 12 10
+4 3 10
+###ENDINPUT###
+Finite
+Infinite
+###ENDOUTPUT###
+4
+1 1 2
+9 36 2
+4 12 3
+3 5 4
+###ENDINPUT###
+Finite
+Finite
+Finite
+Infinite
+###ENDOUTPUT###
+10
+10 5 3
+1 7 10
+7 5 7
+4 4 9
+6 5 2
+6 7 5
+9 9 7
+7 5 5
+6 6 4
+10 8 2
+###ENDINPUT###
+Finite
+Infinite
+Infinite
+Finite
+Infinite
+Infinite
+Finite
+Finite
+Finite
+Finite
+###ENDOUTPUT###
+10
+1 3 10
+6 2 6
+2 3 9
+7 8 4
+5 6 10
+1 2 7
+0 3 6
+9 3 4
+4 4 9
+10 9 10
+###ENDINPUT###
+Infinite
+Finite
+Finite
+Finite
+Infinite
+Infinite
+Finite
+Finite
+Finite
+Infinite
+###ENDOUTPUT###
+10
+10 8 5
+0 6 9
+0 7 6
+5 7 3
+7 6 8
+0 4 8
+2 6 3
+10 2 9
+6 7 9
+9 1 4
+###ENDINPUT###
+Infinite
+Finite
+Finite
+Infinite
+Infinite
+Finite
+Finite
+Finite
+Infinite
+Finite
+###ENDOUTPUT###

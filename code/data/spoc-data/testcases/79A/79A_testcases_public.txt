@@ -1,0 +1,20 @@
+2 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+3 22
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+0 22
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+1000 1000
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+0 0
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###

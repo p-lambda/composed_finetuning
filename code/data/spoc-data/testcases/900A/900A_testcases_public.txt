@@ -1,0 +1,42 @@
+3
+1 1
+-1 -1
+2 -1
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+4
+1 1
+2 2
+-1 1
+-2 2
+###ENDINPUT###
+No
+###ENDOUTPUT###
+3
+1 2
+2 1
+4 60
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+10
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+-1 -1
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+2
+1000000000 -1000000000
+1000000000 1000000000
+###ENDINPUT###
+Yes
+###ENDOUTPUT###

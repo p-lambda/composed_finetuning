@@ -1,0 +1,145 @@
+7
+NonZERO
+###ENDINPUT###
+5
+###ENDOUTPUT###
+24
+this is zero answer text
+###ENDINPUT###
+0
+###ENDOUTPUT###
+24
+Harbour Space University
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2
+WM
+###ENDINPUT###
+2
+###ENDOUTPUT###
+200
+LBmJKQLCKUgtTxMoDsEerwvLOXsxASSydOqWyULsRcjMYDWdDCgaDvBfATIWPVSXlbcCLHPYahhxMEYUiaxoCebghJqvmRnaNHYTKLeOiaLDnATPZAOgSNfBzaxLymTGjfzvTegbXsAthTxyDTcmBUkqyGlVGZhoazQzVSoKbTFcCRvYsgSCwjGMxBfWEwMHuagTBxkz
+###ENDINPUT###
+105
+###ENDOUTPUT###
+199
+o A r v H e J q k J k v w Q F p O R y R Z o a K R L Z E H t X y X N y y p b x B m r R S q i A x V S u i c L y M n N X c C W Z m S j e w C w T r I S X T D F l w o k f t X u n W w p Z r A k I Y E h s g
+###ENDINPUT###
+1
+###ENDOUTPUT###
+200
+hCyIdivIiISmmYIsCLbpKcTyHaOgTUQEwnQACXnrLdHAVFLtvliTEMlzBVzTesQbhXmcqvwPDeojglBMIjOXANfyQxCSjOJyO SIqOTnRzVzseGIDDYNtrwIusScWSuEhPyEmgQIVEzXofRptjeMzzhtUQxJgcUWILUhEaaRmYRBVsjoqgmyPIKwSajdlNPccOOtWrez
+###ENDINPUT###
+50
+###ENDOUTPUT###
+1
+e
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1
+A
+###ENDINPUT###
+1
+###ENDOUTPUT###
+200
+ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ KLMNOPRSTU KLMNOPRSTU KLMNOPRSTU VWXYZABCDE KLMNOPRSTU KLMNOPRSTU KLMNOPRSTU KLMNOPRSTU KZ
+###ENDINPUT###
+10
+###ENDOUTPUT###
+200
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+###ENDINPUT###
+200
+###ENDOUTPUT###
+200
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+###ENDINPUT###
+0
+###ENDOUTPUT###
+24
+Harbour Space UniversitY
+###ENDINPUT###
+2
+###ENDOUTPUT###
+5
+aA AA
+###ENDINPUT###
+2
+###ENDOUTPUT###
+10
+as AS ASDA
+###ENDINPUT###
+4
+###ENDOUTPUT###
+10
+as AS ASDZ
+###ENDINPUT###
+4
+###ENDOUTPUT###
+3
+a A
+###ENDINPUT###
+1
+###ENDOUTPUT###
+24
+Harbour space UniversitY
+###ENDINPUT###
+2
+###ENDOUTPUT###
+10
+as AS ASAa
+###ENDINPUT###
+3
+###ENDOUTPUT###
+15
+aAb ABCDFGRHTJS
+###ENDINPUT###
+11
+###ENDOUTPUT###
+53
+sdfAZEZR AZE dfdf dsdRFGSDF ZZDZSD dfsd ERBGF dsfsdfR
+###ENDINPUT###
+6
+###ENDOUTPUT###
+10
+ABC ABc AB
+###ENDINPUT###
+3
+###ENDOUTPUT###
+10
+A c de CDE
+###ENDINPUT###
+3
+###ENDOUTPUT###
+4
+A AB
+###ENDINPUT###
+2
+###ENDOUTPUT###
+18
+HARbour Space UNIV
+###ENDINPUT###
+4
+###ENDOUTPUT###
+13
+a b c d e f A
+###ENDINPUT###
+1
+###ENDOUTPUT###
+6
+A B CA
+###ENDINPUT###
+2
+###ENDOUTPUT###
+4
+aa A
+###ENDINPUT###
+1
+###ENDOUTPUT###
+3
+A a
+###ENDINPUT###
+1
+###ENDOUTPUT###

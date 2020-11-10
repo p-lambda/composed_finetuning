@@ -1,0 +1,496 @@
+100 200 250 150 200 250
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+100 50 50 200 200 100
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+100 10 200 20 300 30
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+1 1 0 1 1 1
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+1 0 1 2 1 2
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+100 1 100 1 0 1
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+1 1 2 2 1 1
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+4 4 1 3 1 4
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+3 3 2 1 4 4
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+5 1 2 9 1 10
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+63 65 21 41 95 23
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+913 0 0 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 333 0 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+842 538 0 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 536 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+324 0 495 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 407 227 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+635 63 924 0 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 493 0 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+414 0 0 564 0 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 143 0 895 0 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+276 264 0 875 0 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 0 532 186 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+510 0 692 825 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 777 910 46 0 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+754 329 959 618 0 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 0 416 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+320 0 0 0 526 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 149 0 0 6 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+996 13 0 0 111 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 531 0 688 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+544 0 837 0 498 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 54 680 0 988 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+684 986 930 0 555 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 511 534 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+594 0 0 819 304 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 55 0 977 230 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+189 291 0 845 97 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 0 77 302 95 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+247 0 272 232 96 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 883 219 748 77 0
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+865 643 599 98 322 0
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 0 0 699
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+907 0 0 0 0 99
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 891 0 0 0 529
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+640 125 0 0 0 849
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 698 0 0 702
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+58 0 483 0 0 470
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 945 924 0 0 355
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+998 185 209 0 0 554
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 914 0 428
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+412 0 0 287 0 575
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 850 0 509 0 76
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+877 318 0 478 0 782
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 0 823 740 0 806
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+126 0 620 51 0 835
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 17 946 633 0 792
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+296 546 493 22 0 893
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 0 0 0 766 813
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+319 0 0 0 891 271
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 252 0 0 261 576
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+876 440 0 0 65 362
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 580 0 245 808
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+835 0 116 0 9 552
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 106 748 0 773 840
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+935 388 453 0 797 235
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 0 0 893 293 289
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+938 0 0 682 55 725
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 710 0 532 389 511
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+617 861 0 247 920 902
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+0 0 732 202 68 389
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+279 0 254 964 449 143
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+0 746 400 968 853 85
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+565 846 658 828 767 734
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 6 1 6 1 6
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+3 6 1 6 3 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 3 1 3 2 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+3 6 2 2 6 3
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+3 2 2 1 3 3
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+1 1 1 6 1 1
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+1 3 1 3 3 2
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 2 6 6 2 3
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 6 2 1 2 1
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 3 2 1 6 6
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 1 2 1 6 2
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+6 1 3 1 3 3
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+1 2 2 3 2 2
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+3 3 2 6 3 6
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+2 1 6 1 2 6
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 3 1 3 1 6
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 6 2 3 1 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 2 6 2 3 1
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+1 6 6 2 3 2
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 3 6 2 6 6
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+1 3 1 6 6 1
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+1 1 1 1 6 6
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 6 2 2 2 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+1 6 1 6 6 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 6 3 1 3 3
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 6 6 1 2 6
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+3 2 6 6 1 6
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+1 2 3 2 2 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+2 6 1 1 1 6
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+1 6 3 6 6 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+3 3 3 2 6 2
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+6 2 3 6 2 2
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 1 2 3 3 2
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+6 2 1 1 3 6
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+6 6 6 6 3 2
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+6 1 1 6 2 3
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+6 1 3 6 1 2
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+2 1 2 6 6 1
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+1 2 2 3 2 1
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+2 2 6 6 6 6
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+31 75 12 62 94 137
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+236 9 184 68 345 332
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+362 142 107 565 329 608
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+731 859 197 474 370 465
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+452 577 639 31 60 673
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+821 294 730 941 101 530
+###ENDINPUT###
+Ron
+###ENDOUTPUT###
+542 11 820 850 791 738
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+911 728 910 407 833 594
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###
+632 446 352 317 522 451
+###ENDINPUT###
+Hermione
+###ENDOUTPUT###

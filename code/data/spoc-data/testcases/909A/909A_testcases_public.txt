@@ -1,0 +1,20 @@
+harry potter
+###ENDINPUT###
+hap
+###ENDOUTPUT###
+tom riddle
+###ENDINPUT###
+tomr
+###ENDOUTPUT###
+a qdpinbmcrf
+###ENDINPUT###
+aq
+###ENDOUTPUT###
+wixjzniiub ssdfodfgap
+###ENDINPUT###
+wis
+###ENDOUTPUT###
+z z
+###ENDINPUT###
+zz
+###ENDOUTPUT###

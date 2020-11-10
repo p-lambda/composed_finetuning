@@ -1,0 +1,240 @@
+5 5
+kjxbw
+eacra
+xefhx
+ucmcz
+pgtjk
+###ENDINPUT###
+1
+###ENDOUTPUT###
+1 1
+p
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 5
+acdmw
+efazb
+###ENDINPUT###
+1
+###ENDOUTPUT###
+5 2
+dz
+da
+sx
+yu
+zz
+###ENDINPUT###
+0
+###ENDOUTPUT###
+5 5
+xeljd
+wriac
+veief
+lcacf
+bqefn
+###ENDINPUT###
+2
+###ENDOUTPUT###
+5 5
+acnbx
+efacp
+lrefa
+orqce
+zvbay
+###ENDINPUT###
+3
+###ENDOUTPUT###
+5 5
+byjvu
+kmaca
+alefe
+wcacg
+refez
+###ENDINPUT###
+5
+###ENDOUTPUT###
+5 5
+puxac
+bbaef
+accfa
+efaec
+ligsr
+###ENDINPUT###
+5
+###ENDOUTPUT###
+37 4
+acjo
+efac
+acef
+efac
+wpef
+icac
+aefe
+cfac
+aece
+cfaf
+yqce
+miaf
+irce
+ycaf
+aefc
+cfae
+rsnc
+bacz
+qefb
+pdhs
+ffac
+faef
+acfd
+acmi
+efvm
+acaz
+efpn
+acao
+efer
+acap
+efec
+acaf
+efef
+acbj
+efac
+acef
+efoz
+###ENDINPUT###
+49
+###ENDOUTPUT###
+7 3
+jac
+aef
+cfa
+aec
+cfq
+dig
+xyq
+###ENDINPUT###
+5
+###ENDOUTPUT###
+35 1
+y
+a
+k
+g
+i
+d
+v
+n
+l
+x
+u
+x
+u
+o
+d
+f
+k
+j
+r
+m
+q
+s
+c
+d
+c
+m
+v
+h
+n
+e
+l
+t
+z
+y
+o
+###ENDINPUT###
+0
+###ENDOUTPUT###
+9 46
+uuexbaacesjclggslacermcbkxlcxhdgqtacdwfryxzuxc
+aclrsaefakndbnzlkefenuphgcgoedhkaxefjtnkgfeaca
+efuqunpmfxdyyffyhvracozzrxlpekhtsrfhlilfmyhefg
+umyacfzffvicqtdpiulefnwcojuwtfbvlxkfsiapdnzpqo
+actefvuxqptremlqjhdbdwacjxdxitxjktecvefacamjcz
+eflarseklqrkayhosverpfefzirqigzlxezabhzeferkwm
+ztpypwxyohtacsnnvoigqwcachtaceyxlkhfhgwbnfmklb
+fzpqeymhljiefctvqtbgcdjefkxefarbciyosmktmoziac
+bssxizyrzyhacszttwhrzspbfkgfcejybdjcpuczhrkqef
+###ENDINPUT###
+20
+###ENDOUTPUT###
+7 30
+mjfracgaacacctacrreyrlkacuacay
+rlacefacefeftaeftkacacaefcefev
+acefacefacraccfaeaefefecaeacaf
+efacefacefaefaecfcfacacaecfefa
+ncefacefacecacfaeaecefefcaeace
+fafaceacuafaefadcfcafacaefcfea
+zsvefafukcecfarkaeaecefecailgu
+###ENDINPUT###
+95
+###ENDOUTPUT###
+2 2
+ff
+ee
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+fa
+cc
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+fa
+aa
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+fa
+ea
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+fa
+dd
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+ee
+ff
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+cc
+cf
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+aa
+ae
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 2
+ef
+ac
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2 2
+fe
+ca
+###ENDINPUT###
+1
+###ENDOUTPUT###

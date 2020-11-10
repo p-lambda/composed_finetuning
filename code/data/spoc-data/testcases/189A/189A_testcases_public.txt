@@ -1,0 +1,20 @@
+5 5 3 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+7 5 5 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+4 4 4 4
+###ENDINPUT###
+1
+###ENDOUTPUT###
+1 1 1 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+4000 1 2 3
+###ENDINPUT###
+4000
+###ENDOUTPUT###

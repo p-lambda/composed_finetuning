@@ -1,0 +1,25 @@
+10 5
+somer
+andom
+noise
+mayth
+eforc
+ebewi
+thyou
+hctwo
+again
+noise
+somermayth
+andomeforc
+noiseebewi
+againthyou
+noisehctwo
+###ENDINPUT###
+4 6
+###ENDOUTPUT###
+1 1
+g
+g
+###ENDINPUT###
+1 1
+###ENDOUTPUT###

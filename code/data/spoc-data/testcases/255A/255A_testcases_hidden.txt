@@ -1,0 +1,280 @@
+6
+8 7 2 5 3 4
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+8
+7 2 9 10 3 8 10 6
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+9
+5 4 2 3 4 4 5 2 2
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+10
+4 9 8 5 3 8 8 10 4 2
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+11
+10 9 7 6 1 3 9 7 1 3 5
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+12
+24 22 6 16 5 21 1 7 2 19 24 5
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+13
+24 10 5 7 16 17 2 7 9 20 15 2 24
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+14
+13 14 19 8 5 17 9 16 15 9 5 6 3 7
+###ENDINPUT###
+back
+###ENDOUTPUT###
+15
+24 12 22 21 25 23 21 5 3 24 23 13 12 16 12
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+16
+12 6 18 6 25 7 3 1 1 17 25 17 6 8 17 8
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+17
+13 8 13 4 9 21 10 10 9 22 14 23 22 7 6 14 19
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+18
+1 17 13 6 11 10 25 13 24 9 21 17 3 1 17 12 25 21
+###ENDINPUT###
+back
+###ENDOUTPUT###
+19
+22 22 24 25 19 10 7 10 4 25 19 14 1 14 3 18 4 19 24
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+20
+9 8 22 11 18 14 15 10 17 11 2 1 25 20 7 24 4 25 9 20
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+1
+10
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+2
+15 3
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+3
+21 11 19
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+4
+19 24 13 15
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+5
+4 24 1 9 19
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+6
+6 22 24 7 15 24
+###ENDINPUT###
+back
+###ENDOUTPUT###
+7
+10 8 23 23 14 18 14
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+8
+5 16 8 9 17 16 14 7
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+9
+12 3 10 23 6 4 22 13 12
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+10
+1 9 20 18 20 17 7 24 23 2
+###ENDINPUT###
+back
+###ENDOUTPUT###
+11
+22 25 8 2 18 15 1 13 1 11 4
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+12
+20 12 14 2 15 6 24 3 11 8 11 14
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+13
+2 18 8 8 8 20 5 22 15 2 5 19 18
+###ENDINPUT###
+back
+###ENDOUTPUT###
+14
+1 6 10 25 17 13 21 11 19 4 15 24 5 22
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+15
+13 5 25 13 17 25 19 21 23 17 12 6 14 8 6
+###ENDINPUT###
+back
+###ENDOUTPUT###
+16
+10 15 2 17 22 12 14 14 6 11 4 13 9 8 21 14
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+17
+7 22 9 22 8 7 20 22 23 5 12 11 1 24 17 20 10
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+18
+18 15 4 25 5 11 21 25 12 14 25 23 19 19 13 6 9 17
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+19
+3 1 3 15 15 25 10 25 23 10 9 21 13 23 19 3 24 21 14
+###ENDINPUT###
+back
+###ENDOUTPUT###
+20
+19 18 11 3 6 14 3 3 25 3 1 19 25 24 23 12 7 4 8 6
+###ENDINPUT###
+back
+###ENDOUTPUT###
+1
+19
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+2
+1 7
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+3
+18 18 23
+###ENDINPUT###
+back
+###ENDOUTPUT###
+4
+12 15 1 13
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+5
+11 14 25 21 21
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+6
+11 9 12 11 22 18
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+7
+11 1 16 20 21 25 20
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+8
+1 2 20 9 3 22 17 4
+###ENDINPUT###
+back
+###ENDOUTPUT###
+9
+19 2 10 19 15 20 3 1 13
+###ENDINPUT###
+back
+###ENDOUTPUT###
+10
+11 2 11 8 21 16 2 3 19 9
+###ENDINPUT###
+back
+###ENDOUTPUT###
+20
+25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 24
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+12
+4 24 21 3 13 24 22 13 12 21 1 15
+###ENDINPUT###
+back
+###ENDOUTPUT###
+13
+14 14 16 2 13 5 1 14 9 4 16 8 3
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+14
+1 9 15 4 11 8 25 3 9 14 13 2 1 11
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+15
+4 19 10 6 16 12 5 11 7 23 1 24 11 7 17
+###ENDINPUT###
+back
+###ENDOUTPUT###
+16
+2 8 2 8 13 22 20 12 22 23 18 13 18 22 11 17
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+17
+24 5 5 16 10 8 22 6 4 13 10 10 5 23 8 20 8
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+18
+14 8 9 12 11 18 24 1 14 24 18 5 12 17 1 10 1 22
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+19
+21 2 10 6 9 1 24 5 2 19 10 13 10 7 19 2 6 13 24
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+20
+7 1 14 17 6 6 18 13 12 3 25 4 3 19 22 24 16 14 1 23
+###ENDINPUT###
+biceps
+###ENDOUTPUT###
+1
+19
+###ENDINPUT###
+chest
+###ENDOUTPUT###
+20
+2 1 2 2 1 2 2 1 2 1 1 1 1 1 1 1 1 1 1 22
+###ENDINPUT###
+biceps
+###ENDOUTPUT###

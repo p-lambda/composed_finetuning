@@ -1,0 +1,60 @@
+20 7
+###ENDINPUT###
+abababababababacdefg
+###ENDOUTPUT###
+26 26
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxyz
+###ENDOUTPUT###
+47 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+128 26
+###ENDINPUT###
+ababababababababababababababababababababababababababababababababababababababababababababababababababababcdefghijklmnopqrstuvwxyz
+###ENDOUTPUT###
+4585 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1000000 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+6795 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 17
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1 1
+###ENDINPUT###
+a
+###ENDOUTPUT###
+2 2
+###ENDINPUT###
+ab
+###ENDOUTPUT###
+1 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1 26
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+26 2
+###ENDINPUT###
+ababababababababababababab
+###ENDOUTPUT###
+123 21
+###ENDINPUT###
+ababababababababababababababababababababababababababababababababababababababababababababababababababababcdefghijklmnopqrstu
+###ENDOUTPUT###
+3 3
+###ENDINPUT###
+abc
+###ENDOUTPUT###

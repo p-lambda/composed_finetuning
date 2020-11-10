@@ -1,0 +1,59 @@
+3
+Troll likes Dracul
+Dracul likes Anka
+Snowy likes Hexadecimal
+210 200 180
+###ENDINPUT###
+30 3
+###ENDOUTPUT###
+2
+Anka likes Chapay
+Chapay likes Anka
+10000 50 50
+###ENDINPUT###
+1950 2
+###ENDOUTPUT###
+11
+Snowy likes Dracul
+Anka likes Dracul
+Chapay likes Snowy
+Hexadecimal likes Troll
+Anka likes Cleo
+Chapay likes Dracul
+Anka likes Chapay
+Snowy likes Troll
+Anka likes Hexadecimal
+Cleo likes Chapay
+Troll likes Cleo
+100 100 100
+###ENDINPUT###
+17 5
+###ENDOUTPUT###
+14
+Chapay likes Cleo
+Cleo likes Anka
+Dracul likes Snowy
+Snowy likes Cleo
+Chapay likes Anka
+Snowy likes Anka
+Chapay likes Troll
+Troll likes Anka
+Anka likes Snowy
+Chapay likes Dracul
+Dracul likes Anka
+Hexadecimal likes Chapay
+Snowy likes Dracul
+Cleo likes Dracul
+15 15 15
+###ENDINPUT###
+2 6
+###ENDOUTPUT###
+4
+Anka likes Cleo
+Snowy likes Cleo
+Anka likes Hexadecimal
+Cleo likes Snowy
+1 1 1
+###ENDINPUT###
+0 3
+###ENDOUTPUT###

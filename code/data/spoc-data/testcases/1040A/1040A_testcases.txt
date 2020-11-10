@@ -1,0 +1,265 @@
+5 100 1
+0 1 2 1 2
+###ENDINPUT###
+101
+###ENDOUTPUT###
+3 10 12
+1 2 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3 12 1
+0 1 0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+10 1 9
+1 2 1 0 1 0 1 0 0 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+7 16 16
+1 1 2 2 0 2 1
+###ENDINPUT###
+48
+###ENDOUTPUT###
+13 61 9
+0 0 2 0 1 0 2 1 0 0 2 2 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+20 53 67
+1 2 1 2 0 0 0 2 2 2 1 0 0 2 0 0 0 1 1 2
+###ENDINPUT###
+413
+###ENDOUTPUT###
+1 100 1
+0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1 1 100
+2
+###ENDINPUT###
+1
+###ENDOUTPUT###
+1 100 1
+2
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2 9 6
+2 2
+###ENDINPUT###
+12
+###ENDOUTPUT###
+2 89 7
+0 0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+3 79 30
+0 2 2
+###ENDINPUT###
+109
+###ENDOUTPUT###
+4 65 44
+1 2 0 1
+###ENDINPUT###
+65
+###ENDOUTPUT###
+5 55 62
+0 1 1 0 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+6 36 80
+0 2 1 0 1 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+7 14 98
+1 0 1 2 2 0 1
+###ENDINPUT###
+112
+###ENDOUTPUT###
+8 4 13
+2 2 1 2 1 2 2 2
+###ENDINPUT###
+42
+###ENDOUTPUT###
+9 90 31
+1 0 0 0 0 2 0 0 2
+###ENDINPUT###
+121
+###ENDOUTPUT###
+10 99 62
+1 2 1 0 2 0 0 2 2 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+11 89 72
+0 2 2 1 0 0 0 1 0 2 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 75 91
+0 1 2 2 1 0 1 2 0 0 0 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+13 89 65
+2 2 0 1 2 1 1 0 2 1 0 0 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+14 46 23
+2 0 2 0 2 1 0 2 1 1 1 1 1 2
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+15 24 41
+0 2 1 1 0 0 1 0 0 0 0 0 0 1 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+16 14 64
+2 1 1 0 1 0 2 1 2 2 0 2 2 2 2 1
+###ENDINPUT###
+362
+###ENDOUTPUT###
+17 100 82
+0 2 1 2 0 2 0 0 2 2 2 1 0 0 2 0 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+18 89 92
+2 0 2 1 2 2 0 2 0 0 0 0 2 0 1 1 0 0
+###ENDINPUT###
+537
+###ENDOUTPUT###
+19 75 14
+2 2 2 2 0 2 1 0 0 0 0 1 1 1 2 0 2 0 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+20 53 32
+0 0 1 1 1 2 2 2 2 2 2 1 1 1 2 0 2 2 0 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1 1 100
+1
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1 100 1
+1
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1 1 100
+0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 1 1
+2 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+2 100 1
+2 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+3 100 100
+2 2 2
+###ENDINPUT###
+300
+###ENDOUTPUT###
+2 2 2
+2 2
+###ENDINPUT###
+4
+###ENDOUTPUT###
+5 100 1
+0 2 2 2 2
+###ENDINPUT###
+103
+###ENDOUTPUT###
+3 10 10
+2 2 2
+###ENDINPUT###
+30
+###ENDOUTPUT###
+5 2 22
+2 2 2 2 2
+###ENDINPUT###
+10
+###ENDOUTPUT###
+3 3 3
+2 2 2
+###ENDINPUT###
+9
+###ENDOUTPUT###
+2 100 1
+0 1
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2 2 3
+2 2
+###ENDINPUT###
+4
+###ENDOUTPUT###
+3 2 2
+2 2 2
+###ENDINPUT###
+6
+###ENDOUTPUT###
+3 1 1
+0 0 0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+3 1 4
+2 2 2
+###ENDINPUT###
+3
+###ENDOUTPUT###
+3 10 1
+2 0 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+9 1 2
+1 0 2 2 2 2 2 0 1
+###ENDINPUT###
+5
+###ENDOUTPUT###
+3 4 8
+2 1 2
+###ENDINPUT###
+8
+###ENDOUTPUT###
+3 2 4
+2 2 2
+###ENDINPUT###
+6
+###ENDOUTPUT###
+5 2 3
+2 2 2 2 2
+###ENDINPUT###
+10
+###ENDOUTPUT###
+3 4 5
+2 1 2
+###ENDINPUT###
+8
+###ENDOUTPUT###
+3 1 1
+1 2 0
+###ENDINPUT###
+-1
+###ENDOUTPUT###

@@ -1,0 +1,20 @@
+5 1 2 1 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+3 3 1 1 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+4 5 3 1 5
+###ENDINPUT###
+Friendship
+###ENDOUTPUT###
+1000 1000 1000 1000 1000
+###ENDINPUT###
+Friendship
+###ENDOUTPUT###
+1 1 1 1 1
+###ENDINPUT###
+Friendship
+###ENDOUTPUT###

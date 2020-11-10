@@ -1,0 +1,175 @@
+[]()[]8<
+8<[]()8<
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+8<8<()
+[]8<[]
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+()
+[]
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+()
+8<
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+8<
+[]
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+[]8<()()()()8<8<8<[]
+()()[][][]8<[]()8<8<
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+()[]()()()
+[]()[][]8<
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+()
+8<
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+()[][]()()[][]()8<8<
+8<[]()()()8<[][]()()
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+()[][]8<
+8<()8<()
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+8<()8<8<8<8<()8<
+[]()()8<()[][][]
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+[][]8<8<8<8<
+8<[][]()8<()
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+[]
+()
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+8<8<8<[]
+[][][][]
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+[][]8<[][]8<[]()()()
+()()[][]8<[]()8<[][]
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+[]8<8<[]
+[]8<()[]
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+[]
+[]
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+[]8<[]()()()[]
+8<[]8<()8<()8<
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+[]()()()8<[]8<[]
+[][]8<[]()[][][]
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+8<()8<[]
+()[][]()
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+()[]()()8<[]8<[]
+()()()8<8<()8<[]
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+8<()()()8<8<
+[]8<()()[][]
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+()[]()()
+()()[]()
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+[]8<[]8<[]()
+8<[]8<8<[]8<
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+8<()()[]()[]
+8<8<8<8<[][]
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+[][]()[]
+[]8<8<[]
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+[]()
+()()
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###
+()()()()8<()()()8<
+()[][][]8<()[][][]
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+[]8<
+8<()
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+8<8<8<
+[]()8<
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+[]
+[]
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+()
+()
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+8<
+8<
+###ENDINPUT###
+TIE
+###ENDOUTPUT###
+()
+[]
+###ENDINPUT###
+TEAM 2 WINS
+###ENDOUTPUT###
+8<
+[]
+###ENDINPUT###
+TEAM 1 WINS
+###ENDOUTPUT###

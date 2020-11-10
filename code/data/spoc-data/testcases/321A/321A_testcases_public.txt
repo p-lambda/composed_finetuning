@@ -1,0 +1,25 @@
+2 2
+RU
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+1 2
+RU
+###ENDINPUT###
+No
+###ENDOUTPUT###
+-1 1000000000
+LRRLU
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+0 0
+D
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+0 0
+UURRDL
+###ENDINPUT###
+Yes
+###ENDOUTPUT###

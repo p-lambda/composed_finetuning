@@ -1,0 +1,725 @@
+5 4 0.75
+axe 350
+impaler 300
+ionize 80
+megafire 120
+magicboost 220
+heal
+megafire
+shield
+magicboost
+###ENDINPUT###
+6
+axe 262
+heal 0
+impaler 225
+magicboost 165
+megafire 0
+shield 0
+###ENDOUTPUT###
+1 1 0.50
+staff 1005
+ionize
+###ENDINPUT###
+2
+ionize 0
+staff 502
+###ENDOUTPUT###
+4 3 0.32
+inrf 48
+fdgdf 200
+vbkdfk 450
+fdbvfdd 1000
+dff
+inrf
+nfdkd
+###ENDINPUT###
+5
+dff 0
+fdbvfdd 320
+inrf 0
+nfdkd 0
+vbkdfk 144
+###ENDOUTPUT###
+5 1 0.99
+a 1
+b 2
+c 3
+d 4
+e 5
+f
+###ENDINPUT###
+1
+f 0
+###ENDOUTPUT###
+2 2 0.02
+fn 1003
+zz 7000
+kk
+au
+###ENDINPUT###
+3
+au 0
+kk 0
+zz 140
+###ENDOUTPUT###
+3 3 0.10
+aa 900
+bb 990
+cc 999
+aa
+bb
+cc
+###ENDINPUT###
+3
+aa 0
+bb 0
+cc 0
+###ENDOUTPUT###
+1 1 0.99
+fdvedvrgfckdkvfpmkjd 100
+fdvedvrgfckdkvfpmkjd
+###ENDINPUT###
+1
+fdvedvrgfckdkvfpmkjd 0
+###ENDOUTPUT###
+1 1 0.01
+a 9999
+a
+###ENDINPUT###
+1
+a 0
+###ENDOUTPUT###
+1 1 0.80
+xyz 125
+xyz
+###ENDINPUT###
+1
+xyz 100
+###ENDOUTPUT###
+5 1 0.67
+djdn 6699
+olkj 6700
+hgvg 6698
+oijggt 6701
+yfyv 6700
+yfyv
+###ENDINPUT###
+5
+djdn 4488
+hgvg 4487
+oijggt 4489
+olkj 4489
+yfyv 4489
+###ENDOUTPUT###
+5 2 0.73
+jcyuc 136
+pooj 137
+ojnbg 138
+inng 135
+uuv 139
+hg
+ouohoiivuvu
+###ENDINPUT###
+5
+hg 0
+ojnbg 100
+ouohoiivuvu 0
+pooj 100
+uuv 101
+###ENDOUTPUT###
+4 1 0.99
+utctc 101
+ijh 100
+fyyui 99
+tctxxx 102
+ojohiobib
+###ENDINPUT###
+2
+ojohiobib 0
+tctxxx 100
+###ENDOUTPUT###
+4 4 0.80
+yfcyccyyccccc 123
+kkkkk 124
+oops 125
+abfgg 126
+h
+jkl
+qwerty
+oops
+###ENDINPUT###
+5
+abfgg 100
+h 0
+jkl 0
+oops 100
+qwerty 0
+###ENDOUTPUT###
+4 6 0.68
+a 146
+b 147
+c 148
+d 149
+e
+f
+g
+h
+i
+j
+###ENDINPUT###
+8
+c 100
+d 101
+e 0
+f 0
+g 0
+h 0
+i 0
+j 0
+###ENDOUTPUT###
+5 1 0.02
+irn 4999
+sdfc 5000
+zzzzzz 5001
+dcw 100
+fvvv 22
+dcw
+###ENDINPUT###
+3
+dcw 0
+sdfc 100
+zzzzzz 100
+###ENDOUTPUT###
+5 5 0.18
+xwjxvrgz 9492
+dhpe 5259
+bnbkznfgyuluho 5070
+ygpluaefwefxmhuaqi 2975
+vqstuwkaqk 8892
+dhpe
+bnbkznfgyuluho
+ygpluaefwefxmhuaqi
+vyaefiicj
+xwjxvrgz
+###ENDINPUT###
+6
+bnbkznfgyuluho 912
+dhpe 946
+vqstuwkaqk 1600
+vyaefiicj 0
+xwjxvrgz 1708
+ygpluaefwefxmhuaqi 535
+###ENDOUTPUT###
+10 10 0.28
+szyiekxcixeyqyfm 7701
+cdxkfpggugy 5344
+gqyvyzwkajhc 3674
+tmo 8865
+tbp 8932
+wbrzxccfmdxbzw 4566
+vpgcejyragzhm 1554
+cqqjrh 7868
+w 1548
+xkbitfl 588
+lpcwvverv
+borcfgittei
+w
+zqtzpicsndbxfcbaduds
+cdxkfpggugy
+tmo
+mvmdaltjmy
+bzhykrayudljyj
+yktrcowlgwkvqucbqh
+vtm
+###ENDINPUT###
+17
+borcfgittei 0
+bzhykrayudljyj 0
+cdxkfpggugy 1496
+cqqjrh 2203
+gqyvyzwkajhc 1028
+lpcwvverv 0
+mvmdaltjmy 0
+szyiekxcixeyqyfm 2156
+tbp 2500
+tmo 2482
+vpgcejyragzhm 435
+vtm 0
+w 433
+wbrzxccfmdxbzw 1278
+xkbitfl 164
+yktrcowlgwkvqucbqh 0
+zqtzpicsndbxfcbaduds 0
+###ENDOUTPUT###
+13 13 0.20
+bbdtfrykzf 6189
+nqwei 7327
+dtigwnbwevnnlinhk 3662
+xokqjtylly 1274
+sdpnhipam 5672
+pfjmflvtuvctwxr 9580
+ybqgomvwoguzcqvzkx 2062
+vowzavh 6345
+bfidjslqlesdtyjkreou 6780
+svpzwtwn 1945
+invzueipnifajadhjk 7034
+sz 6494
+ce 1323
+ybqgomvwoguzcqvzkx
+bbdtfrykzf
+vunbpghae
+dtigwnbwevnnlinhk
+uqdlfskhgo
+vdemdnxifb
+vowzavh
+pfjmflvtuvctwxr
+bfidjslqlesdtyjkreou
+nqwei
+sz
+jiemqkytxtqnxgjvhzjl
+ce
+###ENDINPUT###
+17
+bbdtfrykzf 1237
+bfidjslqlesdtyjkreou 1356
+ce 264
+dtigwnbwevnnlinhk 732
+invzueipnifajadhjk 1406
+jiemqkytxtqnxgjvhzjl 0
+nqwei 1465
+pfjmflvtuvctwxr 1916
+sdpnhipam 1134
+svpzwtwn 389
+sz 1298
+uqdlfskhgo 0
+vdemdnxifb 0
+vowzavh 1269
+vunbpghae 0
+xokqjtylly 254
+ybqgomvwoguzcqvzkx 412
+###ENDOUTPUT###
+1 17 0.97
+sfidbvqbvx 562
+pmuvtjkw
+ysxuhhfgwgifkf
+nsgdgacfdstvsf
+gggnzgevrtykq
+vmeytgyobqpmq
+rbzif
+fqbr
+epcy
+tvtgk
+sdwsny
+huzsrlvxvufyb
+iallwqylqga
+semxysiafu
+odrxgpjgiiizlubtuv
+lenenatgyqep
+lzakhvoxfccct
+ijkhhuppdghdwz
+###ENDINPUT###
+18
+epcy 0
+fqbr 0
+gggnzgevrtykq 0
+huzsrlvxvufyb 0
+iallwqylqga 0
+ijkhhuppdghdwz 0
+lenenatgyqep 0
+lzakhvoxfccct 0
+nsgdgacfdstvsf 0
+odrxgpjgiiizlubtuv 0
+pmuvtjkw 0
+rbzif 0
+sdwsny 0
+semxysiafu 0
+sfidbvqbvx 545
+tvtgk 0
+vmeytgyobqpmq 0
+ysxuhhfgwgifkf 0
+###ENDOUTPUT###
+5 19 0.38
+mwfhslniu 2324
+jyzifusxbigcagch 6167
+kccudxutkgb 9673
+uccmkylmiqcn 4773
+iuawwcyefaimhro 214
+jyzifusxbigcagch
+falsionuewiyvseurg
+rkrvudkrhophdflqln
+ahsybnxitvpm
+x
+ancpcxgr
+svs
+vvssivqobhdfqggahqu
+pf
+wjtrtcvjqydxuwwvsqpc
+yllpzfjdojpymwy
+epjhkxffsymowea
+yztamblsfzk
+bej
+wy
+vnkvonk
+ymsnsngzcvxeilbitknn
+lmaajt
+mwfhslniu
+###ENDINPUT###
+21
+ahsybnxitvpm 0
+ancpcxgr 0
+bej 0
+epjhkxffsymowea 0
+falsionuewiyvseurg 0
+jyzifusxbigcagch 2343
+kccudxutkgb 3675
+lmaajt 0
+mwfhslniu 883
+pf 0
+rkrvudkrhophdflqln 0
+svs 0
+uccmkylmiqcn 1813
+vnkvonk 0
+vvssivqobhdfqggahqu 0
+wjtrtcvjqydxuwwvsqpc 0
+wy 0
+x 0
+yllpzfjdojpymwy 0
+ymsnsngzcvxeilbitknn 0
+yztamblsfzk 0
+###ENDOUTPUT###
+13 10 0.35
+apjqdcdylyads 948
+i 618
+sbifpsvflzngfziwx 6815
+lhuzbitj 8455
+zhoro 657
+fm 6899
+bhigr 6743
+et 3322
+ljbkmxj 3023
+loxxykp 6048
+aiibfjdgd 965
+mmpylhw 5483
+yrbikjks 7426
+fm
+jvj
+apjqdcdylyads
+bhigr
+aiibfjdgd
+ljbkmxj
+auftuqyphmz
+loxxykp
+zhoro
+dmqdfmfjq
+###ENDINPUT###
+16
+aiibfjdgd 337
+apjqdcdylyads 331
+auftuqyphmz 0
+bhigr 2360
+dmqdfmfjq 0
+et 1162
+fm 2414
+i 216
+jvj 0
+lhuzbitj 2959
+ljbkmxj 1058
+loxxykp 2116
+mmpylhw 1919
+sbifpsvflzngfziwx 2385
+yrbikjks 2599
+zhoro 229
+###ENDOUTPUT###
+17 6 0.44
+hefojxlinlzhynuleh 9008
+ufy 7485
+gmgjrihvgxsbcu 7575
+rnlz 3789
+nkvcpt 5813
+m 9066
+sjxpwpxrkbpydkjcojvq 8679
+ftvk 9385
+yygdlclq 759
+vkltswaflkg 5183
+otosgwfe 639
+maayvyqtvxkudpbcfj 7425
+hys 935
+gwucwol 6087
+brkmjhnmmrkjzhar 1247
+tea 205
+hyxhj 6600
+maayvyqtvxkudpbcfj
+m
+rnlz
+brkmjhnmmrkjzhar
+hys
+gwucwol
+###ENDINPUT###
+16
+brkmjhnmmrkjzhar 548
+ftvk 4129
+gmgjrihvgxsbcu 3333
+gwucwol 2678
+hefojxlinlzhynuleh 3963
+hys 411
+hyxhj 2904
+m 3989
+maayvyqtvxkudpbcfj 3267
+nkvcpt 2557
+otosgwfe 281
+rnlz 1667
+sjxpwpxrkbpydkjcojvq 3818
+ufy 3293
+vkltswaflkg 2280
+yygdlclq 333
+###ENDOUTPUT###
+19 3 0.40
+pwmgdtn 817
+ikzw 8809
+yjltrwizoumwvvtivqmm 2126
+tvdguvmepsvvp 9945
+dvhoxdvqyqmyl 5998
+alpxryere 7048
+chnprj 3029
+tnsrxilkay 1076
+quamvicl 7260
+zdzahaxmxnbkuqavmb 174
+ywgyrbmmhwbrcx 3637
+oicdsxki 7516
+zftrgvmtbuhqsmv 6831
+jlfjgvzgmkmzbsjhwhy 8042
+zuy 2049
+hsahihp 1975
+kcfsycnilwqyqvsf 6896
+tdlgs 4302
+im 4476
+kcfsycnilwqyqvsf
+im
+dvhoxdvqyqmyl
+###ENDINPUT###
+18
+alpxryere 2819
+chnprj 1211
+dvhoxdvqyqmyl 2399
+hsahihp 790
+ikzw 3523
+im 1790
+jlfjgvzgmkmzbsjhwhy 3216
+kcfsycnilwqyqvsf 2758
+oicdsxki 3006
+pwmgdtn 326
+quamvicl 2904
+tdlgs 1720
+tnsrxilkay 430
+tvdguvmepsvvp 3978
+yjltrwizoumwvvtivqmm 850
+ywgyrbmmhwbrcx 1454
+zftrgvmtbuhqsmv 2732
+zuy 819
+###ENDOUTPUT###
+20 1 0.78
+xc 6799
+ztrfjsq 3023
+khbcbsaztwigxeidh 2974
+kksvbmtjiiqlguwv 188
+wvqzzjrpmxsdbfvua 4547
+iqkqqwtqifdpxfhslpv 6264
+warmknju 9472
+fheisuiufwmtagl 292
+wge 4338
+zaklermeji 6733
+fcn 6282
+bjyjzgzkgzy 1778
+gufpvhdnsesyfuegef 4998
+xnhuhwzzxqbaphktqbc 8485
+cokabaqahfw 8645
+btgeopbwekffdadgj 1791
+sgvrgyhidnhecvt 7264
+cczstyyxhbpwj 3244
+guaykdl 3786
+mabamfnewwrykizn 4705
+bjyjzgzkgzy
+###ENDINPUT###
+20
+bjyjzgzkgzy 1386
+btgeopbwekffdadgj 1396
+cczstyyxhbpwj 2530
+cokabaqahfw 6743
+fcn 4899
+fheisuiufwmtagl 227
+guaykdl 2953
+gufpvhdnsesyfuegef 3898
+iqkqqwtqifdpxfhslpv 4885
+khbcbsaztwigxeidh 2319
+kksvbmtjiiqlguwv 146
+mabamfnewwrykizn 3669
+sgvrgyhidnhecvt 5665
+warmknju 7388
+wge 3383
+wvqzzjrpmxsdbfvua 3546
+xc 5303
+xnhuhwzzxqbaphktqbc 6618
+zaklermeji 5251
+ztrfjsq 2357
+###ENDOUTPUT###
+1 1 0.94
+a 8700
+b
+###ENDINPUT###
+2
+a 8178
+b 0
+###ENDOUTPUT###
+1 1 0.70
+a 1000
+a
+###ENDINPUT###
+1
+a 700
+###ENDOUTPUT###
+2 1 0.50
+axe 200
+megafire 120
+megafire
+###ENDINPUT###
+2
+axe 100
+megafire 0
+###ENDOUTPUT###
+5 4 0.99
+axe 350
+impaler 300
+ionize 102
+megafire 120
+magicboost 220
+heal
+megafire
+shield
+magicboost
+###ENDINPUT###
+7
+axe 346
+heal 0
+impaler 297
+ionize 100
+magicboost 217
+megafire 118
+shield 0
+###ENDOUTPUT###
+1 1 0.94
+a 8700
+b
+###ENDINPUT###
+2
+a 8178
+b 0
+###ENDOUTPUT###
+1 1 0.50
+lho 200
+hai
+###ENDINPUT###
+2
+hai 0
+lho 100
+###ENDOUTPUT###
+20 3 0.29
+a 100
+b 200
+c 300
+d 400
+e 500
+f 600
+g 700
+h 800
+i 900
+j 1000
+k 1100
+l 1200
+m 1300
+n 1400
+o 1500
+p 1600
+q 1700
+r 1800
+s 1900
+t 2000
+z
+m
+k
+###ENDINPUT###
+18
+d 116
+e 145
+f 174
+g 203
+h 232
+i 261
+j 290
+k 319
+l 348
+m 377
+n 406
+o 435
+p 464
+q 493
+r 522
+s 551
+t 580
+z 0
+###ENDOUTPUT###
+2 2 0.50
+abcd 200
+aaa 201
+fff
+ffff
+###ENDINPUT###
+4
+aaa 100
+abcd 100
+fff 0
+ffff 0
+###ENDOUTPUT###
+1 1 0.94
+a 8700
+b
+###ENDINPUT###
+2
+a 8178
+b 0
+###ENDOUTPUT###
+1 1 0.29
+hren 400
+blin
+###ENDINPUT###
+2
+blin 0
+hren 116
+###ENDOUTPUT###
+5 4 0.30
+axe 350
+impaler 9000
+ionize 80
+megafire 120
+magicboost 220
+heal
+megafire
+shield
+magicboost
+###ENDINPUT###
+6
+axe 105
+heal 0
+impaler 2700
+magicboost 0
+megafire 0
+shield 0
+###ENDOUTPUT###
+1 1 0.03
+axe 9900
+heal
+###ENDINPUT###
+2
+axe 297
+heal 0
+###ENDOUTPUT###

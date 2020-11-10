@@ -1,0 +1,80 @@
+2 2 1 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+2 1 1 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+5 7 4 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+5 7 1 4
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+5 7 10 10
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+5 7 1 10
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 1 1 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+50 50 50 50
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+50 49 1 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+50 48 3 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+48 50 12 11
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+49 50 11 12
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+49 49 4 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+49 49 3 3
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 50 1 50
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 50 50 50
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+50 1 1 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+50 1 1 50
+###ENDINPUT###
+First
+###ENDOUTPUT###
+32 31 10 9
+###ENDINPUT###
+First
+###ENDOUTPUT###
+32 4 17 3
+###ENDINPUT###
+First
+###ENDOUTPUT###

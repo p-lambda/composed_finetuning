@@ -1,0 +1,25 @@
+5
+1 1 2 3 3
+###ENDINPUT###
+2
+###ENDOUTPUT###
+4
+0 1 2 3
+###ENDINPUT###
+4
+###ENDOUTPUT###
+1
+120287
+###ENDINPUT###
+1
+###ENDOUTPUT###
+2
+28288 0
+###ENDINPUT###
+2
+###ENDOUTPUT###
+2
+95745 95745
+###ENDINPUT###
+1
+###ENDOUTPUT###

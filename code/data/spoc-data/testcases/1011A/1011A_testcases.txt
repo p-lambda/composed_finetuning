@@ -1,0 +1,145 @@
+5 3
+xyabd
+###ENDINPUT###
+29
+###ENDOUTPUT###
+7 4
+problem
+###ENDINPUT###
+34
+###ENDOUTPUT###
+2 2
+ab
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+12 1
+abaabbaaabbb
+###ENDINPUT###
+1
+###ENDOUTPUT###
+50 13
+qwertyuiopasdfghjklzxcvbnmaaaaaaaaaaaaaaaaaaaaaaaa
+###ENDINPUT###
+169
+###ENDOUTPUT###
+50 14
+qwertyuiopasdfghjklzxcvbnmaaaaaaaaaaaaaaaaaaaaaaaa
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+1 1
+a
+###ENDINPUT###
+1
+###ENDOUTPUT###
+50 1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+###ENDINPUT###
+1
+###ENDOUTPUT###
+50 2
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+13 13
+uwgmkyqeiaocs
+###ENDINPUT###
+169
+###ENDOUTPUT###
+13 13
+hzdxpbfvrltnj
+###ENDINPUT###
+182
+###ENDOUTPUT###
+1 1
+n
+###ENDINPUT###
+14
+###ENDOUTPUT###
+10 8
+smzeblyjqw
+###ENDINPUT###
+113
+###ENDOUTPUT###
+20 20
+tzmvhskkyugkuuxpvtbh
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+30 15
+wjzolzzkfulwgioksfxmcxmnnjtoav
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+40 30
+xumfrflllrrgswehqtsskefixhcxjrxbjmrpsshv
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+50 31
+ahbyyoxltryqdmvenemaqnbakglgqolxnaifnqtoclnnqiabpz
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+10 7
+iuiukrxcml
+###ENDINPUT###
+99
+###ENDOUTPUT###
+38 2
+vjzarfykmrsrvwbwfwldsulhxtykmjbnwmdufa
+###ENDINPUT###
+5
+###ENDOUTPUT###
+12 6
+fwseyrarkwcd
+###ENDINPUT###
+61
+###ENDOUTPUT###
+2 2
+ac
+###ENDINPUT###
+4
+###ENDOUTPUT###
+1 1
+c
+###ENDINPUT###
+3
+###ENDOUTPUT###
+2 2
+ad
+###ENDINPUT###
+5
+###ENDOUTPUT###
+2 1
+ac
+###ENDINPUT###
+1
+###ENDOUTPUT###
+4 3
+adjz
+###ENDINPUT###
+15
+###ENDOUTPUT###
+3 3
+aoz
+###ENDINPUT###
+42
+###ENDOUTPUT###
+3 1
+zzz
+###ENDINPUT###
+26
+###ENDOUTPUT###
+2 1
+xz
+###ENDINPUT###
+24
+###ENDOUTPUT###
+5 1
+aaddd
+###ENDINPUT###
+1
+###ENDOUTPUT###

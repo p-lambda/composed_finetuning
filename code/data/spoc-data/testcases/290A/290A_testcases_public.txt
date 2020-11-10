@@ -1,0 +1,20 @@
+2
+###ENDINPUT###
+Adams
+###ENDOUTPUT###
+8
+###ENDINPUT###
+Van Buren
+###ENDOUTPUT###
+29
+###ENDINPUT###
+Harding
+###ENDOUTPUT###
+1
+###ENDINPUT###
+Washington
+###ENDOUTPUT###
+3
+###ENDINPUT###
+Jefferson
+###ENDOUTPUT###

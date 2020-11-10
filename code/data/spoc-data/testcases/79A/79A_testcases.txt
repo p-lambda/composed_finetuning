@@ -1,0 +1,396 @@
+2 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+3 22
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+0 22
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+1000 1000
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+0 0
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+0 21
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+1 11
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+1 12
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+2 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+2 23
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+2 24
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+3 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+3 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+3 13
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+3 14
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+4 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+4 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+4 25
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+4 26
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+5 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+5 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+5 15
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+5 16
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+5 23
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+5 24
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+6 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+6 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+6 13
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+6 14
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+6 23
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+6 24
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+7 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+7 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+7 13
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+7 14
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+7 25
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+7 26
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+8 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+8 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+8 15
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+8 16
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+8 25
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+8 26
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+9 1
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+9 2
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+9 15
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+9 16
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+9 23
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+9 24
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+10 12
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+10 13
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+10 22
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+10 23
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+11 12
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+11 13
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+11 24
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+11 25
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+12 14
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+12 15
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+12 24
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+12 25
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+0 1000000
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+1000000 0
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+1000000 1000000
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+178087 42116
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+378897 104123
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+61207 166129
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+743519 228136
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+425829 771644
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+626640 833651
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+308950 895657
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+991262 957664
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+192071 19670
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+874382 81677
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+202081 745873
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+233663 723781
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+783744 701689
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+333825 679597
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+365407 657504
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+915488 635412
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+947070 613320
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+497151 591228
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+528732 87635
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+78813 65543
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+6 4
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+3 5
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+4 24
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+2 14
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+2 26
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+5 26
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+5 5
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+359 479
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+1 20
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+11 0
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+3 0
+###ENDINPUT###
+Hanako
+###ENDOUTPUT###
+0 30
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+0 35
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+100 99
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###
+3 4
+###ENDINPUT###
+Ciel
+###ENDOUTPUT###

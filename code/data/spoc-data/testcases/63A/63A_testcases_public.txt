@@ -1,0 +1,61 @@
+6
+Jack captain
+Alice woman
+Charlie man
+Teddy rat
+Bob child
+Julia woman
+###ENDINPUT###
+Teddy
+Alice
+Bob
+Julia
+Charlie
+Jack
+###ENDOUTPUT###
+1
+A captain
+###ENDINPUT###
+A
+###ENDOUTPUT###
+1
+Abcdefjhij captain
+###ENDINPUT###
+Abcdefjhij
+###ENDOUTPUT###
+5
+A captain
+B man
+D woman
+C child
+E rat
+###ENDINPUT###
+E
+D
+C
+B
+A
+###ENDOUTPUT###
+10
+Cap captain
+D child
+C woman
+A woman
+E child
+Man man
+B child
+F woman
+Rat rat
+Ratt rat
+###ENDINPUT###
+Rat
+Ratt
+D
+C
+A
+E
+B
+F
+Man
+Cap
+###ENDOUTPUT###

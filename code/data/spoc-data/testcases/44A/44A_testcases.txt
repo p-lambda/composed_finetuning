@@ -1,0 +1,136 @@
+5
+birch yellow
+maple red
+birch yellow
+maple yellow
+maple green
+###ENDINPUT###
+4
+###ENDOUTPUT###
+3
+oak yellow
+oak yellow
+oak yellow
+###ENDINPUT###
+1
+###ENDOUTPUT###
+5
+xbnbkzn hp
+kaqkl vrgzbvqstu
+j aqidx
+hos gyul
+wefxmh tygpluae
+###ENDINPUT###
+5
+###ENDOUTPUT###
+1
+qvwli hz
+###ENDINPUT###
+1
+###ENDOUTPUT###
+4
+srhk x
+srhk x
+qfoe vnrjuab
+qfoe vnrjuab
+###ENDINPUT###
+2
+###ENDOUTPUT###
+4
+sddqllmmpk syded
+fprsq fnenjnaz
+n hdej
+sddqllmmpk syded
+###ENDINPUT###
+3
+###ENDOUTPUT###
+17
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+###ENDINPUT###
+1
+###ENDOUTPUT###
+18
+b d
+rfdb esp
+rfdb esp
+b d
+rfdb esp
+rfdb esp
+b d
+b d
+rfdb esp
+rfdb esp
+b d
+rfdb esp
+b d
+rfdb esp
+b d
+b d
+rfdb esp
+rfdb esp
+###ENDINPUT###
+2
+###ENDOUTPUT###
+13
+svpzwtwn rykzfdce
+qweiyeck jkreouy
+hk nnli
+twxrnbbdt vtuv
+xokqjtylly sz
+esdt dbfidjslq
+g ybqgomvw
+xcpfjmf zcqvz
+ifajadhj invzueip
+vdemdnxifb hckwebmi
+sdpnhipam wvowzavh
+uqdlfskhgo vunbpghae
+e dtigwnb
+###ENDINPUT###
+13
+###ENDOUTPUT###
+20
+m vkfh
+vptikamead mvx
+itu mf
+klruxckw aqega
+ekqkd enjllwol
+cc uybfdh
+imrfdngvo u
+e uh
+twt jsslcfuogk
+bljwqsag tuqbdn
+qcv q
+asx gzhvwwmajj
+qcv q
+ekqkd enjllwol
+asx gzhvwwmajj
+ks vv
+kzyfi cn
+cc uybfdh
+itu mf
+cjbjhtbyvk vatwfmux
+###ENDINPUT###
+15
+###ENDOUTPUT###
+2
+ab ab
+a bab
+###ENDINPUT###
+2
+###ENDOUTPUT###

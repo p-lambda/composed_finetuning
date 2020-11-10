@@ -1,0 +1,20 @@
+C E G
+###ENDINPUT###
+major
+###ENDOUTPUT###
+C# B F
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+A B H
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+G H E
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+D# B G
+###ENDINPUT###
+major
+###ENDOUTPUT###

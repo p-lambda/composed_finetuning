@@ -1,0 +1,29 @@
+1 1
+-
+###ENDINPUT###
+-
+###ENDOUTPUT###
+4 2
+..
+..
+..
+..
+###ENDINPUT###
+BW
+WB
+BW
+WB
+###ENDOUTPUT###
+5 1
+.
+.
+.
+.
+.
+###ENDINPUT###
+B
+W
+B
+W
+B
+###ENDOUTPUT###

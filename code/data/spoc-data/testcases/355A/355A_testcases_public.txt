@@ -1,0 +1,20 @@
+4 4
+###ENDINPUT###
+4000
+###ENDOUTPUT###
+5 1
+###ENDINPUT###
+10000
+###ENDOUTPUT###
+1 0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+8 7
+###ENDINPUT###
+70000000
+###ENDOUTPUT###
+487 0
+###ENDINPUT###
+No solution
+###ENDOUTPUT###

@@ -1,0 +1,30 @@
+6 10
+code*s
+codeforces
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+6 5
+vk*cup
+vkcup
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1
+v
+k
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+9 6
+gfgf*gfgf
+gfgfgf
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+5 102
+eyw*y
+eywsnxcwslfyiqbbeoaawtmioksfdndptxxcwzfmrpcixjbzvicijofjrbcvzaedglifuoczgjlqylddnsvsjfmfsccxbdveqguyfk
+###ENDINPUT###
+NO
+###ENDOUTPUT###

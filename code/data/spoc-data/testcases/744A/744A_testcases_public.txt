@@ -1,0 +1,32 @@
+4 1 2
+1 3
+1 2
+###ENDINPUT###
+2
+###ENDOUTPUT###
+3 3 1
+2
+1 2
+1 3
+2 3
+###ENDINPUT###
+0
+###ENDOUTPUT###
+10 3 2
+1 10
+1 2
+1 3
+4 5
+###ENDINPUT###
+33
+###ENDOUTPUT###
+1 0 1
+1
+###ENDINPUT###
+0
+###ENDOUTPUT###
+1000 0 1
+72
+###ENDINPUT###
+499500
+###ENDOUTPUT###

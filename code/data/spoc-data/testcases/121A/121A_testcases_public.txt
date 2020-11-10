@@ -1,0 +1,20 @@
+2 7
+###ENDINPUT###
+33
+###ENDOUTPUT###
+7 7
+###ENDINPUT###
+7
+###ENDOUTPUT###
+1 9
+###ENDINPUT###
+125
+###ENDOUTPUT###
+4 7
+###ENDINPUT###
+25
+###ENDOUTPUT###
+12 47
+###ENDINPUT###
+1593
+###ENDOUTPUT###

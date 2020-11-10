@@ -1,0 +1,25 @@
+5
+LRLR
+###ENDINPUT###
+2 1 2 1 2
+###ENDOUTPUT###
+5
+=RRR
+###ENDINPUT###
+1 1 2 3 4
+###ENDOUTPUT###
+6
+RLRL=
+###ENDINPUT###
+1 2 1 2 1 1
+###ENDOUTPUT###
+3
+R=
+###ENDINPUT###
+1 2 2
+###ENDOUTPUT###
+7
+RR==RR
+###ENDINPUT###
+1 2 3 3 3 4 5
+###ENDOUTPUT###

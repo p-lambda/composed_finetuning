@@ -1,0 +1,201 @@
+50
+2 2
+3 2
+4 2
+5 2
+6 2
+7 2
+8 2
+9 2
+10 2
+11 2
+12 2
+13 2
+14 2
+15 2
+16 2
+17 2
+18 2
+19 2
+20 2
+21 2
+22 2
+23 2
+24 2
+25 2
+26 2
+27 2
+28 2
+29 2
+30 2
+31 2
+32 2
+33 2
+34 2
+35 2
+36 2
+37 2
+38 2
+39 2
+40 2
+41 2
+42 2
+43 2
+44 2
+45 2
+46 2
+47 2
+48 2
+49 2
+50 2
+51 2
+###ENDINPUT###
+ab
+abb
+abab
+ababb
+ababab
+abababb
+abababab
+ababababb
+ababababab
+abababababb
+abababababab
+ababababababb
+ababababababab
+abababababababb
+abababababababab
+ababababababababb
+ababababababababab
+abababababababababb
+abababababababababab
+ababababababababababb
+ababababababababababab
+abababababababababababb
+abababababababababababab
+ababababababababababababb
+ababababababababababababab
+abababababababababababababb
+abababababababababababababab
+ababababababababababababababb
+ababababababababababababababab
+abababababababababababababababb
+abababababababababababababababab
+ababababababababababababababababb
+ababababababababababababababababab
+abababababababababababababababababb
+abababababababababababababababababab
+ababababababababababababababababababb
+ababababababababababababababababababab
+abababababababababababababababababababb
+abababababababababababababababababababab
+ababababababababababababababababababababb
+ababababababababababababababababababababab
+abababababababababababababababababababababb
+abababababababababababababababababababababab
+ababababababababababababababababababababababb
+ababababababababababababababababababababababab
+abababababababababababababababababababababababb
+abababababababababababababababababababababababab
+ababababababababababababababababababababababababb
+ababababababababababababababababababababababababab
+abababababababababababababababababababababababababb
+###ENDOUTPUT###
+36
+25 25
+26 25
+27 25
+28 25
+29 25
+30 25
+31 25
+32 25
+33 25
+34 25
+35 25
+36 25
+37 25
+38 25
+39 25
+40 25
+41 25
+42 25
+43 25
+44 25
+45 25
+46 25
+47 25
+48 25
+49 25
+50 25
+51 25
+52 25
+53 25
+54 25
+55 25
+56 25
+57 25
+58 25
+59 25
+60 25
+###ENDINPUT###
+abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstuvwxyy
+abcdefghijklmnopqrstuvwxyyy
+abcdefghijklmnopqrstuvwxyyyy
+abcdefghijklmnopqrstuvwxyyyyy
+abcdefghijklmnopqrstuvwxyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyyyyyyyyyyyyyyyyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyyyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyyyyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyyyyyyyy
+abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxyyyyyyyyyyy
+###ENDOUTPUT###
+10
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+###ENDINPUT###
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+###ENDOUTPUT###

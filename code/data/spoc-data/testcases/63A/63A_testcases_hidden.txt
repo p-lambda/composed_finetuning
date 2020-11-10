@@ -1,0 +1,214 @@
+5
+Joyxnkypf captain
+Dxssgr woman
+Keojmnpd rat
+Gdv man
+Hnw man
+###ENDINPUT###
+Keojmnpd
+Dxssgr
+Gdv
+Hnw
+Joyxnkypf
+###ENDOUTPUT###
+11
+Jue rat
+Wyglbyphk rat
+Gjlgu child
+Gi man
+Attx rat
+Theorpkgx man
+Ym rat
+X child
+B captain
+Enualf rat
+Kktsgyuyv woman
+###ENDINPUT###
+Jue
+Wyglbyphk
+Attx
+Ym
+Enualf
+Gjlgu
+X
+Kktsgyuyv
+Gi
+Theorpkgx
+B
+###ENDOUTPUT###
+22
+Wswwcvvm woman
+Btmfats rat
+I rat
+Ocmtsnwx man
+Urcqv rat
+Yghnogt woman
+Wtyfc man
+Wqle child
+Ujfrelpu rat
+Dstixj man
+Ahksnio woman
+Khkvaap woman
+Sjppvwm rat
+Egdmsv rat
+Dank rat
+Nquicjnw rat
+Lh captain
+Tdyaqaqln rat
+Qtj rat
+Tfgwijvq rat
+Nbiso child
+Nqthvbf woman
+###ENDINPUT###
+Btmfats
+I
+Urcqv
+Ujfrelpu
+Sjppvwm
+Egdmsv
+Dank
+Nquicjnw
+Tdyaqaqln
+Qtj
+Tfgwijvq
+Wswwcvvm
+Yghnogt
+Wqle
+Ahksnio
+Khkvaap
+Nbiso
+Nqthvbf
+Ocmtsnwx
+Wtyfc
+Dstixj
+Lh
+###ENDOUTPUT###
+36
+Kqxmtwmsf child
+Ize woman
+Dlpr child
+K woman
+F captain
+Rjwfeuhba rat
+Bbv rat
+S rat
+Mnmg woman
+Smzyx woman
+Sr man
+Qmhroracn rat
+Soqpuqock rat
+Pibdq man
+Ilrkrptx rat
+Zaecfyqka man
+Mmersfs child
+Vvvocqi man
+Hjeqxvq rat
+Mpmb woman
+Wmgu woman
+Cerelmhoxi child
+A man
+Dylv man
+Xrdgmmtcpq woman
+Xj woman
+Ceh child
+Ofccguo man
+Nevr man
+Aknkwdkq child
+Bmo man
+Lqo woman
+Vej child
+T child
+Rlijc man
+Nsdtpdg woman
+###ENDINPUT###
+Rjwfeuhba
+Bbv
+S
+Qmhroracn
+Soqpuqock
+Ilrkrptx
+Hjeqxvq
+Kqxmtwmsf
+Ize
+Dlpr
+K
+Mnmg
+Smzyx
+Mmersfs
+Mpmb
+Wmgu
+Cerelmhoxi
+Xrdgmmtcpq
+Xj
+Ceh
+Aknkwdkq
+Lqo
+Vej
+T
+Nsdtpdg
+Sr
+Pibdq
+Zaecfyqka
+Vvvocqi
+A
+Dylv
+Ofccguo
+Nevr
+Bmo
+Rlijc
+F
+###ENDOUTPUT###
+2
+A captain
+B man
+###ENDINPUT###
+B
+A
+###ENDOUTPUT###
+2
+B woman
+A captain
+###ENDINPUT###
+B
+A
+###ENDOUTPUT###
+2
+X child
+Y captain
+###ENDINPUT###
+X
+Y
+###ENDOUTPUT###
+2
+X captain
+Y rat
+###ENDINPUT###
+Y
+X
+###ENDOUTPUT###
+6
+Abdelrhman captain
+Alice woman
+Charlie man
+Teddy rat
+Bob child
+Julia woman
+###ENDINPUT###
+Teddy
+Alice
+Bob
+Julia
+Charlie
+Abdelrhman
+###ENDOUTPUT###
+4
+Aratos captain
+Mind child
+Aman woman
+Carrot man
+###ENDINPUT###
+Mind
+Aman
+Carrot
+Aratos
+###ENDOUTPUT###

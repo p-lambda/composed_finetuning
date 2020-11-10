@@ -1,0 +1,20 @@
+1
+###ENDINPUT###
+I hate it
+###ENDOUTPUT###
+2
+###ENDINPUT###
+I hate that I love it
+###ENDOUTPUT###
+3
+###ENDINPUT###
+I hate that I love that I hate it
+###ENDOUTPUT###
+4
+###ENDINPUT###
+I hate that I love that I hate that I love it
+###ENDOUTPUT###
+5
+###ENDINPUT###
+I hate that I love that I hate that I love that I hate it
+###ENDOUTPUT###

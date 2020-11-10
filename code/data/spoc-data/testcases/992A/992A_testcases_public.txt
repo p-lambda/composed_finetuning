@@ -1,0 +1,25 @@
+5
+1 1 1 1 1
+###ENDINPUT###
+1
+###ENDOUTPUT###
+3
+2 0 -1
+###ENDINPUT###
+2
+###ENDOUTPUT###
+4
+5 -6 -5 1
+###ENDINPUT###
+4
+###ENDOUTPUT###
+1
+0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2
+21794 -79194
+###ENDINPUT###
+2
+###ENDOUTPUT###

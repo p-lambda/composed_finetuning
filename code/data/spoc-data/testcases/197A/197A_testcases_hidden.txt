@@ -1,0 +1,360 @@
+23 7 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+9 9 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+13 13 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+21 21 10
+###ENDINPUT###
+First
+###ENDOUTPUT###
+20 21 10
+###ENDINPUT###
+First
+###ENDOUTPUT###
+20 20 10
+###ENDINPUT###
+First
+###ENDOUTPUT###
+9 13 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+19 7 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+19 19 10
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+19 20 10
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+19 21 10
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 100 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+2 100 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+3 100 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+100 100 49
+###ENDINPUT###
+First
+###ENDOUTPUT###
+100 100 50
+###ENDINPUT###
+First
+###ENDOUTPUT###
+100 100 51
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+100 99 50
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+4 10 5
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+8 11 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+3 12 5
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+14 15 5
+###ENDINPUT###
+First
+###ENDOUTPUT###
+61 2 3
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+82 20 5
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 80 10
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+2 1 20
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+78 82 5
+###ENDINPUT###
+First
+###ENDOUTPUT###
+8 55 7
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+75 55 43
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+34 43 70
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+86 74 36
+###ENDINPUT###
+First
+###ENDOUTPUT###
+86 74 37
+###ENDINPUT###
+First
+###ENDOUTPUT###
+86 74 38
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+24 70 11
+###ENDINPUT###
+First
+###ENDOUTPUT###
+24 70 12
+###ENDINPUT###
+First
+###ENDOUTPUT###
+24 70 13
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+78 95 38
+###ENDINPUT###
+First
+###ENDOUTPUT###
+78 95 39
+###ENDINPUT###
+First
+###ENDOUTPUT###
+78 95 40
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+88 43 21
+###ENDINPUT###
+First
+###ENDOUTPUT###
+88 43 22
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+88 43 23
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+30 40 14
+###ENDINPUT###
+First
+###ENDOUTPUT###
+30 40 15
+###ENDINPUT###
+First
+###ENDOUTPUT###
+30 40 16
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+2 5 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+5 100 3
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+44 58 5
+###ENDINPUT###
+First
+###ENDOUTPUT###
+4 4 6
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+10 20 6
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+100 1 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+60 60 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+100 1 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+2 4 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+10 90 11
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+20 5 6
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 44 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+10 5 5
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+5 100 4
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+99 99 50
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 100 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+100 20 12
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+10 2 4
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 50 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+10 4 3
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+74 1 1
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+6 6 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+10 10 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+21 41 5
+###ENDINPUT###
+First
+###ENDOUTPUT###
+13 1 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 100 3
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+1 64 2
+###ENDINPUT###
+Second
+###ENDOUTPUT###
+3 4 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+15 15 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+15 16 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 15 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 16 1
+###ENDINPUT###
+First
+###ENDOUTPUT###
+15 15 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+15 16 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 15 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 16 2
+###ENDINPUT###
+First
+###ENDOUTPUT###
+15 15 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+15 16 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 15 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 16 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+15 17 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+16 17 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+17 17 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+17 15 3
+###ENDINPUT###
+First
+###ENDOUTPUT###
+17 16 3
+###ENDINPUT###
+First
+###ENDOUTPUT###

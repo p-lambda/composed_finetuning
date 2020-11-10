@@ -1,0 +1,121 @@
+2
+A87h 5 0 199 0 0 0 0
+Bcfg 7 0 0 0 0 0 0
+###ENDINPUT###
+Bcfg
+###ENDOUTPUT###
+10
+Kh 40 26 0 0 0 0 1243
+n 46 50 500 0 910 1912 0
+U 18 1 182 0 457 0 0
+Fth6A0uT6i 38 30 0 787 0 1121 0
+C5l 24 38 0 689 1082 0 0
+N 47 25 0 0 1065 0 1538
+znyL 9 24 0 315 0 0 0
+J0kU 27 47 445 0 0 0 0
+lT0rwiD2pg 46 13 0 818 0 0 0
+uJzr 29 14 0 0 0 0 2387
+###ENDINPUT###
+N
+###ENDOUTPUT###
+2
+minus_one 0 4 199 0 0 0 0
+minus_two 0 4 198 0 0 0 0
+###ENDINPUT###
+minus_one
+###ENDOUTPUT###
+10
+W22kb1L1 0 39 0 465 0 1961 865
+1MCXiVYmu5ys0afl 0 38 0 0 0 1982 1241
+Cxg706kUJtQ 0 23 211 0 0 1785 1056
+mzEY 0 16 0 0 0 1988 1404
+v8JUjmam5SFP 0 48 0 788 1199 1426 0
+7giq 0 21 0 780 1437 1363 1930
+sXsUGbAulj6Lbiq 0 32 205 0 0 603 0
+RepIrY1Er4PgK 0 13 381 872 927 1488 0
+leKBdKHLnLFz 0 29 220 0 0 1006 889
+D 0 26 497 0 0 0 1815
+###ENDINPUT###
+7giq
+###ENDOUTPUT###
+1
+Z 0 0 0 0 0 0 0
+###ENDINPUT###
+Z
+###ENDOUTPUT###
+3
+Abcd 0 4 189 0 0 0 0
+Defg 0 5 248 0 0 0 0
+Ghh 1 3 0 0 0 0 0
+###ENDINPUT###
+Defg
+###ENDOUTPUT###
+3
+df 0 6 0 0 0 0 0
+jnm 1 8 300 0 0 0 0
+_ub_ 3 20 300 310 0 0 0
+###ENDINPUT###
+jnm
+###ENDOUTPUT###
+1
+jhgcyt 0 50 0 0 0 0 0
+###ENDINPUT###
+jhgcyt
+###ENDOUTPUT###
+2
+jhv 0 50 500 1000 1500 2000 2500
+Petr 2 1 489 910 1100 1300 1000
+###ENDINPUT###
+jhv
+###ENDOUTPUT###
+3
+ufu 0 50 0 0 0 0 0
+hzEr65f 1 50 0 0 0 0 0
+ytdttjfhfd 0 50 150 0 0 0 0
+###ENDINPUT###
+ytdttjfhfd
+###ENDOUTPUT###
+5
+ufuf 0 50 0 0 0 0 0
+yfycy 50 0 500 1000 1500 2000 2500
+__u77 6 7 490 999 1456 1976 1356
+0 1 2 0 0 0 0 2452
+gu7fF 50 0 500 1000 1500 2000 2499
+###ENDINPUT###
+yfycy
+###ENDOUTPUT###
+2
+hfy 0 50 0 0 0 0 2500
+ugug 0 50 0 0 0 0 2499
+###ENDINPUT###
+hfy
+###ENDOUTPUT###
+8
+A 0 0 0 0 0 0 0
+b 0 0 0 0 0 0 0
+c 0 0 0 0 0 0 0
+D 0 0 0 0 0 0 0
+E 1 0 0 0 0 0 0
+F 0 0 0 0 0 0 0
+g 0 0 0 0 0 0 0
+H 0 0 0 0 0 0 0
+###ENDINPUT###
+E
+###ENDOUTPUT###
+2
+yyyc 50 50 0 0 0 0 0
+ydd 0 0 0 0 0 0 2499
+###ENDINPUT###
+yyyc
+###ENDOUTPUT###
+2
+tom 0 2 0 0 0 0 0
+mac 0 1 0 0 0 0 0
+###ENDINPUT###
+mac
+###ENDOUTPUT###
+1
+cool 0 10 0 0 0 0 0
+###ENDINPUT###
+cool
+###ENDOUTPUT###

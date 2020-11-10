@@ -1,0 +1,29 @@
+2 2
+C M
+Y Y
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+3 2
+W W
+W W
+B B
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+1 1
+W
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###
+2 3
+W W W
+B G Y
+###ENDINPUT###
+#Color
+###ENDOUTPUT###
+1 1
+W
+###ENDINPUT###
+#Black&White
+###ENDOUTPUT###

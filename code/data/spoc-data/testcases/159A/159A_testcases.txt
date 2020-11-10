@@ -1,0 +1,130 @@
+4 1
+vasya petya 1
+petya vasya 2
+anya ivan 2
+ivan anya 4
+###ENDINPUT###
+1
+vasya petya
+###ENDOUTPUT###
+1 1000
+a b 0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+2 1
+a b 0
+b a 0
+###ENDINPUT###
+0
+###ENDOUTPUT###
+3 1
+a b 1
+b c 2
+c d 3
+###ENDINPUT###
+0
+###ENDOUTPUT###
+10 2
+lutdc xfavzancwrokyzzkpco 0
+xfavzancwrokyzzkpco lutdc 1
+lutdc vydvatbnibttqgn 2
+xfavzancwrokyzzkpco vydvatbnibttqgn 2
+vydvatbnibttqgn lutdc 3
+lutdc xfavzancwrokyzzkpco 4
+lutdc vydvatbnibttqgn 5
+lutdc vydvatbnibttqgn 6
+lutdc xfavzancwrokyzzkpco 6
+vydvatbnibttqgn xfavzancwrokyzzkpco 6
+###ENDINPUT###
+2
+lutdc xfavzancwrokyzzkpco
+lutdc vydvatbnibttqgn
+###ENDOUTPUT###
+10 2
+rvmykneiddpqyf jdhmt 0
+wcsjvh jdhmt 0
+jdhmt rvmykneiddpqyf 1
+rvmykneiddpqyf jdhmt 1
+wcsjvh rvmykneiddpqyf 2
+rvmykneiddpqyf jdhmt 2
+jdhmt rvmykneiddpqyf 3
+jdhmt wcsjvh 5
+jdhmt wcsjvh 5
+rvmykneiddpqyf jdhmt 6
+###ENDINPUT###
+1
+rvmykneiddpqyf jdhmt
+###ENDOUTPUT###
+10 2
+liazxawm spxwktiqjgs 0
+nolq liazxawm 1
+liazxawm nolq 2
+liazxawm spxwktiqjgs 2
+nolq liazxawm 3
+spxwktiqjgs liazxawm 3
+spxwktiqjgs liazxawm 3
+spxwktiqjgs liazxawm 3
+spxwktiqjgs nolq 3
+nolq spxwktiqjgs 4
+###ENDINPUT###
+3
+nolq liazxawm
+liazxawm spxwktiqjgs
+spxwktiqjgs nolq
+###ENDOUTPUT###
+10 2
+fxn ipntr 0
+ipntr fxn 1
+fxn ipntr 1
+pfvpfteadph ipntr 2
+fxn pfvpfteadph 4
+ipntr fxn 4
+pfvpfteadph fxn 5
+fxn pfvpfteadph 5
+pfvpfteadph ipntr 6
+ipntr pfvpfteadph 6
+###ENDINPUT###
+2
+fxn ipntr
+fxn pfvpfteadph
+###ENDOUTPUT###
+10 2
+yltec xnzdtcgzxqqltvpfr 0
+fxxhcmbzzg xnzdtcgzxqqltvpfr 0
+fxxhcmbzzg xnzdtcgzxqqltvpfr 0
+fxxhcmbzzg yltec 1
+fxxhcmbzzg xnzdtcgzxqqltvpfr 2
+fxxhcmbzzg yltec 2
+yltec fxxhcmbzzg 3
+yltec xnzdtcgzxqqltvpfr 3
+yltec xnzdtcgzxqqltvpfr 5
+fxxhcmbzzg yltec 6
+###ENDINPUT###
+1
+fxxhcmbzzg yltec
+###ENDOUTPUT###
+10 2
+rclgdpxdefqu abrfhwigaihoqq 0
+abrfhwigaihoqq rclgdpxdefqu 1
+rclgdpxdefqu bvkfwutdtvxgvx 1
+rclgdpxdefqu abrfhwigaihoqq 1
+abrfhwigaihoqq bvkfwutdtvxgvx 2
+bvkfwutdtvxgvx abrfhwigaihoqq 2
+bvkfwutdtvxgvx abrfhwigaihoqq 3
+abrfhwigaihoqq rclgdpxdefqu 5
+abrfhwigaihoqq rclgdpxdefqu 6
+rclgdpxdefqu bvkfwutdtvxgvx 6
+###ENDINPUT###
+2
+rclgdpxdefqu abrfhwigaihoqq
+abrfhwigaihoqq bvkfwutdtvxgvx
+###ENDOUTPUT###
+3 1
+a b 1
+a b 2
+b a 2
+###ENDINPUT###
+1
+a b
+###ENDOUTPUT###

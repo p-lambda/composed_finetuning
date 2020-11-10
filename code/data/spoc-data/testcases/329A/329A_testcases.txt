@@ -1,0 +1,237 @@
+3
+.E.
+E.E
+.E.
+###ENDINPUT###
+1 1
+2 2
+3 1
+###ENDOUTPUT###
+3
+EEE
+E..
+E.E
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+5
+EE.EE
+E.EE.
+E...E
+.EE.E
+EE.EE
+###ENDINPUT###
+1 3
+2 2
+3 2
+4 1
+5 3
+###ENDOUTPUT###
+3
+.EE
+.EE
+.EE
+###ENDINPUT###
+1 1
+2 1
+3 1
+###ENDOUTPUT###
+5
+EE.EE
+EE..E
+EEE..
+EE..E
+EE.EE
+###ENDINPUT###
+1 3
+2 3
+3 4
+4 3
+5 3
+###ENDOUTPUT###
+1
+E
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+8
+E.EEE..E
+EEE.E.E.
+EEE.E.E.
+EE.E.E..
+E...EE..
+E.EE....
+..EE....
+E..E.EE.
+###ENDINPUT###
+1 2
+2 4
+3 4
+4 3
+5 2
+6 2
+7 1
+8 2
+###ENDOUTPUT###
+17
+EE...E.EE.EE..E..
+E.....EE..E..E..E
+EEEE.EEEE..E..E.E
+.E.E.EEE.EEEEE...
+EEEEEEEEEEEEEEEEE
+EE.E.EEEEE.E.....
+..E.EE.EEE.E....E
+.E..E..E...EE.E.E
+EEEE.EEE.E.EEEE..
+...E...EEEEEEE.E.
+..E.E.EE..E.EE..E
+.E..E..E.EEE.....
+.E.....E..EEE.EE.
+EE.E...E.EEEE.EE.
+...EEEEEEE.E..E.E
+EEEE.EEEEEE....E.
+..EEEEEEE....EEEE
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+17
+.EEEEE...EEEE..EE
+EEE..E...EEEEE..E
+.E..E..EEE.EE...E
+.EEE.EE..EE...E..
+E..EEEEEE.EE.....
+E.EE...EEEEEEE.E.
+EEEE....EE..E.EEE
+...EEEEE.E..EE...
+EEE.E..EEEE.EEE..
+..E.E....EEE.....
+EE..E..E.E..EEEEE
+EEE..E.EEEEE.E...
+..EEEEE.E..EE.EE.
+EE.E...E..E..E.EE
+..E.EEE.EE..EE.E.
+E..EE........E.E.
+E..E..EEE.E...E..
+###ENDINPUT###
+1 1
+2 4
+3 1
+4 1
+5 2
+6 2
+7 5
+8 1
+9 4
+10 1
+11 3
+12 4
+13 1
+14 3
+15 1
+16 2
+17 2
+###ENDOUTPUT###
+1
+.
+###ENDINPUT###
+1 1
+###ENDOUTPUT###
+2
+EE
+EE
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+2
+.E
+.E
+###ENDINPUT###
+1 1
+2 1
+###ENDOUTPUT###
+3
+.EE
+EEE
+EEE
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3
+...
+EEE
+..E
+###ENDINPUT###
+1 1
+1 2
+1 3
+###ENDOUTPUT###
+4
+E...
+E.EE
+EEEE
+EEEE
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+4
+....
+E..E
+EEE.
+.EE.
+###ENDINPUT###
+1 1
+2 2
+3 4
+4 1
+###ENDOUTPUT###
+8
+E..EEEEE
+EE..EEE.
+EE..E...
+EEE.E..E
+.E.EEEE.
+EEEEEEEE
+.EEEE.EE
+.EE.E.E.
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3
+E..
+EEE
+E..
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+4
+EEEE
+..E.
+..E.
+..E.
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+3
+..E
+.EE
+.EE
+###ENDINPUT###
+1 1
+2 1
+3 1
+###ENDOUTPUT###
+6
+.EEEEE
+.EEEEE
+......
+......
+......
+EEEEEE
+###ENDINPUT###
+1 1
+3 2
+3 3
+3 4
+3 5
+3 6
+###ENDOUTPUT###

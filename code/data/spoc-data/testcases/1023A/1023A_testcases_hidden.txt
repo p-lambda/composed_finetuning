@@ -1,0 +1,222 @@
+1 17
+*
+thisisabadproblem
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+3 2
+r*p
+rp
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+5 2
+s*pjd
+sd
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+4 2
+lq*e
+le
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+6 2
+mv*mqs
+ms
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+4 4
+a*ba
+ayba
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+3 4
+a*o
+aqro
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+2 4
+*a
+bkga
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+5 4
+zem*o
+zemo
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+7 4
+ec*aqro
+aqro
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+4 4
+b*af
+bkga
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 1
+*
+a
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1
+a
+a
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+1 1
+b
+a
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+2 1
+*z
+z
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+6 4
+tes*st
+test
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 3
+aaa
+aaa
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+3 5
+aaa
+aaaaa
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+7 7
+abacaba
+abacaba
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+2 3
+aa
+aaa
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 4
+aaa
+aaaa
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+1 10
+a
+aaaaaaaaaa
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+2 2
+ab
+ac
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+2 2
+a*
+ba
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 2
+kkk
+kk
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 2
+aaa
+aa
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+5 4
+ab*ba
+aaba
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+2 1
+a*
+a
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+2 2
+aa
+aa
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+4 5
+neko
+nekol
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 6
+aaa
+aaaaaa
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+4 5
+aaaa
+aaaaa
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 2
+a*b
+ac
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+3 3
+abc
+abc
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+5 4
+ab*ba
+acca
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+4 1
+aaa*
+a
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+7 7
+abc*def
+abcddzf
+###ENDINPUT###
+NO
+###ENDOUTPUT###

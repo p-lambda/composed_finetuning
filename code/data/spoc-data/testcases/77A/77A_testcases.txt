@@ -1,0 +1,525 @@
+3
+Troll likes Dracul
+Dracul likes Anka
+Snowy likes Hexadecimal
+210 200 180
+###ENDINPUT###
+30 3
+###ENDOUTPUT###
+2
+Anka likes Chapay
+Chapay likes Anka
+10000 50 50
+###ENDINPUT###
+1950 2
+###ENDOUTPUT###
+11
+Snowy likes Dracul
+Anka likes Dracul
+Chapay likes Snowy
+Hexadecimal likes Troll
+Anka likes Cleo
+Chapay likes Dracul
+Anka likes Chapay
+Snowy likes Troll
+Anka likes Hexadecimal
+Cleo likes Chapay
+Troll likes Cleo
+100 100 100
+###ENDINPUT###
+17 5
+###ENDOUTPUT###
+14
+Chapay likes Cleo
+Cleo likes Anka
+Dracul likes Snowy
+Snowy likes Cleo
+Chapay likes Anka
+Snowy likes Anka
+Chapay likes Troll
+Troll likes Anka
+Anka likes Snowy
+Chapay likes Dracul
+Dracul likes Anka
+Hexadecimal likes Chapay
+Snowy likes Dracul
+Cleo likes Dracul
+15 15 15
+###ENDINPUT###
+2 6
+###ENDOUTPUT###
+4
+Anka likes Cleo
+Snowy likes Cleo
+Anka likes Hexadecimal
+Cleo likes Snowy
+1 1 1
+###ENDINPUT###
+0 3
+###ENDOUTPUT###
+8
+Snowy likes Anka
+Hexadecimal likes Snowy
+Troll likes Dracul
+Hexadecimal likes Troll
+Snowy likes Troll
+Anka likes Snowy
+Snowy likes Chapay
+Anka likes Chapay
+70 70 70
+###ENDINPUT###
+12 5
+###ENDOUTPUT###
+0
+100 300 600
+###ENDINPUT###
+50 0
+###ENDOUTPUT###
+3
+Chapay likes Hexadecimal
+Anka likes Cleo
+Troll likes Snowy
+15 15000 90
+###ENDINPUT###
+2985 2
+###ENDOUTPUT###
+0
+1 1 10000
+###ENDINPUT###
+1999 0
+###ENDOUTPUT###
+13
+Cleo likes Hexadecimal
+Cleo likes Snowy
+Hexadecimal likes Anka
+Anka likes Snowy
+Troll likes Snowy
+Chapay likes Hexadecimal
+Hexadecimal likes Snowy
+Snowy likes Chapay
+Troll likes Cleo
+Anka likes Hexadecimal
+Hexadecimal likes Cleo
+Chapay likes Dracul
+Snowy likes Dracul
+1000000000 2000000000 1000000000
+###ENDINPUT###
+166666666 6
+###ENDOUTPUT###
+12
+Cleo likes Hexadecimal
+Chapay likes Anka
+Hexadecimal likes Cleo
+Anka likes Snowy
+Anka likes Cleo
+Dracul likes Snowy
+Anka likes Troll
+Snowy likes Anka
+Cleo likes Anka
+Hexadecimal likes Troll
+Hexadecimal likes Chapay
+Snowy likes Troll
+1000000000 1 2000000000
+###ENDINPUT###
+499999999 7
+###ENDOUTPUT###
+0
+2000000000 2000000000 2000000000
+###ENDINPUT###
+333333334 0
+###ENDOUTPUT###
+2
+Snowy likes Hexadecimal
+Troll likes Dracul
+2000000000 2000000000 2000000000
+###ENDINPUT###
+333333334 2
+###ENDOUTPUT###
+12
+Snowy likes Chapay
+Cleo likes Dracul
+Hexadecimal likes Snowy
+Hexadecimal likes Anka
+Dracul likes Chapay
+Cleo likes Troll
+Dracul likes Snowy
+Snowy likes Dracul
+Troll likes Chapay
+Dracul likes Anka
+Chapay likes Hexadecimal
+Troll likes Dracul
+436364663 856574374 347564737
+###ENDINPUT###
+111742423 6
+###ENDOUTPUT###
+12
+Anka likes Dracul
+Dracul likes Troll
+Cleo likes Troll
+Snowy likes Hexadecimal
+Hexadecimal likes Chapay
+Cleo likes Dracul
+Cleo likes Chapay
+Hexadecimal likes Anka
+Snowy likes Cleo
+Hexadecimal likes Snowy
+Cleo likes Snowy
+Chapay likes Snowy
+584329075 428752235 675234087
+###ENDINPUT###
+77788420 6
+###ENDOUTPUT###
+8
+Anka likes Chapay
+Dracul likes Snowy
+Snowy likes Cleo
+Cleo likes Anka
+Cleo likes Troll
+Hexadecimal likes Troll
+Troll likes Cleo
+Snowy likes Dracul
+325432666 254352394 547360304
+###ENDINPUT###
+55277237 6
+###ENDOUTPUT###
+18
+Snowy likes Troll
+Chapay likes Hexadecimal
+Cleo likes Snowy
+Dracul likes Snowy
+Snowy likes Chapay
+Troll likes Cleo
+Snowy likes Anka
+Dracul likes Hexadecimal
+Hexadecimal likes Anka
+Anka likes Hexadecimal
+Anka likes Chapay
+Troll likes Anka
+Anka likes Snowy
+Anka likes Troll
+Snowy likes Cleo
+Hexadecimal likes Troll
+Hexadecimal likes Dracul
+Cleo likes Anka
+20000 1000 20000
+###ENDINPUT###
+5666 8
+###ENDOUTPUT###
+6
+Chapay likes Troll
+Troll likes Cleo
+Cleo likes Troll
+Chapay likes Snowy
+Anka likes Snowy
+Troll likes Dracul
+987499608 272739716 133573597
+###ENDINPUT###
+113301305 5
+###ENDOUTPUT###
+6
+Anka likes Troll
+Troll likes Chapay
+Troll likes Hexadecimal
+Hexadecimal likes Cleo
+Snowy likes Hexadecimal
+Chapay likes Troll
+740076959 230477703 987799796
+###ENDINPUT###
+98788895 5
+###ENDOUTPUT###
+17
+Cleo likes Dracul
+Troll likes Cleo
+Anka likes Chapay
+Anka likes Troll
+Chapay likes Snowy
+Troll likes Snowy
+Chapay likes Dracul
+Hexadecimal likes Snowy
+Dracul likes Snowy
+Troll likes Hexadecimal
+Hexadecimal likes Anka
+Cleo likes Snowy
+Hexadecimal likes Dracul
+Snowy likes Chapay
+Snowy likes Hexadecimal
+Snowy likes Dracul
+Dracul likes Troll
+112909524 619275170 403563648
+###ENDINPUT###
+88872300 9
+###ENDOUTPUT###
+1
+Hexadecimal likes Chapay
+848189141 631955593 79523012
+###ENDINPUT###
+203206701 1
+###ENDOUTPUT###
+18
+Anka likes Troll
+Dracul likes Chapay
+Hexadecimal likes Dracul
+Chapay likes Dracul
+Anka likes Hexadecimal
+Snowy likes Cleo
+Dracul likes Anka
+Snowy likes Anka
+Snowy likes Hexadecimal
+Dracul likes Troll
+Dracul likes Snowy
+Hexadecimal likes Anka
+Chapay likes Hexadecimal
+Snowy likes Dracul
+Cleo likes Snowy
+Chapay likes Cleo
+Anka likes Dracul
+Troll likes Anka
+838821770 712931449 361810998
+###ENDINPUT###
+124167182 8
+###ENDOUTPUT###
+18
+Hexadecimal likes Chapay
+Troll likes Dracul
+Troll likes Snowy
+Cleo likes Dracul
+Chapay likes Snowy
+Dracul likes Chapay
+Cleo likes Snowy
+Dracul likes Hexadecimal
+Troll likes Anka
+Anka likes Troll
+Hexadecimal likes Dracul
+Chapay likes Hexadecimal
+Cleo likes Chapay
+Anka likes Hexadecimal
+Snowy likes Dracul
+Chapay likes Troll
+Anka likes Snowy
+Dracul likes Cleo
+240256138 922743697 38909902
+###ENDINPUT###
+191776022 10
+###ENDOUTPUT###
+0
+477107314 230715335 261545417
+###ENDINPUT###
+43678104 0
+###ENDOUTPUT###
+16
+Chapay likes Snowy
+Hexadecimal likes Anka
+Chapay likes Troll
+Dracul likes Cleo
+Troll likes Hexadecimal
+Hexadecimal likes Dracul
+Chapay likes Cleo
+Snowy likes Cleo
+Snowy likes Anka
+Troll likes Chapay
+Snowy likes Hexadecimal
+Troll likes Snowy
+Cleo likes Hexadecimal
+Anka likes Snowy
+Snowy likes Chapay
+Anka likes Dracul
+843382501 58524777 503038818
+###ENDINPUT###
+192994632 8
+###ENDOUTPUT###
+5
+Troll likes Chapay
+Anka likes Snowy
+Anka likes Dracul
+Chapay likes Anka
+Snowy likes Troll
+709201888 431802832 597079932
+###ENDINPUT###
+82638550 3
+###ENDOUTPUT###
+18
+Cleo likes Snowy
+Snowy likes Hexadecimal
+Cleo likes Hexadecimal
+Troll likes Dracul
+Hexadecimal likes Snowy
+Dracul likes Troll
+Chapay likes Anka
+Chapay likes Cleo
+Troll likes Chapay
+Hexadecimal likes Chapay
+Anka likes Snowy
+Troll likes Snowy
+Dracul likes Snowy
+Dracul likes Chapay
+Chapay likes Troll
+Cleo likes Troll
+Hexadecimal likes Cleo
+Anka likes Chapay
+864225278 509037060 402199775
+###ENDINPUT###
+86975205 9
+###ENDOUTPUT###
+12
+Cleo likes Hexadecimal
+Troll likes Cleo
+Anka likes Cleo
+Hexadecimal likes Troll
+Anka likes Snowy
+Hexadecimal likes Anka
+Troll likes Hexadecimal
+Troll likes Anka
+Dracul likes Cleo
+Cleo likes Troll
+Dracul likes Troll
+Chapay likes Anka
+762445890 377707484 324080158
+###ENDINPUT###
+92108551 6
+###ENDOUTPUT###
+21
+Chapay likes Dracul
+Snowy likes Chapay
+Snowy likes Troll
+Cleo likes Chapay
+Cleo likes Troll
+Chapay likes Cleo
+Snowy likes Anka
+Dracul likes Anka
+Troll likes Snowy
+Snowy likes Cleo
+Chapay likes Hexadecimal
+Cleo likes Anka
+Cleo likes Snowy
+Hexadecimal likes Cleo
+Hexadecimal likes Snowy
+Hexadecimal likes Anka
+Hexadecimal likes Troll
+Anka likes Snowy
+Dracul likes Troll
+Chapay likes Anka
+Snowy likes Hexadecimal
+482557397 502108264 750230216
+###ENDINPUT###
+9775434 8
+###ENDOUTPUT###
+6
+Troll likes Chapay
+Hexadecimal likes Snowy
+Cleo likes Dracul
+Cleo likes Anka
+Chapay likes Anka
+Anka likes Chapay
+758376921 432619768 578580897
+###ENDINPUT###
+72980564 5
+###ENDOUTPUT###
+5
+Chapay likes Cleo
+Anka likes Hexadecimal
+Anka likes Chapay
+Cleo likes Troll
+Anka likes Cleo
+299076810 225593528 36830738
+###ENDINPUT###
+62861532 3
+###ENDOUTPUT###
+13
+Anka likes Cleo
+Cleo likes Troll
+Chapay likes Cleo
+Snowy likes Troll
+Chapay likes Anka
+Chapay likes Snowy
+Snowy likes Chapay
+Anka likes Snowy
+Snowy likes Dracul
+Cleo likes Hexadecimal
+Dracul likes Chapay
+Anka likes Hexadecimal
+Snowy likes Cleo
+554338888 280967932 682619964
+###ENDINPUT###
+96188303 7
+###ENDOUTPUT###
+17
+Hexadecimal likes Chapay
+Chapay likes Snowy
+Chapay likes Troll
+Anka likes Hexadecimal
+Cleo likes Troll
+Snowy likes Cleo
+Cleo likes Anka
+Cleo likes Hexadecimal
+Anka likes Snowy
+Chapay likes Hexadecimal
+Anka likes Cleo
+Dracul likes Snowy
+Chapay likes Anka
+Troll likes Hexadecimal
+Troll likes Anka
+Anka likes Dracul
+Hexadecimal likes Anka
+828886798 548024213 166661324
+###ENDINPUT###
+107350782 9
+###ENDOUTPUT###
+2
+Troll likes Cleo
+Anka likes Cleo
+14344913 559182022 405430772
+###ENDINPUT###
+172049094 2
+###ENDOUTPUT###
+22
+Cleo likes Snowy
+Cleo likes Troll
+Chapay likes Dracul
+Snowy likes Troll
+Dracul likes Chapay
+Dracul likes Snowy
+Chapay likes Cleo
+Snowy likes Chapay
+Dracul likes Troll
+Anka likes Hexadecimal
+Snowy likes Anka
+Hexadecimal likes Cleo
+Hexadecimal likes Troll
+Dracul likes Anka
+Cleo likes Hexadecimal
+Hexadecimal likes Dracul
+Chapay likes Troll
+Chapay likes Hexadecimal
+Anka likes Snowy
+Troll likes Hexadecimal
+Snowy likes Hexadecimal
+Anka likes Chapay
+458053183 602148195 994999698
+###ENDINPUT###
+102639975 9
+###ENDOUTPUT###
+5
+Troll likes Dracul
+Anka likes Chapay
+Cleo likes Anka
+Chapay likes Cleo
+Snowy likes Hexadecimal
+222 400 400
+###ENDINPUT###
+89 5
+###ENDOUTPUT###
+0
+2000000000 2000000000 1
+###ENDINPUT###
+666666665 0
+###ENDOUTPUT###
+0
+1200000000 1200000000 1200000000
+###ENDINPUT###
+200000000 0
+###ENDOUTPUT###
+0
+1 2000000000 2000000000
+###ENDINPUT###
+666666665 0
+###ENDOUTPUT###

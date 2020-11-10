@@ -1,0 +1,260 @@
+-4 4
+###ENDINPUT###
+black
+###ENDOUTPUT###
+4 -4
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-4 -4
+###ENDINPUT###
+white
+###ENDOUTPUT###
+0 0
+###ENDINPUT###
+black
+###ENDOUTPUT###
+0 1
+###ENDINPUT###
+black
+###ENDOUTPUT###
+0 2
+###ENDINPUT###
+black
+###ENDOUTPUT###
+0 1000
+###ENDINPUT###
+black
+###ENDOUTPUT###
+1000 0
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-1000 0
+###ENDINPUT###
+black
+###ENDOUTPUT###
+0 -1000
+###ENDINPUT###
+black
+###ENDOUTPUT###
+1000 -1000
+###ENDINPUT###
+white
+###ENDOUTPUT###
+12 5
+###ENDINPUT###
+black
+###ENDOUTPUT###
+12 -5
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-12 -35
+###ENDINPUT###
+black
+###ENDOUTPUT###
+20 -21
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-677 492
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-673 -270
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-668 970
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-220 208
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-215 -996
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-211 243
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-206 -518
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-201 278
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-196 -484
+###ENDINPUT###
+black
+###ENDOUTPUT###
+902 479
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-441 572
+###ENDINPUT###
+white
+###ENDOUTPUT###
+217 221
+###ENDINPUT###
+white
+###ENDOUTPUT###
+875 -129
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-469 -36
+###ENDINPUT###
+black
+###ENDOUTPUT###
+189 -387
+###ENDINPUT###
+white
+###ENDOUTPUT###
+847 -294
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-496 -644
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-281 -552
+###ENDINPUT###
+white
+###ENDOUTPUT###
+377 -902
+###ENDINPUT###
+black
+###ENDOUTPUT###
+165 -738
+###ENDINPUT###
+white
+###ENDOUTPUT###
+61 -175
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-42 389
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-589 952
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-693 -929
+###ENDINPUT###
+white
+###ENDOUTPUT###
+-796 -365
+###ENDINPUT###
+white
+###ENDOUTPUT###
+658 198
+###ENDINPUT###
+white
+###ENDOUTPUT###
+555 319
+###ENDINPUT###
+black
+###ENDOUTPUT###
+8 882
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-96 -556
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-129 489
+###ENDINPUT###
+black
+###ENDOUTPUT###
+207 -224
+###ENDINPUT###
+black
+###ENDOUTPUT###
+64 0
+###ENDINPUT###
+black
+###ENDOUTPUT###
+17 144
+###ENDINPUT###
+black
+###ENDOUTPUT###
+60 -448
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-399 -40
+###ENDINPUT###
+black
+###ENDOUTPUT###
+128 -504
+###ENDINPUT###
+black
+###ENDOUTPUT###
+0 72
+###ENDINPUT###
+black
+###ENDOUTPUT###
+168 -26
+###ENDINPUT###
+black
+###ENDOUTPUT###
+72 -154
+###ENDINPUT###
+black
+###ENDOUTPUT###
+117 -44
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-72 -646
+###ENDINPUT###
+black
+###ENDOUTPUT###
+253 -204
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-40 198
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-216 -90
+###ENDINPUT###
+black
+###ENDOUTPUT###
+15 -8
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-180 -432
+###ENDINPUT###
+black
+###ENDOUTPUT###
+280 342
+###ENDINPUT###
+black
+###ENDOUTPUT###
+132 224
+###ENDINPUT###
+black
+###ENDOUTPUT###
+-192 -256
+###ENDINPUT###
+black
+###ENDOUTPUT###
+351 -280
+###ENDINPUT###
+black
+###ENDOUTPUT###

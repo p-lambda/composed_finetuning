@@ -4,8 +4,8 @@ This repo provides the code accompanying the paper "Simplifying Models with Unla
 Predict-and-denoise can leverage unlabeled output data to improve models especially in situations when there is only a small amount of labeled data available.
 
 We provide experiments on both images and text:
-- conditional image generation
-- pseudocode to code (under construction)
+- conditional image generation (`imggen/`)
+- pseudocode to code (`code/`)
 
 If this repository was useful for you, please cite:
 ```
@@ -16,6 +16,7 @@ journal={arXiv preprint arXiv:2006.16205},
 year={2020} 
 }
 ```
+![cartoon](predict-and-denoise.png)
 
 # Conditional image generation experiments
 
@@ -27,3 +28,10 @@ Here is an example of the differences between a Direct predictor trained directl
 
 ![font generation](imggen/font-generation.png)
 
+# Pseudocode-to-code experiments
+
+The predict-and-denoise framework can also be applied in discrete output spaces.
+In code generation tasks, there is often a large amount of valid, unlabeled code available to learn from.
+We provide a synthetic pseudocode-to-code dataset in `code/` as well as processed training data and unlabeled data for the [SPoC](https://github.com/Sumith1896/spoc) pseudocode-to-code dataset. 
+
+![code generation](code/code-example.png)

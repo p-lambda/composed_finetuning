@@ -1,0 +1,20 @@
+abacaba
+###ENDINPUT###
+Too weak
+###ENDOUTPUT###
+X12345
+###ENDINPUT###
+Too weak
+###ENDOUTPUT###
+CONTEST_is_STARTED!!11
+###ENDINPUT###
+Correct
+###ENDOUTPUT###
+1zA__
+###ENDINPUT###
+Correct
+###ENDOUTPUT###
+1zA_
+###ENDINPUT###
+Too weak
+###ENDOUTPUT###

@@ -1,0 +1,20 @@
+2 2
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+2 3
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+3 3
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###
+20 68
+###ENDINPUT###
+Malvika
+###ENDOUTPUT###
+1 1
+###ENDINPUT###
+Akshat
+###ENDOUTPUT###

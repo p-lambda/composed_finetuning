@@ -1,0 +1,20 @@
+4 6 15
+###ENDINPUT###
+No
+###ENDOUTPUT###
+3 2 7
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+6 11 6
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+3 12 15
+###ENDINPUT###
+Yes
+###ENDOUTPUT###
+5 5 10
+###ENDINPUT###
+Yes
+###ENDOUTPUT###

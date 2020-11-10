@@ -1,0 +1,25 @@
+5 2
+#G#T#
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+6 1
+T....G
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+7 3
+T..#..G
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+6 2
+..GT..
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+2 1
+GT
+###ENDINPUT###
+YES
+###ENDOUTPUT###

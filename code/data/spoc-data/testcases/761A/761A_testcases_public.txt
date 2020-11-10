@@ -1,0 +1,20 @@
+2 3
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+3 1
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+5 4
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+9 9
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+85 95
+###ENDINPUT###
+NO
+###ENDOUTPUT###

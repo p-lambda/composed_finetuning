@@ -1,0 +1,38 @@
+5
+birch yellow
+maple red
+birch yellow
+maple yellow
+maple green
+###ENDINPUT###
+4
+###ENDOUTPUT###
+3
+oak yellow
+oak yellow
+oak yellow
+###ENDINPUT###
+1
+###ENDOUTPUT###
+5
+xbnbkzn hp
+kaqkl vrgzbvqstu
+j aqidx
+hos gyul
+wefxmh tygpluae
+###ENDINPUT###
+5
+###ENDOUTPUT###
+1
+qvwli hz
+###ENDINPUT###
+1
+###ENDOUTPUT###
+4
+srhk x
+srhk x
+qfoe vnrjuab
+qfoe vnrjuab
+###ENDINPUT###
+2
+###ENDOUTPUT###

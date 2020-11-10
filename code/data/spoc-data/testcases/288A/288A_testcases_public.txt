@@ -1,0 +1,20 @@
+7 4
+###ENDINPUT###
+ababacd
+###ENDOUTPUT###
+4 7
+###ENDINPUT###
+-1
+###ENDOUTPUT###
+10 5
+###ENDINPUT###
+abababacde
+###ENDOUTPUT###
+47 2
+###ENDINPUT###
+abababababababababababababababababababababababa
+###ENDOUTPUT###
+10 7
+###ENDINPUT###
+ababacdefg
+###ENDOUTPUT###

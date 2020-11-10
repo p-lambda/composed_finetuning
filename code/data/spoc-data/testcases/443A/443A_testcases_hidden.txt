@@ -1,0 +1,68 @@
+{a, b}
+###ENDINPUT###
+2
+###ENDOUTPUT###
+{a}
+###ENDINPUT###
+1
+###ENDOUTPUT###
+{b, a, b, a, b, c, c, b, c, b}
+###ENDINPUT###
+3
+###ENDOUTPUT###
+{e, g, c, e}
+###ENDINPUT###
+3
+###ENDOUTPUT###
+{a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a}
+###ENDINPUT###
+1
+###ENDOUTPUT###
+{a, a, b}
+###ENDINPUT###
+2
+###ENDOUTPUT###
+{a, b, b, b, a, b, a, a, a, a, a, a, b, a, b, a, a, a, a, a, b, a, b, a}
+###ENDINPUT###
+2
+###ENDOUTPUT###
+{j, u, a, c, f, w, e, w, x, t, h, p, v, n, i, l, x, n, i, b, u, c, a, a}
+###ENDINPUT###
+16
+###ENDOUTPUT###
+{x, i, w, c, p, e, h, z, k, i}
+###ENDINPUT###
+9
+###ENDOUTPUT###
+{t, k, o, x, r, d, q, j, k, e, z, w, y, r, z, s, s, e, s, b, k, i}
+###ENDINPUT###
+15
+###ENDOUTPUT###
+{y}
+###ENDINPUT###
+1
+###ENDOUTPUT###
+{x}
+###ENDINPUT###
+1
+###ENDOUTPUT###
+{b, z, a, z}
+###ENDINPUT###
+3
+###ENDOUTPUT###
+{z}
+###ENDINPUT###
+1
+###ENDOUTPUT###
+{a, z}
+###ENDINPUT###
+2
+###ENDOUTPUT###
+{a, b, z}
+###ENDINPUT###
+3
+###ENDOUTPUT###
+{s, q, z, r, t, a, b, h, j, i, o, z, r, q}
+###ENDINPUT###
+11
+###ENDOUTPUT###

@@ -1,0 +1,20 @@
+petr
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+etis atis animatis etis atis amatis
+###ENDINPUT###
+NO
+###ENDOUTPUT###
+nataliala kataliala vetra feinites
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+qweasbvflios
+###ENDINPUT###
+YES
+###ENDOUTPUT###
+lios lios petr initis qwe
+###ENDINPUT###
+NO
+###ENDOUTPUT###

@@ -1,0 +1,45 @@
++Mike
+Mike:hello
++Kate
++Dmitry
+-Dmitry
+Kate:hi
+-Kate
+###ENDINPUT###
+9
+###ENDOUTPUT###
++Mike
+-Mike
++Mike
+Mike:Hi   I am here
+-Mike
++Kate
+-Kate
+###ENDINPUT###
+14
+###ENDOUTPUT###
++Dmitry
++Mike
+Dmitry:All letters will be used
+Dmitry:qwertyuiopasdfghjklzxcvbnm QWERTYUIOPASDFGHJKLZXCVBNM
+Dmitry:And digits too
+Dmitry:1234567890 0987654321
+-Dmitry
+###ENDINPUT###
+224
+###ENDOUTPUT###
++Dmitry
++Mike
++Kate
+Dmitry:
+###ENDINPUT###
+0
+###ENDOUTPUT###
++Dmitry
+Dmitry:No phrases with spaces at the beginning and at the end
++Mike
+Dmitry:spaces    spaces
+-Dmitry
+###ENDINPUT###
+86
+###ENDOUTPUT###

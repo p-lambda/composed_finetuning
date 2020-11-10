@@ -1,0 +1,292 @@
+6
+A
+B
+C
+D
+E
+F
+A-B 1:0
+A-C 0:0
+A-D 1:0
+A-E 5:5
+A-F 0:1
+B-C 1:0
+B-D 1:0
+B-E 1:0
+B-F 0:2
+C-D 7:7
+C-E 1:0
+C-F 1:0
+D-E 1:0
+D-F 1:0
+E-F 0:1
+###ENDINPUT###
+B
+C
+F
+###ENDOUTPUT###
+10
+ceNhjHeHvJvgBsNincenvizhq
+JzhLMDMxiJztixbatrrjst
+PkggZChxbrldlqwdfimwe
+nTepiOqpvksrwelodpnr
+FtlvNxIbkdhjbj
+wmZHJFVNlxq
+IoXISBYHHfywpapdrs
+Cizwyiaqhlgecpxamqn
+VPenoUKhniubrmpyu
+ybXDyUobkdoj
+ceNhjHeHvJvgBsNincenvizhq-JzhLMDMxiJztixbatrrjst 4:84
+ceNhjHeHvJvgBsNincenvizhq-PkggZChxbrldlqwdfimwe 33:61
+ceNhjHeHvJvgBsNincenvizhq-nTepiOqpvksrwelodpnr 92:24
+ceNhjHeHvJvgBsNincenvizhq-FtlvNxIbkdhjbj 43:49
+ceNhjHeHvJvgBsNincenvizhq-wmZHJFVNlxq 15:76
+ceNhjHeHvJvgBsNincenvizhq-IoXISBYHHfywpapdrs 75:83
+ceNhjHeHvJvgBsNincenvizhq-Cizwyiaqhlgecpxamqn 86:22
+ceNhjHeHvJvgBsNincenvizhq-VPenoUKhniubrmpyu 58:59
+ceNhjHeHvJvgBsNincenvizhq-ybXDyUobkdoj 8:60
+JzhLMDMxiJztixbatrrjst-PkggZChxbrldlqwdfimwe 63:71
+JzhLMDMxiJztixbatrrjst-nTepiOqpvksrwelodpnr 55:51
+JzhLMDMxiJztixbatrrjst-FtlvNxIbkdhjbj 99:40
+JzhLMDMxiJztixbatrrjst-wmZHJFVNlxq 31:83
+JzhLMDMxiJztixbatrrjst-IoXISBYHHfywpapdrs 14:4
+JzhLMDMxiJztixbatrrjst-Cizwyiaqhlgecpxamqn 89:55
+JzhLMDMxiJztixbatrrjst-VPenoUKhniubrmpyu 40:97
+JzhLMDMxiJztixbatrrjst-ybXDyUobkdoj 29:99
+PkggZChxbrldlqwdfimwe-nTepiOqpvksrwelodpnr 39:55
+PkggZChxbrldlqwdfimwe-FtlvNxIbkdhjbj 55:50
+PkggZChxbrldlqwdfimwe-wmZHJFVNlxq 30:96
+PkggZChxbrldlqwdfimwe-IoXISBYHHfywpapdrs 66:77
+PkggZChxbrldlqwdfimwe-Cizwyiaqhlgecpxamqn 5:23
+PkggZChxbrldlqwdfimwe-VPenoUKhniubrmpyu 69:89
+PkggZChxbrldlqwdfimwe-ybXDyUobkdoj 1:57
+nTepiOqpvksrwelodpnr-FtlvNxIbkdhjbj 25:93
+nTepiOqpvksrwelodpnr-wmZHJFVNlxq 20:12
+nTepiOqpvksrwelodpnr-IoXISBYHHfywpapdrs 88:18
+nTepiOqpvksrwelodpnr-Cizwyiaqhlgecpxamqn 73:44
+nTepiOqpvksrwelodpnr-VPenoUKhniubrmpyu 83:79
+nTepiOqpvksrwelodpnr-ybXDyUobkdoj 37:27
+FtlvNxIbkdhjbj-wmZHJFVNlxq 54:35
+FtlvNxIbkdhjbj-IoXISBYHHfywpapdrs 24:96
+FtlvNxIbkdhjbj-Cizwyiaqhlgecpxamqn 86:63
+FtlvNxIbkdhjbj-VPenoUKhniubrmpyu 65:45
+FtlvNxIbkdhjbj-ybXDyUobkdoj 16:34
+wmZHJFVNlxq-IoXISBYHHfywpapdrs 60:42
+wmZHJFVNlxq-Cizwyiaqhlgecpxamqn 35:19
+wmZHJFVNlxq-VPenoUKhniubrmpyu 21:98
+wmZHJFVNlxq-ybXDyUobkdoj 88:57
+IoXISBYHHfywpapdrs-Cizwyiaqhlgecpxamqn 31:7
+IoXISBYHHfywpapdrs-VPenoUKhniubrmpyu 12:57
+IoXISBYHHfywpapdrs-ybXDyUobkdoj 24:94
+Cizwyiaqhlgecpxamqn-VPenoUKhniubrmpyu 86:25
+Cizwyiaqhlgecpxamqn-ybXDyUobkdoj 42:41
+VPenoUKhniubrmpyu-ybXDyUobkdoj 19:70
+###ENDINPUT###
+JzhLMDMxiJztixbatrrjst
+VPenoUKhniubrmpyu
+nTepiOqpvksrwelodpnr
+wmZHJFVNlxq
+ybXDyUobkdoj
+###ENDOUTPUT###
+12
+hPqSVhwQQjcgCytaj
+gdVuAPSMJAvTjkorwbgfcruqb
+Jzkxgvufhj
+KqFfsmfhf
+ZBfioh
+ezmVlGLTpjgehe
+MfJXhxsc
+FrCUusnmm
+KAfbTbHWzzOTzwktum
+xDlsqpvjLHMThOjatllcdlgnhvabu
+BrZAmjnjrhHlrafbggvkdy
+BjaefJDOdsky
+xDlsqpvjLHMThOjatllcdlgnhvabu-BrZAmjnjrhHlrafbggvkdy 13:4
+hPqSVhwQQjcgCytaj-KqFfsmfhf 52:87
+Jzkxgvufhj-xDlsqpvjLHMThOjatllcdlgnhvabu 7:82
+KqFfsmfhf-MfJXhxsc 61:62
+FrCUusnmm-xDlsqpvjLHMThOjatllcdlgnhvabu 15:28
+KAfbTbHWzzOTzwktum-BrZAmjnjrhHlrafbggvkdy 77:30
+hPqSVhwQQjcgCytaj-ezmVlGLTpjgehe 15:98
+MfJXhxsc-FrCUusnmm 5:57
+xDlsqpvjLHMThOjatllcdlgnhvabu-BjaefJDOdsky 75:37
+KqFfsmfhf-FrCUusnmm 68:47
+hPqSVhwQQjcgCytaj-MfJXhxsc 99:5
+gdVuAPSMJAvTjkorwbgfcruqb-KAfbTbHWzzOTzwktum 37:57
+ZBfioh-FrCUusnmm 7:58
+KqFfsmfhf-ezmVlGLTpjgehe 42:46
+gdVuAPSMJAvTjkorwbgfcruqb-BrZAmjnjrhHlrafbggvkdy 91:59
+Jzkxgvufhj-ezmVlGLTpjgehe 96:48
+Jzkxgvufhj-BrZAmjnjrhHlrafbggvkdy 20:2
+ZBfioh-xDlsqpvjLHMThOjatllcdlgnhvabu 75:56
+BrZAmjnjrhHlrafbggvkdy-BjaefJDOdsky 28:10
+MfJXhxsc-KAfbTbHWzzOTzwktum 92:14
+hPqSVhwQQjcgCytaj-gdVuAPSMJAvTjkorwbgfcruqb 17:98
+gdVuAPSMJAvTjkorwbgfcruqb-Jzkxgvufhj 3:23
+hPqSVhwQQjcgCytaj-BjaefJDOdsky 63:10
+gdVuAPSMJAvTjkorwbgfcruqb-FrCUusnmm 63:4
+KAfbTbHWzzOTzwktum-xDlsqpvjLHMThOjatllcdlgnhvabu 6:90
+Jzkxgvufhj-KAfbTbHWzzOTzwktum 48:28
+ezmVlGLTpjgehe-FrCUusnmm 31:25
+hPqSVhwQQjcgCytaj-KAfbTbHWzzOTzwktum 48:44
+MfJXhxsc-BjaefJDOdsky 91:40
+Jzkxgvufhj-MfJXhxsc 93:27
+ezmVlGLTpjgehe-MfJXhxsc 72:93
+hPqSVhwQQjcgCytaj-Jzkxgvufhj 32:77
+gdVuAPSMJAvTjkorwbgfcruqb-xDlsqpvjLHMThOjatllcdlgnhvabu 79:98
+KqFfsmfhf-ZBfioh 10:44
+ZBfioh-ezmVlGLTpjgehe 92:40
+hPqSVhwQQjcgCytaj-BrZAmjnjrhHlrafbggvkdy 1:59
+FrCUusnmm-KAfbTbHWzzOTzwktum 69:60
+ezmVlGLTpjgehe-xDlsqpvjLHMThOjatllcdlgnhvabu 25:27
+FrCUusnmm-BjaefJDOdsky 95:80
+gdVuAPSMJAvTjkorwbgfcruqb-MfJXhxsc 94:79
+ZBfioh-MfJXhxsc 72:58
+Jzkxgvufhj-BjaefJDOdsky 68:28
+FrCUusnmm-BrZAmjnjrhHlrafbggvkdy 66:65
+hPqSVhwQQjcgCytaj-ZBfioh 77:39
+KqFfsmfhf-BjaefJDOdsky 39:2
+ZBfioh-KAfbTbHWzzOTzwktum 98:94
+gdVuAPSMJAvTjkorwbgfcruqb-KqFfsmfhf 64:80
+Jzkxgvufhj-KqFfsmfhf 86:24
+ezmVlGLTpjgehe-BjaefJDOdsky 39:76
+KqFfsmfhf-KAfbTbHWzzOTzwktum 77:17
+Jzkxgvufhj-FrCUusnmm 26:78
+gdVuAPSMJAvTjkorwbgfcruqb-BjaefJDOdsky 51:79
+Jzkxgvufhj-ZBfioh 69:50
+MfJXhxsc-BrZAmjnjrhHlrafbggvkdy 74:86
+KqFfsmfhf-BrZAmjnjrhHlrafbggvkdy 11:83
+ZBfioh-BrZAmjnjrhHlrafbggvkdy 73:25
+ZBfioh-BjaefJDOdsky 21:40
+hPqSVhwQQjcgCytaj-FrCUusnmm 14:16
+hPqSVhwQQjcgCytaj-xDlsqpvjLHMThOjatllcdlgnhvabu 81:32
+ezmVlGLTpjgehe-BrZAmjnjrhHlrafbggvkdy 10:14
+gdVuAPSMJAvTjkorwbgfcruqb-ZBfioh 95:45
+KAfbTbHWzzOTzwktum-BjaefJDOdsky 21:75
+MfJXhxsc-xDlsqpvjLHMThOjatllcdlgnhvabu 3:65
+gdVuAPSMJAvTjkorwbgfcruqb-ezmVlGLTpjgehe 38:20
+ezmVlGLTpjgehe-KAfbTbHWzzOTzwktum 98:72
+KqFfsmfhf-xDlsqpvjLHMThOjatllcdlgnhvabu 14:45
+###ENDINPUT###
+BrZAmjnjrhHlrafbggvkdy
+FrCUusnmm
+Jzkxgvufhj
+ZBfioh
+gdVuAPSMJAvTjkorwbgfcruqb
+xDlsqpvjLHMThOjatllcdlgnhvabu
+###ENDOUTPUT###
+14
+ECGyEVSyzfmtbejyilx
+iVnnfkbsYYsfdqj
+RmyzLfTTujs
+cewIqfwibmrlvn
+dkcLpflHAFyu
+Qoatolifmgeh
+LvyejznjbRtvbitc
+LvqQaGcdcrcz
+ONBdCctJtjwm
+IJbmkFBhFzuQLBpjbcqrcyvhaslqg
+dNHulCjIrz
+Dkbvzxxlkdzuwlr
+PGJndoYDzZJe
+HetYUNjxxldIjRCokk
+RmyzLfTTujs-cewIqfwibmrlvn 6:15
+IJbmkFBhFzuQLBpjbcqrcyvhaslqg-PGJndoYDzZJe 67:25
+dkcLpflHAFyu-HetYUNjxxldIjRCokk 77:11
+ONBdCctJtjwm-Dkbvzxxlkdzuwlr 43:91
+dNHulCjIrz-PGJndoYDzZJe 26:90
+ECGyEVSyzfmtbejyilx-RmyzLfTTujs 78:27
+dkcLpflHAFyu-LvqQaGcdcrcz 48:34
+ONBdCctJtjwm-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 8:25
+IJbmkFBhFzuQLBpjbcqrcyvhaslqg-HetYUNjxxldIjRCokk 36:18
+PGJndoYDzZJe-HetYUNjxxldIjRCokk 80:14
+IJbmkFBhFzuQLBpjbcqrcyvhaslqg-dNHulCjIrz 73:99
+RmyzLfTTujs-LvqQaGcdcrcz 6:90
+dkcLpflHAFyu-dNHulCjIrz 33:99
+dNHulCjIrz-Dkbvzxxlkdzuwlr 73:50
+cewIqfwibmrlvn-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 74:78
+RmyzLfTTujs-dNHulCjIrz 43:83
+dkcLpflHAFyu-Dkbvzxxlkdzuwlr 67:52
+ECGyEVSyzfmtbejyilx-PGJndoYDzZJe 6:56
+RmyzLfTTujs-PGJndoYDzZJe 39:34
+RmyzLfTTujs-HetYUNjxxldIjRCokk 92:41
+cewIqfwibmrlvn-ONBdCctJtjwm 70:68
+iVnnfkbsYYsfdqj-HetYUNjxxldIjRCokk 58:7
+Qoatolifmgeh-PGJndoYDzZJe 80:54
+iVnnfkbsYYsfdqj-dkcLpflHAFyu 31:36
+cewIqfwibmrlvn-Dkbvzxxlkdzuwlr 72:98
+iVnnfkbsYYsfdqj-Dkbvzxxlkdzuwlr 18:20
+LvyejznjbRtvbitc-PGJndoYDzZJe 99:79
+ONBdCctJtjwm-dNHulCjIrz 56:94
+ECGyEVSyzfmtbejyilx-Qoatolifmgeh 59:81
+iVnnfkbsYYsfdqj-RmyzLfTTujs 4:64
+dNHulCjIrz-HetYUNjxxldIjRCokk 33:88
+Qoatolifmgeh-LvyejznjbRtvbitc 29:39
+iVnnfkbsYYsfdqj-dNHulCjIrz 77:84
+LvyejznjbRtvbitc-ONBdCctJtjwm 78:10
+Qoatolifmgeh-Dkbvzxxlkdzuwlr 21:10
+cewIqfwibmrlvn-Qoatolifmgeh 78:75
+iVnnfkbsYYsfdqj-ONBdCctJtjwm 57:96
+iVnnfkbsYYsfdqj-PGJndoYDzZJe 57:51
+ECGyEVSyzfmtbejyilx-LvyejznjbRtvbitc 78:17
+ECGyEVSyzfmtbejyilx-ONBdCctJtjwm 23:35
+Qoatolifmgeh-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 93:47
+dkcLpflHAFyu-Qoatolifmgeh 34:27
+ECGyEVSyzfmtbejyilx-LvqQaGcdcrcz 3:80
+LvyejznjbRtvbitc-LvqQaGcdcrcz 89:65
+LvyejznjbRtvbitc-Dkbvzxxlkdzuwlr 90:45
+ECGyEVSyzfmtbejyilx-HetYUNjxxldIjRCokk 81:47
+LvyejznjbRtvbitc-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 9:41
+LvqQaGcdcrcz-ONBdCctJtjwm 94:13
+Qoatolifmgeh-ONBdCctJtjwm 29:32
+RmyzLfTTujs-dkcLpflHAFyu 7:45
+Qoatolifmgeh-HetYUNjxxldIjRCokk 32:50
+cewIqfwibmrlvn-PGJndoYDzZJe 69:78
+iVnnfkbsYYsfdqj-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 44:99
+iVnnfkbsYYsfdqj-LvyejznjbRtvbitc 41:5
+iVnnfkbsYYsfdqj-cewIqfwibmrlvn 71:5
+ECGyEVSyzfmtbejyilx-dNHulCjIrz 0:71
+dkcLpflHAFyu-LvyejznjbRtvbitc 47:62
+Dkbvzxxlkdzuwlr-HetYUNjxxldIjRCokk 80:34
+dkcLpflHAFyu-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 56:59
+RmyzLfTTujs-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 21:8
+dkcLpflHAFyu-ONBdCctJtjwm 26:31
+ECGyEVSyzfmtbejyilx-cewIqfwibmrlvn 17:56
+LvyejznjbRtvbitc-HetYUNjxxldIjRCokk 10:82
+cewIqfwibmrlvn-HetYUNjxxldIjRCokk 26:81
+IJbmkFBhFzuQLBpjbcqrcyvhaslqg-Dkbvzxxlkdzuwlr 64:2
+LvqQaGcdcrcz-dNHulCjIrz 36:59
+cewIqfwibmrlvn-dNHulCjIrz 21:31
+RmyzLfTTujs-LvyejznjbRtvbitc 62:12
+Qoatolifmgeh-LvqQaGcdcrcz 38:8
+ECGyEVSyzfmtbejyilx-Dkbvzxxlkdzuwlr 11:12
+LvqQaGcdcrcz-Dkbvzxxlkdzuwlr 35:12
+ECGyEVSyzfmtbejyilx-dkcLpflHAFyu 30:26
+iVnnfkbsYYsfdqj-LvqQaGcdcrcz 6:96
+RmyzLfTTujs-ONBdCctJtjwm 90:28
+ONBdCctJtjwm-HetYUNjxxldIjRCokk 42:76
+cewIqfwibmrlvn-LvyejznjbRtvbitc 5:20
+ECGyEVSyzfmtbejyilx-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 8:39
+LvqQaGcdcrcz-PGJndoYDzZJe 93:46
+LvqQaGcdcrcz-HetYUNjxxldIjRCokk 60:86
+cewIqfwibmrlvn-LvqQaGcdcrcz 61:50
+LvyejznjbRtvbitc-dNHulCjIrz 44:34
+RmyzLfTTujs-Dkbvzxxlkdzuwlr 9:21
+iVnnfkbsYYsfdqj-Qoatolifmgeh 26:48
+cewIqfwibmrlvn-dkcLpflHAFyu 24:61
+Dkbvzxxlkdzuwlr-PGJndoYDzZJe 26:63
+ECGyEVSyzfmtbejyilx-iVnnfkbsYYsfdqj 12:2
+ONBdCctJtjwm-PGJndoYDzZJe 9:28
+RmyzLfTTujs-Qoatolifmgeh 20:56
+dkcLpflHAFyu-PGJndoYDzZJe 75:43
+Qoatolifmgeh-dNHulCjIrz 2:78
+LvqQaGcdcrcz-IJbmkFBhFzuQLBpjbcqrcyvhaslqg 42:1
+###ENDINPUT###
+IJbmkFBhFzuQLBpjbcqrcyvhaslqg
+LvqQaGcdcrcz
+LvyejznjbRtvbitc
+PGJndoYDzZJe
+Qoatolifmgeh
+dNHulCjIrz
+dkcLpflHAFyu
+###ENDOUTPUT###

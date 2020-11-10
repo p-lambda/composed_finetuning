@@ -1,0 +1,31 @@
+2
+1 2
+2 1
+###ENDINPUT###
+Happy Alex
+###ENDOUTPUT###
+2
+1 1
+2 2
+###ENDINPUT###
+Poor Alex
+###ENDOUTPUT###
+3
+2 2
+3 3
+1 1
+###ENDINPUT###
+Poor Alex
+###ENDOUTPUT###
+3
+3 3
+1 2
+2 1
+###ENDINPUT###
+Happy Alex
+###ENDOUTPUT###
+1
+1 1
+###ENDINPUT###
+Poor Alex
+###ENDOUTPUT###

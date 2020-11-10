@@ -1,0 +1,99 @@
+10 5
+somer
+andom
+noise
+mayth
+eforc
+ebewi
+thyou
+hctwo
+again
+noise
+somermayth
+andomeforc
+noiseebewi
+againthyou
+noisehctwo
+###ENDINPUT###
+4 6
+###ENDOUTPUT###
+1 1
+g
+g
+###ENDINPUT###
+1 1
+###ENDOUTPUT###
+10 5
+qvwpe
+lqajz
+oufoc
+yjpwq
+ewxxb
+uiuhq
+gfbdh
+vqdvs
+hujxj
+cegbl
+ykhoufoclt
+fgpyjpwqxy
+goaewxxbvg
+ouzuiuhqjm
+pzugfbdhvj
+###ENDINPUT###
+3 4
+###ENDOUTPUT###
+20 5
+cygnl
+umvsg
+inxdg
+bhfab
+zoeqs
+ufkfu
+xfwzs
+yeemk
+mboau
+tybxo
+dekot
+drpto
+lvral
+bfnyo
+smcgv
+dvyiq
+mzeyf
+odwac
+kxacn
+zgxng
+utjljesmxaqzoeqsrhuj
+fazlqofsrbcufkfundlj
+spltwmdagjwxfwzsleqk
+frcwgdnrmduyeemkrxwl
+gcybkcyfbxgmboauvvcl
+###ENDINPUT###
+5 12
+###ENDOUTPUT###
+15 7
+evfypca
+mcbdqfw
+krrxcng
+xhmjudk
+uszrpiv
+bofnvbh
+vqwpnmx
+ablecay
+rdylwsn
+ztprmmz
+fmblyri
+ccmugtm
+jlmztfd
+mdwgwyw
+plzgwti
+hxhmjudkwcdnhyd
+puszrpivyllhshg
+qbofnvbhbojtgdv
+dvqwpnmxdaixdtk
+vablecaywhhirlp
+hrdylwsneitdfxk
+lztprmmzlzfooqf
+###ENDINPUT###
+4 2
+###ENDOUTPUT###

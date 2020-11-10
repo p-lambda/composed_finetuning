@@ -1,0 +1,210 @@
+v <
+1
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+< ^
+1
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+v <
+422435957
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+v >
+139018901
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+v ^
+571728018
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ ^
+0
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+< >
+2
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+> >
+1000000000
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+v v
+8
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+< <
+1568
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ v
+2
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ <
+1
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+< v
+1
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+v >
+1
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+> ^
+1
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+v <
+422435957
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+v v
+927162384
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+v ^
+571728018
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ <
+467441155
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+^ >
+822875521
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+^ <
+821690113
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+^ <
+171288453
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+^ <
+110821381
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+^ ^
+539580280
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ >
+861895563
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+v v
+4
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ ^
+4
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+> >
+4
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+< <
+8
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+v v
+0
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+^ <
+11
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+< <
+4
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+< <
+0
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+< v
+3
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+^ <
+3
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+^ <
+7
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+< >
+6
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+v >
+3
+###ENDINPUT###
+cw
+###ENDOUTPUT###
+> >
+300
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+> >
+0
+###ENDINPUT###
+undefined
+###ENDOUTPUT###
+v <
+3
+###ENDINPUT###
+ccw
+###ENDOUTPUT###
+> >
+12
+###ENDINPUT###
+undefined
+###ENDOUTPUT###

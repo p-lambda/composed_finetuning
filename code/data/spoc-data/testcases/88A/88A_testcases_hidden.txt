@@ -1,0 +1,280 @@
+D# B F#
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+F H E
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+B F# G
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+F# H C
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C# F C
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+G# C# E
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+D# H G#
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+C F A
+###ENDINPUT###
+major
+###ENDOUTPUT###
+H E G#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+G D# B
+###ENDINPUT###
+major
+###ENDOUTPUT###
+E C G
+###ENDINPUT###
+major
+###ENDOUTPUT###
+G# C# F
+###ENDINPUT###
+major
+###ENDOUTPUT###
+D# C G#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+C# F B
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+D# C G
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+A D F
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+F# H D
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+D A F
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+D A F#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+C# B F
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+A C F
+###ENDINPUT###
+major
+###ENDOUTPUT###
+D F# H
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+H G# D#
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+A D F#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+H E G#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+D# B F#
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+D# H F#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+A D F#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+B G D#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+E A C#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+D H G
+###ENDINPUT###
+major
+###ENDOUTPUT###
+H D F#
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+G D# C
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+H D G
+###ENDINPUT###
+major
+###ENDOUTPUT###
+E C G
+###ENDINPUT###
+major
+###ENDOUTPUT###
+D# A E
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+A F E
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C E F
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+A B C
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+E F D#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C G# G#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+F D# G#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+B G D#
+###ENDINPUT###
+major
+###ENDOUTPUT###
+E E G#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+A G H
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+F E A
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+D B E
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+G# C# D
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+D# D# F#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+H B G
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+D C B
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+D B B
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C A H
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+F# H F#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+A F F#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C D C
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+G F# A
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C C# D
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C A E
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+A H B
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+B E F#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+G# G# A
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+B C# C#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+C G D#
+###ENDINPUT###
+minor
+###ENDOUTPUT###
+C B D#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+F H F
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+E G# C
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+F# F# F#
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+F C F
+###ENDINPUT###
+strange
+###ENDOUTPUT###
+A F D
+###ENDINPUT###
+minor
+###ENDOUTPUT###

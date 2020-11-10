@@ -1,0 +1,15 @@
+21
+coodddeeeecccccoooooo
+###ENDINPUT###
+codeco
+###ENDOUTPUT###
+55
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+###ENDINPUT###
+aaaaaaaaaa
+###ENDOUTPUT###
+36
+abbcccddddeeeeeffffffggggggghhhhhhhh
+###ENDINPUT###
+abcdefgh
+###ENDOUTPUT###

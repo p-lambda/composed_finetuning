@@ -1,0 +1,46 @@
+4
+6
+1
+1
+1
+1
+###ENDINPUT###
+3 7
+###ENDOUTPUT###
+1
+10
+5
+###ENDINPUT###
+15 15
+###ENDOUTPUT###
+3
+6
+1
+6
+5
+###ENDINPUT###
+6 12
+###ENDOUTPUT###
+3
+7
+1
+6
+5
+###ENDINPUT###
+7 13
+###ENDOUTPUT###
+10
+1000
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+###ENDINPUT###
+200 1100
+###ENDOUTPUT###

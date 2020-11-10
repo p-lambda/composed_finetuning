@@ -1,0 +1,41 @@
+2 10
+half
+halfplus
+###ENDINPUT###
+15
+###ENDOUTPUT###
+3 10
+halfplus
+halfplus
+halfplus
+###ENDINPUT###
+55
+###ENDOUTPUT###
+10 328
+half
+halfplus
+halfplus
+half
+halfplus
+half
+half
+half
+halfplus
+halfplus
+###ENDINPUT###
+258300
+###ENDOUTPUT###
+1 2
+halfplus
+###ENDINPUT###
+1
+###ENDOUTPUT###
+5 6
+half
+half
+halfplus
+half
+halfplus
+###ENDINPUT###
+114
+###ENDOUTPUT###
