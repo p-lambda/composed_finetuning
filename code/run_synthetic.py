@@ -498,7 +498,7 @@ def direct(num_examples=1000, dropout=0.1):
            --lr 2e-3 --min-lr 1e-9 \
            --max-tokens 4000 \
            --update-freq 4 \
-           --max-epoch 500 --save-interval 100 --save-dir {save_dir} --user-dir {USER_DIR}"
+           --max-epoch 500 --save-interval 500 --save-dir {save_dir} --user-dir {USER_DIR}"
     subprocess.run(shlex.split(cmd))
 
     # EVALUATE
@@ -581,7 +581,7 @@ def denoise(small=False, num_examples=1000, do_eval=True, num_unlabeled=20000, d
            --lr 1e-3 --min-lr 1e-9 \
            --max-tokens 4000 \
            --update-freq 4 \
-           --max-epoch 50 --save-interval 25 --save-dir {save_dir} --user-dir {USER_DIR}"
+           --max-epoch 50 --save-interval 50 --save-dir {save_dir} --user-dir {USER_DIR}"
     subprocess.run(shlex.split(cmd))
 
     if do_eval:
@@ -644,7 +644,7 @@ def composed(num_examples=1000, pretrain_init=False, eval_only=False, num_unlabe
         std_exp_id = f'pretrain_synthetic_{ds_train.id}'
         std_exp_id += suffix
     else:
-        std_exp_id = f'standard_synthetic_{ds_train.id}'
+        std_exp_id = f'direct_synthetic_{ds_train.id}'
         std_exp_id += std_suffix
 
     src = 'src'
@@ -691,7 +691,7 @@ def composed(num_examples=1000, pretrain_init=False, eval_only=False, num_unlabe
                --lr 2e-4 --min-lr 1e-9 \
                --max-tokens 4000 \
                --update-freq 4 \
-               --max-epoch 50 --save-interval 1 --save-dir {save_dir} --user-dir {USER_DIR} \
+               --max-epoch 50 --save-interval 50 --save-dir {save_dir} --user-dir {USER_DIR} \
                --keep-best-checkpoints 4 \
                --pi-restore-path {denoise_save_path} \
                --f-restore-path {standard_save_path} \
@@ -808,7 +808,7 @@ def pretrained(num_examples=1000, num_unlabeled=20000, dropout=0.1):
            --lr 2e-3 --min-lr 1e-9 \
            --max-tokens 4000 \
            --update-freq 4 \
-           --max-epoch 300 --save-interval 50 --save-dir {save_dir} --user-dir {USER_DIR} \
+           --max-epoch 300 --save-interval 300 --save-dir {save_dir} --user-dir {USER_DIR} \
            --restore-file {denoise_save_path} \
            --reset-optimizer \
            --reset-lr-scheduler \
@@ -924,7 +924,7 @@ def backtranslation(num_examples=1000, dropout=0.1):
            --lr 2e-3 --min-lr 1e-9 \
            --max-tokens 4000 \
            --update-freq 4 \
-           --max-epoch 500 --save-interval 100 --save-dir {save_dir} --user-dir {USER_DIR}"
+           --max-epoch 500 --save-interval 500 --save-dir {save_dir} --user-dir {USER_DIR}"
     subprocess.run(shlex.split(cmd))
 
     srcdict = Path(preprocess_dir) / 'dict.src.txt'
@@ -1002,7 +1002,7 @@ def backtranslation(num_examples=1000, dropout=0.1):
            --lr 2e-3 --min-lr 1e-9 \
            --max-tokens 4000 \
            --update-freq 4 \
-           --max-epoch 50 --save-interval 10 --save-dir {save_dir} --user-dir {USER_DIR}"
+           --max-epoch 50 --save-interval 50 --save-dir {save_dir} --user-dir {USER_DIR}"
     subprocess.run(shlex.split(cmd))
 
     # EVALUATE
@@ -1020,6 +1020,50 @@ def backtranslation(num_examples=1000, dropout=0.1):
                              gold=ds_test.tgt_path, gold_outputs=ds_test.data_dir / 'test.out')
     res['exp_id'] = exp_id
     stats.append(res)
+
+
+    # EVAL SECOND STEP
+    cleaned_pred_path = str(root / f'results/{exp_id}_cleaned.txt')
+    eval_dir = ds_train.data_dir / 'evaluate_2step_bt'
+    if eval_dir.exists():
+        shutil.rmtree(eval_dir)
+    eval_dir.mkdir(exist_ok=False)
+    eval_src_path = eval_dir / 'testp.src'
+    eval_tgt_path = eval_dir / 'testp.tgt'
+    shutil.copy(str(cleaned_pred_path), eval_src_path)
+    if not eval_tgt_path.exists():
+        shutil.copy(ds_test.tgt_path, eval_tgt_path)
+
+    # sentencepiece
+    paths = [eval_src_path, eval_tgt_path]
+    out_paths = encode(paths, ds_train.spm_model_prefix)
+
+    srcdict = ds_train.data_dir / f'dict.{src}.txt'
+
+    cmd = f'fairseq-preprocess --source-lang {src} --target-lang {tgt} \
+            --testpref {strip_ext(out_paths[0])} --destdir {eval_dir} \
+            --joined-dictionary --workers 2 --srcdict {srcdict}'
+    subprocess.run(shlex.split(cmd))
+
+    num_unlabeled = 20000
+    denoise_exp_id = f'denoise_synthetic_{ds_train.id}_numunlabeled{num_unlabeled}'
+    denoise_save_path = root / f'models/{denoise_exp_id}/checkpoint_best.pt'
+    results_path_2 = results_path.parent / f"{results_path.stem}_pi.txt"
+    # EVALUATE
+    cmd = f"fairseq-generate {eval_dir} \
+        --source-lang {src} --target-lang {tgt} \
+        --gen-subset test \
+        --path {denoise_save_path} \
+        --beam 1 \
+        --remove-bpe=sentencepiece --user-dir {USER_DIR}"
+    with open(results_path_2, 'w') as f:
+        subprocess.run(shlex.split(cmd), stdout=f)
+
+    res = evaluate_synthetic(pred=results_path_2, inputs=ds_test.inp_path,
+                             gold=ds_test.tgt_path, gold_outputs=ds_test.data_dir / 'test.out')
+    res['exp_id'] = exp_id + ' (bt + denoise)'
+    stats.append(res)
+
 
 
 def composed_with_bt(num_examples=1000, eval_only=False, dropout=0.1):
@@ -1083,7 +1127,7 @@ def composed_with_bt(num_examples=1000, eval_only=False, dropout=0.1):
                --lr 2e-5 --min-lr 1e-9 \
                --max-tokens 4000 \
                --update-freq 4 \
-               --max-epoch 50 --save-interval 1 --save-dir {save_dir} --user-dir {USER_DIR} \
+               --max-epoch 50 --save-interval 50 --save-dir {save_dir} --user-dir {USER_DIR} \
                --keep-best-checkpoints 1 \
                --pi-restore-path {denoise_save_path} \
                --f-restore-path {standard_save_path} \
@@ -1168,6 +1212,8 @@ if __name__ == "__main__":
     direct(num_examples=args.num_examples, dropout=args.dropout)
     print("################### DENOISER ###################")
     denoise(num_examples=args.num_examples, num_unlabeled=args.num_unlabeled, dropout=args.dropout)
+    print("################### COMPOSED ONLY ###################")
+    composed(num_examples=args.num_examples, pretrain_init=False, eval_only=args.eval_only, num_unlabeled=args.num_unlabeled, dropout=args.dropout)
     print("################### PRETRAINED ###################")
     pretrained(num_examples=args.num_examples, num_unlabeled=args.num_unlabeled, dropout=args.dropout)
     print("################### PRETRAINED + COMPOSED ###################")

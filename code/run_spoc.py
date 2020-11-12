@@ -734,7 +734,7 @@ def pretrain(train_all=False):
     evaluate_spoc_round2(std_cleaned_pred_path, denoise_save_path, eval_dir, encode_fn, srcdict, root, results_path_2, split='testw', exp_id=exp_id + " (pretrain + denoise)")
 
 
-def composed(train_all=False, use_f=False):
+def composed(train_all=False, use_f=True):
     root = Path(ROOT)
     ds_train = SPoC(root / 'data', split='train')
     ds_val = SPoC(root / 'data', split='val')
@@ -744,6 +744,9 @@ def composed(train_all=False, use_f=False):
     denoise_exp_id = 'denoise_spoc'
     std_exp_id = 'direct_spoc'
     pretrain_exp_id = 'pretrained_spoc'
+
+    if not use_f:
+        exp_id += '_nopretraininit'
 
     src = 'src'
     tgt = 'tgt'
@@ -830,12 +833,12 @@ def composed(train_all=False, use_f=False):
     eval_dir = ds_train.preprocess_dir / 'evaluate_2step_composed'
     results_path_classifier = Path(results_path).parent / (Path(results_path).stem  + '_pi_classifier.txt')
     denoise_classifier_save_path =  root / f'models/{denoise_exp_id}_classifier/checkpoint_best.pt'
-    evaluate_spoc_round2(cleaned_pred_path, denoise_classifier_save_path, eval_dir, encode_fn, srcdict, root, results_path_classifier, split='testp')
+    evaluate_spoc_round2(cleaned_pred_path, denoise_classifier_save_path, eval_dir, encode_fn, srcdict, root, results_path_classifier, split='testp', exp_id=None)
     evaluate_spoc_round2(cleaned_pred_path, denoise_save_path, eval_dir, encode_fn, srcdict, root, results_path_2, split='testp', exp_id=exp_id)
 
 
     evaluate_spoc(f'{save_dir}/checkpoint_best.pt', results_path, encode_fn, srcdict, root, split='testw', exp_id=exp_id + " (base_predictor)")
-    evaluate_spoc_round2(cleaned_pred_path, denoise_classifier_save_path, eval_dir, encode_fn, srcdict, root, results_path_classifier, split='testw')
+    evaluate_spoc_round2(cleaned_pred_path, denoise_classifier_save_path, eval_dir, encode_fn, srcdict, root, results_path_classifier, split='testw', exp_id=None)
     evaluate_spoc_round2(cleaned_pred_path, denoise_save_path, eval_dir, encode_fn, srcdict, root, results_path_2, split='testw', exp_id=exp_id)
 
 
@@ -1174,7 +1177,8 @@ if __name__ == '__main__':
     denoise(finetune_classifier=True)
     denoise(do_eval=True)
     pretrain()
-    composed()
+    composed(use_f=True)
+    composed(use_f=False)
     backtranslation_spoc(composed=False)
     backtranslation_spoc(composed=True)
 
