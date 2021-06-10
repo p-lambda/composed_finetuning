@@ -35,5 +35,7 @@ Each split contains 4 data files:
 - `{split}.inp` is the inputs file for the test case,
 - `{split}.out` is the outputs file for the correct output of the test case as outputted by the gold code in the `{split}.tgt` file.
 
+Running with different settings in the synthetic dataset will cause the code to generate new data.
+
 The SPoC training data contains SPoC training examples with less than 1000 characters.
 The SPoC unlabeled data contains corrupted code according to the corruption method in [this paper](https://arxiv.org/abs/2005.10636).
