@@ -1,6 +1,6 @@
 # Composed Fine-Tuning: Freezing Pre-Trained Denoising Autoencoders for Improved Generalization (ICML 2021)
 
-This repo provides the code accompanying the paper "Composed Fine-Tuning: Freezing Pre-Trained Denoising Autoencoders for Improved Generalization", which proposes composed fine-tuning for improving fine-tuning from pre-trained denoising autoencoders in prediction problems with high-dimensional outputs.
+This repo provides the code accompanying the [paper](https://arxiv.org/abs/2006.16205) "Composed Fine-Tuning: Freezing Pre-Trained Denoising Autoencoders for Improved Generalization", which proposes composed fine-tuning for improving fine-tuning from pre-trained denoising autoencoders in prediction problems with high-dimensional outputs.
 In this framework, we first use "unlabeled" output data, i.e. outputs without corresponding inputs that are often freely available, the learn a denoiser from perturbed, noisy outputs to valid outputs. We then train a predictor composed with this (fixed) denoiser, leveraging the output structure learned by the denoiser to improve generalization.
 Composed fine-tuning can leverage unlabeled output data to improve models especially in situations when there is only a small amount of labeled data available, and also improve OOD performance.
 
