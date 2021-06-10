@@ -151,3 +151,7 @@ code/logs
 code/results/*
 code/data/**/evaluate_2step*
 code/tmp*
+code/*save_root*
+code/slurm_logs
+code/result_tables
+code/*.tsv

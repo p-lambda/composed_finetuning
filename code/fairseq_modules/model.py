@@ -296,6 +296,86 @@ def base_architecture_cls(args):
     args.layernorm_embedding = getattr(args, "layernorm_embedding", False)
 
 
+class CustomEncoder(TransformerEncoder):
+    def __init__(self, args, dictionary, embed_tokens):
+        super().__init__(args, dictionary, embed_tokens)
+
+    def forward_embedding(self, src_tokens, token_embedding: Optional[torch.Tensor] = None):
+        # embed tokens and positions
+        if token_embedding is None:
+            token_embedding = self.embed_tokens(src_tokens)
+        x = embed = self.embed_scale * token_embedding
+        if self.embed_positions is not None:
+            x = embed + self.embed_positions(src_tokens)
+        if self.layernorm_embedding is not None:
+            x = self.layernorm_embedding(x)
+        x = F.dropout(x, p=self.dropout, training=self.training)
+        return x, embed
+
+    def forward(
+        self,
+        src_tokens,
+        src_lengths,
+        cls_input: Optional[Tensor] = None,
+        return_all_hiddens: bool = False,
+        token_embedding: Optional[Tensor] = None,
+    ):
+        """
+        Args:
+            src_tokens (LongTensor): tokens in the source language of shape
+                `(batch, src_len)`
+            src_lengths (torch.LongTensor): lengths of each source sentence of
+                shape `(batch)`
+            return_all_hiddens (bool, optional): also return all of the
+                intermediate hidden states (default: False).
+
+        Returns:
+            namedtuple:
+                - **encoder_out** (Tensor): the last encoder layer's output of
+                  shape `(src_len, batch, embed_dim)`
+                - **encoder_padding_mask** (ByteTensor): the positions of
+                  padding elements of shape `(batch, src_len)`
+                - **encoder_embedding** (Tensor): the (scaled) embedding lookup
+                  of shape `(batch, src_len, embed_dim)`
+                - **encoder_states** (List[Tensor]): all intermediate
+                  hidden states of shape `(src_len, batch, embed_dim)`.
+                  Only populated if *return_all_hiddens* is True.
+        """
+        if self.layer_wise_attention:
+            return_all_hiddens = True
+
+        x, encoder_embedding = self.forward_embedding(src_tokens, token_embedding)
+        # # B x T x C -> T x B x C
+        x = x.transpose(0, 1)
+        # compute padding mask
+        encoder_padding_mask = src_tokens.eq(self.padding_idx)
+
+        encoder_states = [] if return_all_hiddens else None
+
+        # encoder layers
+        for layer in self.layers:
+            # add LayerDrop (see https://arxiv.org/abs/1909.11556 for description)
+            dropout_probability = torch.empty(1).uniform_()
+            if not self.training or (dropout_probability > self.encoder_layerdrop):
+                x = layer(x, encoder_padding_mask)
+                if return_all_hiddens:
+                    assert encoder_states is not None
+                    encoder_states.append(x)
+
+        if self.layer_norm is not None:
+            x = self.layer_norm(x)
+            if return_all_hiddens and len(encoder_states) > 0:
+                encoder_states[-1] = x
+
+        return EncoderOut(
+            encoder_out=x,  # T x B x C
+            encoder_padding_mask=encoder_padding_mask,  # B x T
+            encoder_embedding=encoder_embedding,  # B x T x C
+            encoder_states=encoder_states,  # List[T x B x C]
+        )
+
+
+
 @register_model("double_transformer")
 class DoubleTransformer(TransformerModel):
 
@@ -410,7 +490,8 @@ class DoubleTransformer(TransformerModel):
                 args, tgt_dict, args.decoder_embed_dim_2, args.decoder_embed_path
                 )
 
-        encoder_2 = cls.build_encoder(args, tgt_dict, decoder_embed_tokens_2)
+        # encoder_2 = cls.build_encoder(args, tgt_dict, decoder_embed_tokens_2)
+        encoder_2 = CustomEncoder(args, tgt_dict, decoder_embed_tokens_2)
         decoder_2 = cls.build_decoder(args, tgt_dict, decoder_embed_tokens_2)
         pi_model = TransformerModel(args, encoder_2, decoder_2)
 
@@ -473,6 +554,36 @@ class DoubleTransformer(TransformerModel):
         else:
             return sample
 
+    def _get_sample_simple(self, src_tokens, src_lengths, prev_output_tokens, training=False, use_pi_model=False):
+        with torch.no_grad():
+            # this function implicitly sets the model to eval
+
+            # sample autoregressively from encdec, then plug back in to get lprobs
+            # of the sample
+            input_sample = {'net_input': {'src_tokens': src_tokens, 'src_lengths': src_lengths}}
+
+            generator_model = [self]
+            if use_pi_model:
+                generator_model = [self.pi_model]
+            sample = self.generator.generate(generator_model, input_sample)
+            sample_tokens = [s[0]['tokens'] for s in sample]
+            sample_tokens = pad_sequence(sample_tokens, batch_first=True, padding_value=self.padding_idx)
+            # CONVERT to prev
+            sample_tokens_prev = sample_tokens[sample_tokens != self.generator.eos].view(sample_tokens.shape[0], sample_tokens.shape[1] - 1)
+            sample_tokens_prev = torch.cat([self.generator.eos * torch.ones((sample_tokens_prev.shape[0], 1)).long().cuda(), sample_tokens_prev], dim=1)
+
+        sample_output = self(src_tokens, src_lengths, sample_tokens_prev, output_mode='first')
+        if training:
+            logits = sample_output[0]
+            # mask out the padding
+            padding_mask = (sample_tokens == self.padding_idx)
+            pad_onehot = torch.zeros(logits.shape[2]).cuda().float()
+            pad_onehot[self.padding_idx] = 1.0
+            logits[padding_mask] = pad_onehot
+            return sample, sample_tokens, logits
+        else:
+            return sample
+
     def forward(self,
                 src_tokens,
                 src_lengths,
@@ -482,7 +593,8 @@ class DoubleTransformer(TransformerModel):
                 features_only: bool = False,
                 alignment_layer: Optional[int] = None,
                 alignment_heads: Optional[int] = None,
-                output_mode : str = 'first',):
+                output_mode : str = 'first',
+                token_embedding: Optional[Tensor] = None):
         """
         Run the forward pass for an encoder-decoder model.
         Copied from the base class, but without ``**kwargs``,
@@ -494,6 +606,7 @@ class DoubleTransformer(TransformerModel):
                 src_lengths=src_lengths,
                 cls_input=cls_input,
                 return_all_hiddens=return_all_hiddens,
+                token_embedding=token_embedding,
             )
             decoder_out = self.decoder_2(
                 prev_output_tokens,
@@ -567,3 +680,175 @@ def base_architecture_double(args):
 
     args.no_scale_embedding = getattr(args, "no_scale_embedding", False)
     args.layernorm_embedding = getattr(args, "layernorm_embedding", False)
+
+
+@register_model("custom_transformer")
+class CustomTransformer(TransformerModel):
+
+    def __init__(self, args, encoder, decoder):
+        super().__init__(args, encoder, decoder)
+        self.encoder = encoder
+        self.decoder = decoder
+        self.force_first = False
+        self.padding_idx = self.encoder.padding_idx
+        self.train_all = args.train_all
+
+        self.args = args
+        self.supports_align_args = True
+
+    def trainable_params(self):
+        if self.train_all:
+            return self.parameters()
+        else:
+            return self.encoder.parameters()
+
+    @staticmethod
+    def add_args(parser):
+        """Add model-specific arguments to the parser."""
+        transformer_add_parser(parser)
+
+    @classmethod
+    def build_model(cls, args, task):
+        """Build a new model instance."""
+
+        # make sure all arguments are present in older models
+        base_architecture_custom(args)
+
+        if args.encoder_layers_to_keep:
+            args.encoder_layers = len(args.encoder_layers_to_keep.split(","))
+        if args.decoder_layers_to_keep:
+            args.decoder_layers = len(args.decoder_layers_to_keep.split(","))
+
+        if getattr(args, "max_source_positions", None) is None:
+            args.max_source_positions = DEFAULT_MAX_SOURCE_POSITIONS
+        if getattr(args, "max_target_positions", None) is None:
+            args.max_target_positions = DEFAULT_MAX_TARGET_POSITIONS
+
+        src_dict, tgt_dict = task.source_dictionary, task.target_dictionary
+        if args.add_mask_token:
+            src_dict.add_symbol('<mask>')
+            if len(tgt_dict.count) != len(src_dict.count):
+                tgt_dict.add_symbol('<mask>')
+
+        if args.share_all_embeddings:
+            if src_dict != tgt_dict:
+                raise ValueError("--share-all-embeddings requires a joined dictionary")
+            if args.encoder_embed_dim != args.decoder_embed_dim:
+                raise ValueError(
+                    "--share-all-embeddings requires --encoder-embed-dim to match --decoder-embed-dim"
+                )
+            if args.decoder_embed_path and (
+                args.decoder_embed_path != args.encoder_embed_path
+            ):
+                raise ValueError(
+                    "--share-all-embeddings not compatible with --decoder-embed-path"
+                )
+            encoder_embed_tokens = cls.build_embedding(
+                args, src_dict, args.encoder_embed_dim, args.encoder_embed_path
+            )
+            decoder_embed_tokens = encoder_embed_tokens
+            args.share_decoder_input_output_embed = True
+        else:
+            encoder_embed_tokens = cls.build_embedding(
+                args, src_dict, args.encoder_embed_dim, args.encoder_embed_path
+            )
+            decoder_embed_tokens = cls.build_embedding(
+                args, tgt_dict, args.decoder_embed_dim, args.decoder_embed_path
+            )
+
+        encoder = cls.build_encoder(args, src_dict, encoder_embed_tokens)
+        decoder = cls.build_decoder(args, tgt_dict, decoder_embed_tokens)
+
+        try:
+            if args.f_restore_path is not None:
+                # restore first part from checkpoint
+                checkpoint = torch.load(args.f_restore_path)
+                encoder_prefix = 'encoder.'
+                decoder_prefix = 'decoder.'
+                encoder_dict = {k[len(encoder_prefix):]: v for k, v in checkpoint['model'].items() if k.startswith(encoder_prefix)}
+                decoder_dict = {k[len(decoder_prefix):]: v for k, v in checkpoint['model'].items() if k.startswith(decoder_prefix)}
+                # remove the encdec parameters
+                encoder.load_state_dict(encoder_dict)
+                decoder.load_state_dict(decoder_dict)
+        except Exception:
+            raise ValueError(f"Wasn't able to load {args.f_restore_path}; Was it moved?")
+
+        return cls(args, encoder, decoder)
+
+    def forward(self,
+                src_tokens,
+                src_lengths,
+                prev_output_tokens,
+                cls_input: Optional[Tensor] = None,
+                return_all_hiddens: bool = True,
+                features_only: bool = False,
+                alignment_layer: Optional[int] = None,
+                alignment_heads: Optional[int] = None):
+        """
+        Run the forward pass for an encoder-decoder model.
+        Copied from the base class, but without ``**kwargs``,
+        which are not supported by TorchScript.
+        """
+        encoder_out = self.encoder(
+            src_tokens,
+            src_lengths=src_lengths,
+            cls_input=cls_input,
+            return_all_hiddens=return_all_hiddens,
+        )
+        decoder_out = self.decoder(
+            prev_output_tokens,
+            encoder_out=encoder_out,
+            features_only=features_only,
+            alignment_layer=alignment_layer,
+            alignment_heads=alignment_heads,
+            src_lengths=src_lengths,
+            return_all_hiddens=return_all_hiddens,
+        )
+
+        return decoder_out
+
+
+@register_model_architecture('custom_transformer', 'custom_transformer')
+def base_architecture_custom(args):
+    args.encoder_embed_path = getattr(args, "encoder_embed_path", None)
+    args.encoder_embed_dim = getattr(args, "encoder_embed_dim", 512)
+    args.encoder_ffn_embed_dim = getattr(args, "encoder_ffn_embed_dim", 2048)
+    args.encoder_layers = getattr(args, "encoder_layers", 6)
+    args.encoder_attention_heads = getattr(args, "encoder_attention_heads", 8)
+    args.encoder_normalize_before = getattr(args, "encoder_normalize_before", False)
+    args.encoder_learned_pos = getattr(args, "encoder_learned_pos", False)
+    args.decoder_embed_path = getattr(args, "decoder_embed_path", None)
+    args.decoder_embed_dim = getattr(args, "decoder_embed_dim", args.encoder_embed_dim)
+    args.decoder_ffn_embed_dim = getattr(
+        args, "decoder_ffn_embed_dim", args.encoder_ffn_embed_dim
+    )
+    args.decoder_layers = getattr(args, "decoder_layers", 6)
+    args.decoder_attention_heads = getattr(args, "decoder_attention_heads", 8)
+    args.decoder_normalize_before = getattr(args, "decoder_normalize_before", False)
+    args.decoder_learned_pos = getattr(args, "decoder_learned_pos", False)
+    args.attention_dropout = getattr(args, "attention_dropout", 0.0)
+    args.activation_dropout = getattr(args, "activation_dropout", 0.0)
+    args.activation_fn = getattr(args, "activation_fn", "relu")
+    args.dropout = getattr(args, "dropout", 0.1)
+    args.adaptive_softmax_cutoff = getattr(args, "adaptive_softmax_cutoff", None)
+    args.adaptive_softmax_dropout = getattr(args, "adaptive_softmax_dropout", 0)
+    args.share_decoder_input_output_embed = getattr(
+        args, "share_decoder_input_output_embed", False
+    )
+    args.share_all_embeddings = getattr(args, "share_all_embeddings", False)
+    args.no_token_positional_embeddings = getattr(
+        args, "no_token_positional_embeddings", False
+    )
+    args.adaptive_input = getattr(args, "adaptive_input", False)
+    args.no_cross_attention = getattr(args, "no_cross_attention", False)
+    args.cross_self_attention = getattr(args, "cross_self_attention", False)
+    args.layer_wise_attention = getattr(args, "layer_wise_attention", False)
+
+    args.decoder_output_dim = getattr(
+        args, "decoder_output_dim", args.decoder_embed_dim
+    )
+    args.decoder_input_dim = getattr(args, "decoder_input_dim", args.decoder_embed_dim)
+
+    args.no_scale_embedding = getattr(args, "no_scale_embedding", False)
+    args.layernorm_embedding = getattr(args, "layernorm_embedding", False)
+

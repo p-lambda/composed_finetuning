@@ -301,6 +301,9 @@ def direct():
 
     exp_id = 'direct_spoc'
 
+    if NUM_LAYERS != 5:
+        exp_id += f'_layers{NUM_LAYERS}'
+
     paths = [ds_train.src_path, ds_train.tgt_path]
     ds_train.train_spm(paths)
     out_paths = encode(paths, ds_train.spm_model_prefix)
@@ -333,8 +336,13 @@ def direct():
     warmup_init_lr = 1e-7
     lr = 1e-3
     label_smoothing = 0.2
-    max_epoch=100
-    params = " --encoder-layers 5 --decoder-layers 5 \
+
+    if NUM_LAYERS > 5:
+        max_epoch = 400
+    else:
+        max_epoch = 100
+
+    params = f" --encoder-layers {NUM_LAYERS} --decoder-layers {NUM_LAYERS} \
            --encoder-embed-dim 256 --decoder-embed-dim 256 \
            --encoder-ffn-embed-dim 1024 --decoder-ffn-embed-dim 1024 \
            --encoder-attention-heads 8 --decoder-attention-heads 8 "
@@ -414,6 +422,14 @@ def denoise(denoise_pre=False, use_denoise_pre=False, finetune_classifier=False,
     if finetune_classifier:
         exp_id += '_classifier'
 
+
+    if NUM_LAYERS != 5:
+        exp_id += f'_layers{NUM_LAYERS}'
+        std_exp_id += f'_layers{NUM_LAYERS}'
+        pre_exp_id += f'_layers{NUM_LAYERS}'
+        denoise_exp_id += f'_layers{NUM_LAYERS}'
+
+
     src = 'src'
     tgt = 'tgt'
     # train and encode spm
@@ -468,7 +484,7 @@ def denoise(denoise_pre=False, use_denoise_pre=False, finetune_classifier=False,
         max_epoch = 25
         save_interval = 5
 
-    params = "--encoder-layers 5 --decoder-layers 5 \
+    params = f"--encoder-layers {NUM_LAYERS} --decoder-layers {NUM_LAYERS} \
            --encoder-embed-dim 256 --decoder-embed-dim 256 \
            --encoder-ffn-embed-dim 1024 --decoder-ffn-embed-dim 1024 \
            --encoder-attention-heads 8 --decoder-attention-heads 8 "
@@ -590,6 +606,12 @@ def pretrain(train_all=False):
     denoise_exp_id = 'denoise_spoc'
     std_exp_id = 'direct_spoc'
 
+    if NUM_LAYERS != 5:
+        exp_id += f'_layers{NUM_LAYERS}'
+        std_exp_id += f'_layers{NUM_LAYERS}'
+        denoise_exp_id += f'_layers{NUM_LAYERS}'
+
+
     root = Path(ROOT)
     ds_train = SPoC(root / 'data', split='train')
     ds_val = SPoC(root / 'data', split='val')
@@ -633,7 +655,7 @@ def pretrain(train_all=False):
     max_epoch=100
 
     if not args.eval_only:
-        params = "--encoder-layers 5 --decoder-layers 5 \
+        params = f"--encoder-layers {NUM_LAYERS} --decoder-layers {NUM_LAYERS} \
                --encoder-embed-dim 256 --decoder-embed-dim 256 \
                --encoder-ffn-embed-dim 1024 --decoder-ffn-embed-dim 1024 \
                --encoder-attention-heads 8 --decoder-attention-heads 8 "
@@ -748,6 +770,12 @@ def composed(train_all=False, use_f=True):
     if not use_f:
         exp_id += '_nopretraininit'
 
+    if NUM_LAYERS != 5:
+        exp_id += f'_layers{NUM_LAYERS}'
+        std_exp_id += f'_layers{NUM_LAYERS}'
+        denoise_exp_id += f'_layers{NUM_LAYERS}'
+        pretrain_exp_id += f'_layers{NUM_LAYERS}'
+
     src = 'src'
     tgt = 'tgt'
     model = 'double_transformer'
@@ -782,7 +810,7 @@ def composed(train_all=False, use_f=True):
     subprocess.run(shlex.split(cmd))
 
     if not args.eval_only:
-        params = "--encoder-layers 5 --decoder-layers 5 \
+        params = f"--encoder-layers {NUM_LAYERS} --decoder-layers {NUM_LAYERS} \
                --encoder-embed-dim 256 --decoder-embed-dim 256 \
                --encoder-ffn-embed-dim 1024 --decoder-ffn-embed-dim 1024 \
                --encoder-attention-heads 8 --decoder-attention-heads 8 "
@@ -852,6 +880,9 @@ def backtranslation_spoc(composed=False):
 
     exp_id = 'backtranslation_spoc'
 
+    if NUM_LAYERS != 5:
+        exp_id += f'_layers{NUM_LAYERS}'
+
     # train and encode spm
     paths = [ds_train.src_path, ds_train.tgt_path]
     ds_train.train_spm(paths)
@@ -886,7 +917,7 @@ def backtranslation_spoc(composed=False):
             --destdir {preprocess_dir} \
             --joined-dictionary --workers 2 --srcdict {srcdict}'
     subprocess.run(shlex.split(cmd))
-    params = "--encoder-layers 5 --decoder-layers 5 \
+    params = f"--encoder-layers {NUM_LAYERS} --decoder-layers {NUM_LAYERS} \
            --encoder-embed-dim 256 --decoder-embed-dim 256 \
            --encoder-ffn-embed-dim 1024 --decoder-ffn-embed-dim 1024 \
            --encoder-attention-heads 8 --decoder-attention-heads 8 "
@@ -953,12 +984,15 @@ def backtranslation_spoc(composed=False):
     results_path = root / f'results/{exp_id}.txt'
     preprocess_dir = Path(str(ds_train.preprocess_dir) + '_forward')
     skip_generation = False
-    if not preprocess_dir.exists():
+    if preprocess_dir.exists():
         shutil.rmtree(str(preprocess_dir))
-        preprocess_dir.mkdir(exist_ok=False)
-    else:
-        skip_generation = True
-        print("Forward dataset already exists - skipping generation")
+    preprocess_dir.mkdir(exist_ok=False)
+    # if not preprocess_dir.exists():
+    #     shutil.rmtree(str(preprocess_dir))
+    #     preprocess_dir.mkdir(exist_ok=False)
+    # else:
+    #     skip_generation = True
+    #     print("Forward dataset already exists - skipping generation")
 
     # encode and preprocess the forward data
     pseudo_inputs_file = Path(parse_pred_file(reverse_results_path))
@@ -1035,14 +1069,16 @@ def backtranslation_spoc(composed=False):
     # finetune on labeled data
     if composed:
         vanilla_bt_save_dir = root / f'models/{exp_id}_finetune'
-        exp_id += '_composed'
+        finetune_exp_id = exp_id + '_composed'
         model = 'double_transformer'
         criterion = 'reinforce_criterion'
+    else:
+        finetune_exp_id = exp_id
 
     bt_checkpoint = save_dir / 'checkpoint_best.pt'
-    save_dir = root / f'models/{exp_id}_finetune'
-    results_path = root / f'results/{exp_id}_finetune.txt'
-    results_path_2 = root / f'results/{exp_id}_finetune_pi.txt'
+    save_dir = root / f'models/{finetune_exp_id}_finetune'
+    results_path = root / f'results/{finetune_exp_id}_finetune.txt'
+    results_path_2 = root / f'results/{finetune_exp_id}_finetune_pi.txt'
     if composed:
         cmd = f"fairseq-train \
                 {ds_train.preprocess_dir} \
@@ -1136,11 +1172,11 @@ def backtranslation_spoc(composed=False):
 
     # dict files
     if composed:
-        exp_id_before_denoise = exp_id + " (base predictor)"
-        exp_id_after_denoise = exp_id
+        exp_id_before_denoise = finetune_exp_id + " (base predictor)"
+        exp_id_after_denoise = finetune_exp_id
     else:
-        exp_id_before_denoise = exp_id
-        exp_id_after_denoise = exp_id + " (bt + denoise)"
+        exp_id_before_denoise = finetune_exp_id
+        exp_id_after_denoise = finetune_exp_id + " (bt + denoise)"
 
     evaluate_spoc(f'{save_dir}/checkpoint_best.pt', results_path, encode_fn, srcdict, root, split='testp', exp_id=exp_id_before_denoise)
     # with pi
@@ -1165,9 +1201,14 @@ def backtranslation_spoc(composed=False):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Run scripts')
+    parser.add_argument('--num_layers', type=int, default=5,
+                        help='number of layers')
     parser.add_argument('--eval_only', action='store_true', default=False,
                         help='only evaluate')
     args = parser.parse_args()
+
+
+    NUM_LAYERS = args.num_layers
 
     stats = []
 
@@ -1184,5 +1225,5 @@ if __name__ == '__main__':
 
     res = pd.DataFrame(stats)
     res = res.round(4)
-    res.to_csv('spoc_results.tsv', sep='\t', index=None)
+    res.to_csv(f'spoc_results_layers{NUM_LAYERS}.tsv', sep='\t', index=None)
     print(res)
