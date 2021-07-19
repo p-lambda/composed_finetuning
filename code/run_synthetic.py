@@ -798,8 +798,6 @@ def composed(num_examples=1000, pretrain_init=False, eval_only=False, num_unlabe
         exp_id += f'_lambda{args.ce_loss_lambda}'
     if args.no_init:
         exp_id += '_noinit'
-    if args.composed_mode == 'straightthrough':
-        exp_id += '_straightthrough'
 
     if args.denoise_random:
         exp_id += 'denoise_random'
@@ -833,10 +831,7 @@ def composed(num_examples=1000, pretrain_init=False, eval_only=False, num_unlabe
     src = 'src'
     tgt = 'tgt'
     model = 'double_transformer'
-    if args.composed_mode == 'reinforce':
-        criterion = 'reinforce_criterion'
-    elif args.composed_mode == 'straightthrough':
-        criterion = 'straightthrough_criterion'
+    criterion = 'reinforce_criterion'
 
     save_dir = save_root / f'models/{exp_id}'
     results_path = save_root / f'results/{exp_id}.txt'
@@ -848,10 +843,7 @@ def composed(num_examples=1000, pretrain_init=False, eval_only=False, num_unlabe
     weight_decay = 0.0001
     ce_loss_lambda = args.ce_loss_lambda
 
-    if args.composed_mode == 'reinforce':
-        lr = 2e-4
-    elif args.composed_mode == 'straightthrough':
-        lr = 2e-4
+    lr = 2e-4
 
     if not eval_only:
         cmd = f"fairseq-train \
@@ -889,10 +881,7 @@ def composed(num_examples=1000, pretrain_init=False, eval_only=False, num_unlabe
                --label-smoothing 0.0 --sampling "
         if not args.no_init:
             cmd += f" --f-restore-path {standard_save_path} "
-        if args.composed_mode == 'reinforce':
-            cmd += " --best-checkpoint-metric loss_2 "
-        elif args.composed_mode == 'straightthrough':
-            cmd += " --best-checkpoint-metric loss "
+        cmd += " --best-checkpoint-metric loss_2 "
         subprocess.run(shlex.split(cmd))
 
     # note: composed returns a model where the forward defaults to the base predictor only
@@ -1188,8 +1177,6 @@ def composed_with_bt(num_examples=1000, eval_only=False, dropout=0.1):
         exp_id += f'_lambda{args.ce_loss_lambda}'
     if args.no_init:
         exp_id += '_noinit'
-    if args.composed_mode == 'straightthrough':
-        exp_id += '_straightthrough'
     num_unlabeled = 20000
     denoise_exp_id = f'denoise_synthetic_{ds_train.id}_numunlabeled{num_unlabeled}'
     std_exp_id = f'backtranslation_synthetic_{ds_train.id}_dropout{dropout}'
@@ -1207,10 +1194,7 @@ def composed_with_bt(num_examples=1000, eval_only=False, dropout=0.1):
     src = 'src'
     tgt = 'tgt'
     model = 'double_transformer'
-    if args.composed_mode == 'reinforce':
-        criterion = 'reinforce_criterion'
-    elif args.composed_mode == 'straightthrough':
-        criterion = 'straightthrough_criterion'
+    criterion = 'reinforce_criterion'
     save_dir = save_root / f'models/{exp_id}'
     results_path = save_root / f'results/{exp_id}.txt'
     results_path_2 = save_root / f'results/{exp_id}_pi.txt'
@@ -1259,10 +1243,7 @@ def composed_with_bt(num_examples=1000, eval_only=False, dropout=0.1):
                --label-smoothing 0.0 --sampling "
         if not args.no_init:
             cmd += f" --f-restore-path {standard_save_path} "
-        if args.composed_mode == 'reinforce':
-            cmd += " --best-checkpoint-metric loss_2 "
-        elif args.composed_mode == 'straightthrough':
-            cmd += " --best-checkpoint-metric loss "
+        cmd += " --best-checkpoint-metric loss_2 "
 
         subprocess.run(shlex.split(cmd))
 
@@ -1291,8 +1272,6 @@ if __name__ == "__main__":
     parser.add_argument('--denoise_random', action='store_true', help='random deletions for noise')
     parser.add_argument('--save_root', type=str,
                         help='where to save inside root', default='.')
-    parser.add_argument('--composed_mode', type=str,
-                        help='type of composed algo to run', default='reinforce')
     args = parser.parse_args()
 
     save_root = Path(ROOT) / Path(args.save_root)
@@ -1348,8 +1327,5 @@ if __name__ == "__main__":
     res = res[cols]
     res = res.round(4)
     Path(save_root / 'result_tables').mkdir(exist_ok=True)
-    if args.composed_mode == 'reinforce':
-        res.to_csv(save_root / f'result_tables/synthetic_results_{NUM_LAYERS}_{args.mode}_nexamples{args.num_examples}_nunlabeled{args.num_unlabeled}.tsv', sep='\t', index=None)
-    elif args.composed_mode == 'straightthrough':
-        res.to_csv(save_root / f'result_tables/synthetic_results_{NUM_LAYERS}_{args.mode}_straightthrough_nexamples{args.num_examples}_nunlabeled{args.num_unlabeled}.tsv', sep='\t', index=None)
+    res.to_csv(save_root / f'result_tables/synthetic_results_{NUM_LAYERS}_{args.mode}_nexamples{args.num_examples}_nunlabeled{args.num_unlabeled}.tsv', sep='\t', index=None)
     print(res)
