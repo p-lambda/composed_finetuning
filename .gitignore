@@ -155,3 +155,4 @@ code/*save_root*
 code/slurm_logs
 code/result_tables
 code/*.tsv
+*.zip
