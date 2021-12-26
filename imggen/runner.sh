@@ -3,11 +3,11 @@ set -x
 
 #### main results
 
-# baseline (Direct) results
-python run_direct.py --n_epochs 1000
-
 # Composed model
 python run_composed.py --n_epochs 1000 --dropout_prob 0.1 --n_epochs_pi 2 --weight_decay 0.0001
+
+# baseline (Direct) results
+python run_direct.py --n_epochs 1000
 
 
 #### Ablations
