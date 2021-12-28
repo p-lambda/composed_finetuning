@@ -1107,9 +1107,7 @@ def backtranslation(num_examples=1000, dropout=0.1, forward_only=True):
         preprocess_dir += f'_{NUM_LAYERS}'
     preprocess_dir = Path(preprocess_dir)
     if not args.eval_only or not forward_only:
-        if preprocess_dir.exists():
-            shutil.rmtree(preprocess_dir, ignore_errors=True)
-        preprocess_dir.mkdir(exist_ok=False)
+        preprocess_dir.mkdir(exist_ok=True)
 
         # encode and preprocess the forward data
         pseudo_inputs_file = Path(parse_pred_file(reverse_results_path))

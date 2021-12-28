@@ -253,7 +253,7 @@ from unet import GeneratorUNet
 pi_model = GeneratorUNet(in_channels=1, out_channels=1)
 if cuda:
     pi_model.cuda()
-checkpoint_fpath = 'models/composed_diff/pi_checkpoint.pt'
+checkpoint_fpath = 'models/composed_diff_dropout0.1/pi_checkpoint.pt'
 checkpoint = torch.load(checkpoint_fpath)
 print(f"Loading {checkpoint_fpath}")
 pi_model.load_state_dict(checkpoint['state_dict'])
